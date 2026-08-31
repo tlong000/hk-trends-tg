@@ -1,9 +1,11 @@
 {
-  "pushed": {},
+  "pushed": {
+    "阿斯頓維拉對兵工廠": "2026-08-31T19:17:47.602852+00:00"
+  },
   "paused": false,
   "tg_offset": 0,
   "pushed_date": "2026-09-01",
-  "pushed_today": 0,
-  "last_run": "2026-08-31T17:56:38.164009+00:00",
+  "pushed_today": 1,
+  "last_run": "2026-08-31T19:17:48.603334+00:00",
   "last_result": "ok"
 }
