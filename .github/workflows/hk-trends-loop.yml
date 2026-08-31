@@ -1,0 +1,62 @@
+name: hk-trends-tg loop
+
+# 「100% 準時」策略：唔靠 GitHub cron 每 10 分鐘準時觸發（佢成日延遲／跳過），
+# 改為每幾個鐘開一個長命 job，job 內部自己 while-loop 每 10 分鐘跑一次。
+# schedule 只係做 backstop：就算 GitHub 遲成個鐘先觸發，上一個長 job 都仲 loop 緊。
+# cancel-in-progress: true → 新一輪一啟動就頂走舊嗰個，無縫交接、唔會重疊雙推。
+
+on:
+  schedule:
+    - cron: "3 */3 * * *"   # 每 3 個鐘（分鐘 3 避開 :00 高峰）
+  workflow_dispatch: {}
+
+concurrency:
+  group: hk-trends-loop
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350     # 安全上限；正常跑到下面 LOOP_SECONDS 就自己收工
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Loop every 10 min
+        env:
+          MODEL_API: openai
+          MODEL_BASE_URL: https://api.zetaapi.ai
+          MODEL_NAME: gpt-5.6-luna
+          MODEL_API_KEY: ${{ secrets.MODEL_API_KEY }}
+          MODEL_TIMEOUT: "60"
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          TG_ADMIN_CHAT_ID: ${{ secrets.TG_ADMIN_CHAT_ID }}
+          TRENDS_HOURS: "6"
+          MIN_TRAFFIC: "500"
+          MAX_PUSH_PER_RUN: "5"
+          NEXT_RUN_MINUTES: "10"
+          INTERVAL_SECONDS: "600"     # 每次之間隔幾耐
+          LOOP_SECONDS: "19800"       # 一個 job 最多 loop 幾耐（5.5 鐘）→ 之後等下一輪 schedule
+        run: |
+          git config user.name  "hk-trends-bot"
+          git config user.email "actions@users.noreply.github.com"
+          end=$((SECONDS + LOOP_SECONDS))
+          i=0
+          while [ "$SECONDS" -lt "$end" ]; do
+            i=$((i + 1))
+            echo "::group::iteration $i — $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+            python3 trends_tg_bot.py || echo "(iteration $i 非零退出，繼續 loop)"
+            if ! git diff --quiet -- state.json; then
+              git add state.json
+              git commit -q -m "chore: state [skip ci]"
+              git pull -q --rebase --autostash origin main || true
+              git push -q || echo "(push 失敗，下一輪再試)"
+            fi
+            echo "::endgroup::"
+            # 最後一圈唔使再 sleep
+            if [ "$SECONDS" -lt "$end" ]; then sleep "$INTERVAL_SECONDS"; fi
+          done
+          echo "本輪 loop 完成（$i 次），等下一個 schedule 接力。"

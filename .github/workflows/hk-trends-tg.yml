@@ -1,11 +1,9 @@
-name: hk-trends-tg
+name: hk-trends-tg (manual run-now)
 
+# 排程交畀 hk-trends-loop.yml（長命 job 自己每 10 分鐘 loop，唔靠 GitHub cron 準時）。
+# 呢個 workflow 淨係留畀你喺 Actions 頁面撳「Run workflow」即刻檢查一次。
 on:
-  schedule:
-    # 每 10 分鐘。GitHub 最密只支援 5 分鐘，而且繁忙時會延遲甚至跳過一次。
-    # Trending 資料實際 10–40 分鐘先變一格。想慳啲改 '*/15'，想密啲 '*/5'。
-    - cron: "*/10 * * * *"
-  workflow_dispatch: {}   # Actions 頁面「Run workflow」= 即刻檢查一次
+  workflow_dispatch: {}
 
 # 同一時間只准一個 run，唔好 cancel 緊跑嗰個（保護 state.json 寫入）
 concurrency:
