@@ -560,43 +560,52 @@ def drain_commands(state: dict) -> None:
     max_uid = offset - 1
     for u in updates:
         max_uid = max(max_uid, int(u.get("update_id", max_uid)))
-        msg = u.get("message") or {}
-        cq = u.get("callback_query") or {}
-        if msg:
-            chat_id = str((msg.get("chat") or {}).get("id", ""))
-            if chat_id not in allowed:
-                continue
-            cmd = (msg.get("text") or "").strip().split()[0].split("@")[0].lower()
-            if cmd == "/pause":
-                state["paused"] = True
-                _reply(chat_id, "⏸ 已暫停。之後嘅檢查唔會推送，直到 /resume 或㩒「▶️ 開」。")
-            elif cmd == "/resume":
-                state["paused"] = False
-                _reply(chat_id, "▶️ 已恢復，下次排程會照常檢查同推送。")
-            elif cmd == "/status":
-                _reply(chat_id, _plain(status_text(state)))
-            elif cmd == "/runnow":
-                _reply(chat_id, "✅ 收到，今次已經即刻檢查緊；如果啱啱先跑完，等下一個排程。")
-        elif cq:
-            frm = str((cq.get("message") or {}).get("chat", {}).get("id", ""))
-            data = (cq.get("data") or "")
-            if frm not in allowed:
-                tg_api("answerCallbackQuery", {"callback_query_id": cq.get("id")})
-                continue
-            if data == "hb:pause":
-                state["paused"] = True
-                ack = "已暫停"
-            elif data == "hb:resume":
-                state["paused"] = False
-                ack = "已恢復"
-            elif data == "hb:runnow":
-                ack = "今次已經即刻檢查緊"
-            else:
-                ack = ""
-            tg_api("answerCallbackQuery", {"callback_query_id": cq.get("id"),
-                                           "text": ack})
+        try:
+            _handle_update(u, state, allowed)
+        except Exception as e:  # 一個爛 update 唔可以停成個 run
+            log("處理 update 出錯（略過）：", e)
     if updates:
         state["tg_offset"] = max_uid + 1
+
+
+def _handle_update(u: dict, state: dict, allowed: set) -> None:
+    msg = u.get("message") or {}
+    cq = u.get("callback_query") or {}
+    if msg:
+        chat_id = str((msg.get("chat") or {}).get("id", ""))
+        if chat_id not in allowed:
+            return
+        parts = (msg.get("text") or "").strip().split()
+        if not parts:            # 相片／貼圖／入群通知等冇文字嘅訊息
+            return
+        cmd = parts[0].split("@")[0].lower()
+        if cmd == "/pause":
+            state["paused"] = True
+            _reply(chat_id, "⏸ 已暫停。之後嘅檢查唔會推送，直到 /resume 或㩒「▶️ 開」。")
+        elif cmd == "/resume":
+            state["paused"] = False
+            _reply(chat_id, "▶️ 已恢復，下次排程會照常檢查同推送。")
+        elif cmd == "/status":
+            _reply(chat_id, _plain(status_text(state)))
+        elif cmd == "/runnow":
+            _reply(chat_id, "✅ 收到，今次已經即刻檢查緊；如果啱啱先跑完，等下一個排程。")
+    elif cq:
+        frm = str((cq.get("message") or {}).get("chat", {}).get("id", ""))
+        data = cq.get("data") or ""
+        if frm not in allowed:
+            tg_api("answerCallbackQuery", {"callback_query_id": cq.get("id")})
+            return
+        if data == "hb:pause":
+            state["paused"] = True
+            ack = "已暫停"
+        elif data == "hb:resume":
+            state["paused"] = False
+            ack = "已恢復"
+        elif data == "hb:runnow":
+            ack = "今次已經即刻檢查緊"
+        else:
+            ack = ""
+        tg_api("answerCallbackQuery", {"callback_query_id": cq.get("id"), "text": ack})
 
 
 def _plain(html_text: str) -> str:
