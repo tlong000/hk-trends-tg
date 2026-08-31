@@ -1,0 +1,49 @@
+香港 Google Trends 熱搜 → 模型解讀 → Telegram 推送
+========================================================
+
+★ 唔想 24/7 開電腦？→ 睇 SETUP-cloud.md（GitHub Actions 免費跑，
+  雲端 LLM，客戶喺 Telegram 睇心跳 + ⏸/▶️ 一鍵開關）。下面係本地版。
+
+成個資料夾放去「有本地模型嗰部電腦」，然後：
+
+┌─ Windows（+ LM Studio）────────────────────────────┐
+│ 1. 裝 Python 3（python.org，剔 Add to PATH）        │
+│ 2. LM Studio: Developer → Server → Start(1234)；    │
+│    載入模型時 Context Length 設 8192                 │
+│ 3. 雙擊  install.bat                                 │
+│    （SmartScreen 攔 → 其他資訊 → 仍要執行）          │
+│ 4. 跟畫面：貼 bot token → 喺群組發一句嘢 → Enter     │
+│ 詳情睇  SETUP-win.md                                 │
+└────────────────────────────────────────────────────┘
+
+┌─ macOS（+ LM Studio / Ollama）─────────────────────┐
+│ 1. LM Studio 同上（或開 Ollama）                    │
+│ 2. 雙擊  install.command                             │
+│    （第一次：右 click → 打開 → 打開）                │
+│ 3. 跟畫面：貼 bot token → 喺群組發一句嘢 → Enter     │
+│ 詳情睇  SETUP-slim.md                                │
+└────────────────────────────────────────────────────┘
+
+你要準備：
+  • Telegram bot token（BotFather 嗰串）
+  • 個 bot 已經加咗入你目標群組
+
+精靈會自動搞掂：偵測模型、驗 token、搵群組 chat id、寫 .env、
+測試、（問你）開「每 2 分鐘自動跑」排程。
+
+──────────────────────────────────────
+檔案清單
+  install.bat / install.ps1     Windows 一鍵安裝
+  install.command               macOS 一鍵安裝
+  SETUP-win.md                  Windows 步驟 / 除錯
+  SETUP-slim.md                 macOS 步驟（精簡）
+  SETUP.md                      完整版（連程式碼備份，檔大，唔好成份餵本地模型）
+  README.md                     運作原理 / 調參 / 已知限制
+  trends_tg_bot.py              主程式（零第三方套件，Python 3.8+，自己讀同資料夾 .env）
+  analysis_prompt.md            俾本地模型嘅提示（改語氣改呢個）
+  config.example.env            設定樣本（精靈會自動生成 .env）
+  run.sh / run.bat              執行一次（排程器用）
+  run_hidden.vbs                Windows：靜默啟動，唔彈黑框
+  com.user.hk-trends-tg.plist   macOS launchd 排程設定
+
+安全：.env 同 state.json 唔好入 git（已有 .gitignore）。

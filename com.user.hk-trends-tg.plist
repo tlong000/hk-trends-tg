@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.hk-trends-tg</string>
+
+    <!-- 改成第二部電腦上面 run.sh 嘅真實絕對路徑 -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/YOURNAME/hk-trends-tg/run.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/YOURNAME/hk-trends-tg</string>
+
+    <!-- 每 120 秒（2 分鐘）跑一次；開機／載入時亦即跑一次。
+         注意：Google Trending 資料實際上唔會每 2 分鐘變；頻繁 poll 對一個
+         無官方文件嘅內部介面有被限流（HTTP 429）／封 IP 風險。
+         建議值 300（5 分鐘）；如遇 429 就調返大。 -->
+    <key>StartInterval</key>
+    <integer>120</integer>
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/YOURNAME/hk-trends-tg/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/YOURNAME/hk-trends-tg/launchd.err.log</string>
+
+    <key>ProcessType</key>
+    <string>Background</string>
+</dict>
+</plist>

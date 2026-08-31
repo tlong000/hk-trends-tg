@@ -1,0 +1,8 @@
+.env
+state.json.tmp
+*.log
+# 注意：雲端（GitHub Actions）部署會 commit state.json 返 repo 做去重持久層，
+# 所以 state.json 冇 ignore。本機 launchd 部署想唔入 git 就自己加返一行。
+
+# macOS
+.DS_Store
