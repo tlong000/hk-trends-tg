@@ -523,6 +523,7 @@ def write_heartbeat(state: dict, result: str = "ok") -> None:
     if r.get("ok"):
         state["heartbeat_message_id"] = r["result"]["message_id"]
         state["heartbeat_chat_id"] = TG_ADMIN_CHAT_ID
+        save_state(state)  # 即刻落盤，否則下次 run 又會新開一條（洗版）
         tg_api("pinChatMessage", {
             "chat_id": TG_ADMIN_CHAT_ID,
             "message_id": r["result"]["message_id"],
