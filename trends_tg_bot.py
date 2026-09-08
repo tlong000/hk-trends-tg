@@ -477,6 +477,16 @@ def tg_api(method: str, payload: dict, timeout: float | None = None) -> dict:
     url = f"https://api.telegram.org/bot{TG_BOT_TOKEN}/{method}"
     try:
         return http_post_json(url, payload, timeout or TG_TIMEOUT)
+    except urllib.error.HTTPError as e:
+        # Telegram 4xx 嘅真正原因喺 response body 嗰個 description 入面
+        # （例如 "chat not found"、"bot was blocked by the user"）。
+        # 唔讀 body 就只剩 "HTTP Error 400: Bad Request"，等於冇講過原因。
+        detail = ""
+        try:
+            detail = json.loads(e.read().decode("utf-8", "replace")).get("description", "")
+        except (ValueError, OSError, AttributeError):
+            pass
+        return {"ok": False, "description": f"HTTP {e.code}" + (f"：{detail}" if detail else "")}
     except (urllib.error.URLError, TimeoutError, ValueError, json.JSONDecodeError) as e:
         return {"ok": False, "description": f"{type(e).__name__}: {e}"}
 
