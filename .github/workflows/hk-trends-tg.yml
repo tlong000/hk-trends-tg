@@ -77,7 +77,7 @@ jobs:
           TRENDS_HOURS: "6"
           MIN_TRAFFIC: "10000"
           MAX_PUSH_PER_RUN: "3"
-          MAX_CHARS: "130"
+          MAX_CHARS: "200"
           LOCAL_TZ: America/New_York
           NEWS_HL: en-US
           NEWS_GL: US

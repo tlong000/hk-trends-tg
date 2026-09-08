@@ -128,7 +128,7 @@ Repo → **Actions** tab → 見到 `trends-tg loop (HK + US)` 同 `trends-tg (m
 | `TRENDS_HOURS` | 6 | 6 | 過去 N 小時窗口 |
 | `MIN_TRAFFIC` | 500 | 10000 | 搜尋量桶門檻 |
 | `MAX_PUSH_PER_RUN` | 5 | 3 | 每次最多推幾多條 |
-| `MAX_CHARS` | 100 | 130 | 解讀字數硬上限（超出斬走） |
+| `MAX_CHARS` | 100 | 200 | 解讀字數上限（超出會斬喺最後一個句號，收唔到尾先加「…」）|
 | `INTERVAL_SECONDS` | 600 | 600 | 兩圈之間隔幾耐（兩個地區共用） |
 | `NEXT_RUN_MINUTES` | 10 | 10 | 心跳「下次約」顯示用，跟上面填 |
 | `LOCAL_TZ` | Asia/Hong_Kong | America/New_York | 「今日已推」日界 + 心跳時間 |

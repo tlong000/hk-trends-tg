@@ -461,9 +461,15 @@ def tidy_interpretation(text: str) -> str:
     for lead in ("解讀：", "解讀:", "摘要：", "摘要:"):
         if t.startswith(lead):
             t = t[len(lead):].strip()
-    if len(t) > MAX_CHARS:
-        t = t[: MAX_CHARS - 1].rstrip() + "…"
-    return t
+    if len(t) <= MAX_CHARS:
+        return t
+    # 超長：斬喺上限之前最後一個句末標點，令佢完整收尾，唔好斬到句子中間。
+    # 如果咁樣會失去一半以上內容（例如成段得一個句號喺開頭），就退回硬斬 + 省略號。
+    head = t[:MAX_CHARS]
+    cut = max(head.rfind(c) for c in "。！？!?")
+    if cut >= MAX_CHARS // 2:
+        return head[: cut + 1]
+    return head[: MAX_CHARS - 1].rstrip() + "…"
 
 
 # ---------------------------------------------------------------------------
