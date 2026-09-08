@@ -11,6 +11,18 @@ on:
         required: true
         default: both
         options: [both, HK, US]
+      hours:
+        description: "時間窗（小時）。留空＝用預設 6。補推舊嘢就填 12 或 24"
+        required: false
+        default: ""
+      min_traffic:
+        description: "搜尋量門檻。留空＝用預設（HK 500 / US 10000）"
+        required: false
+        default: ""
+      max_push:
+        description: "今次最多推幾多條。留空＝用預設（HK 5 / US 3）"
+        required: false
+        default: ""
 
 # 同一時間只准一個 run，唔好 cancel 緊跑嗰個（保護 state 檔寫入）
 concurrency:
@@ -44,7 +56,16 @@ jobs:
           TRENDS_HOURS: "6"
           MIN_TRAFFIC: "500"
           MAX_PUSH_PER_RUN: "5"
-        run: python3 trends_tg_bot.py
+          # 手動觸發時填咗就覆寫上面三個（補推用）
+          IN_HOURS: ${{ inputs.hours }}
+          IN_MIN_TRAFFIC: ${{ inputs.min_traffic }}
+          IN_MAX_PUSH: ${{ inputs.max_push }}
+        run: |
+          [ -n "$IN_HOURS" ]       && export TRENDS_HOURS="$IN_HOURS"
+          [ -n "$IN_MIN_TRAFFIC" ] && export MIN_TRAFFIC="$IN_MIN_TRAFFIC"
+          [ -n "$IN_MAX_PUSH" ]    && export MAX_PUSH_PER_RUN="$IN_MAX_PUSH"
+          echo "HK：窗 ${TRENDS_HOURS}h / 門檻 ${MIN_TRAFFIC} / 上限 ${MAX_PUSH_PER_RUN}"
+          python3 trends_tg_bot.py
 
       - name: Run bot (US)
         if: inputs.geo == 'both' || inputs.geo == 'US'
@@ -66,6 +87,10 @@ jobs:
           BRAND_TAG: 歐美熱搜
           PROMPT_FILE: analysis_prompt_us.md
           STATE_FILE: state_us.json
+          # 手動觸發時填咗就覆寫上面三個（補推用）
+          IN_HOURS: ${{ inputs.hours }}
+          IN_MIN_TRAFFIC: ${{ inputs.min_traffic }}
+          IN_MAX_PUSH: ${{ inputs.max_push }}
         run: |
           # 有獨立 bot 就開返指令；共用 token 就一定要關，唔係兩邊互搶 getUpdates。
           if [ -n "$US_TG_BOT_TOKEN" ]; then
@@ -73,6 +98,10 @@ jobs:
           else
             export TG_CONTROLS=0
           fi
+          [ -n "$IN_HOURS" ]       && export TRENDS_HOURS="$IN_HOURS"
+          [ -n "$IN_MIN_TRAFFIC" ] && export MIN_TRAFFIC="$IN_MIN_TRAFFIC"
+          [ -n "$IN_MAX_PUSH" ]    && export MAX_PUSH_PER_RUN="$IN_MAX_PUSH"
+          echo "US：窗 ${TRENDS_HOURS}h / 門檻 ${MIN_TRAFFIC} / 上限 ${MAX_PUSH_PER_RUN}"
           python3 trends_tg_bot.py
 
       - name: Persist state files
