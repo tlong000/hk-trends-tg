@@ -73,12 +73,15 @@
     "astros vs phillies": "2026-09-08T22:17:39.909886+00:00",
     "pentagon polygraph screening military officials": "2026-09-08T22:18:33.569807+00:00",
     "navier stokes problem": "2026-09-08T22:39:11.189746+00:00",
-    "miss austria": "2026-09-08T22:39:30.601203+00:00"
+    "miss austria": "2026-09-08T22:39:30.601203+00:00",
+    "rockies vs yankees": "2026-09-08T22:49:57.533298+00:00",
+    "guardians vs orioles": "2026-09-08T22:50:17.027221+00:00",
+    "angels vs red sox": "2026-09-08T22:50:43.930975+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-08",
-  "pushed_today": 74,
-  "last_run": "2026-09-08T22:39:31.601886+00:00",
+  "pushed_today": 77,
+  "last_run": "2026-09-08T22:50:44.931650+00:00",
   "last_result": "ok",
   "tg_offset": 241829769
 }
