@@ -1,9 +1,17 @@
-name: hk-trends-tg loop
+name: trends-tg loop (HK + US)
 
 # 「100% 準時」策略：唔靠 GitHub cron 每 10 分鐘準時觸發（佢成日延遲／跳過），
 # 改為每幾個鐘開一個長命 job，job 內部自己 while-loop 每 10 分鐘跑一次。
 # schedule 只係做 backstop：就算 GitHub 遲成個鐘先觸發，上一個長 job 都仲 loop 緊。
 # cancel-in-progress: true → 新一輪一啟動就頂走舊嗰個，無縫交接、唔會重疊雙推。
+#
+# 每一圈順序跑兩個地區（共用同一個 runner，慳一半 Actions 時間）：
+#   1. HK → state.json      → 推去 TG_CHAT_ID
+#   2. US → state_us.json   → 推去 TG_CHAT_ID_US
+# Bot token：
+#   有填 secret TG_BOT_TOKEN_US → US 用自己嗰個 bot，指令／按鈕齊全，兩邊完全獨立。
+#   冇填                        → US 沿用共用 token，但一定要 TG_CONTROLS=0，
+#                                 否則兩個 instance 會互相搶對方嘅 getUpdates 指令。
 
 on:
   schedule:
@@ -26,31 +34,71 @@ jobs:
 
       - name: Loop every 10 min
         env:
+          # ---- 兩邊共用 ----
           MODEL_API: openai
           MODEL_BASE_URL: https://api.zetaapi.ai
           MODEL_NAME: gpt-5.6-luna
           MODEL_API_KEY: ${{ secrets.MODEL_API_KEY }}
           MODEL_TIMEOUT: "60"
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           TG_ADMIN_CHAT_ID: ${{ secrets.TG_ADMIN_CHAT_ID }}
+          NEXT_RUN_MINUTES: "10"
+
+          # ---- 香港（沿用原本設定，一個字都冇改）----
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           TRENDS_HOURS: "6"
           MIN_TRAFFIC: "500"
           MAX_PUSH_PER_RUN: "5"
-          NEXT_RUN_MINUTES: "10"
-          INTERVAL_SECONDS: "600"     # 每次之間隔幾耐
+
+          # ---- 美國 ----
+          US_TG_CHAT_ID: ${{ secrets.TG_CHAT_ID_US }}
+          US_TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN_US }}
+
+          INTERVAL_SECONDS: "600"     # 每一圈之間隔幾耐
           LOOP_SECONDS: "19800"       # 一個 job 最多 loop 幾耐（5.5 鐘）→ 之後等下一輪 schedule
         run: |
           git config user.name  "hk-trends-bot"
           git config user.email "actions@users.noreply.github.com"
+
+          # US 有冇自己嘅 bot？有就開返指令，冇就用共用 token 兼關指令。
+          if [ -n "$US_TG_BOT_TOKEN" ]; then
+            US_TOKEN="$US_TG_BOT_TOKEN"; US_CONTROLS=1
+            echo "US 用獨立 bot token，指令／按鈕已開"
+          else
+            US_TOKEN="$TG_BOT_TOKEN"; US_CONTROLS=0
+            echo "US 同 HK 共用 bot token，指令／按鈕已關（避免互搶 getUpdates）"
+          fi
+
           end=$((SECONDS + LOOP_SECONDS))
           i=0
           while [ "$SECONDS" -lt "$end" ]; do
             i=$((i + 1))
             echo "::group::iteration $i — $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
-            python3 trends_tg_bot.py || echo "(iteration $i 非零退出，繼續 loop)"
-            if ! git diff --quiet -- state.json; then
-              git add state.json
+
+            echo "--- HK ---"
+            python3 trends_tg_bot.py || echo "(HK iteration $i 非零退出，繼續 loop)"
+
+            echo "--- US ---"
+            env \
+              TRENDS_GEO=US \
+              TRENDS_HOURS=6 \
+              MIN_TRAFFIC=10000 \
+              MAX_PUSH_PER_RUN=3 \
+              MAX_CHARS=130 \
+              LOCAL_TZ=America/New_York \
+              NEWS_HL=en-US NEWS_GL=US NEWS_CEID=US:en \
+              NEWS_FALLBACK=1 \
+              BOT_LABEL=歐美熱搜推送 \
+              BRAND_TAG=歐美熱搜 \
+              PROMPT_FILE=analysis_prompt_us.md \
+              STATE_FILE=state_us.json \
+              TG_CHAT_ID="$US_TG_CHAT_ID" \
+              TG_BOT_TOKEN="$US_TOKEN" \
+              TG_CONTROLS="$US_CONTROLS" \
+              python3 trends_tg_bot.py || echo "(US iteration $i 非零退出，繼續 loop)"
+
+            if ! git diff --quiet -- state.json state_us.json; then
+              git add state.json state_us.json
               git commit -q -m "chore: state [skip ci]"
               git pull -q --rebase --autostash origin main || true
               git push -q || echo "(push 失敗，下一輪再試)"

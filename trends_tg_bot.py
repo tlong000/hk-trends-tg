@@ -80,8 +80,24 @@ TRENDS_RPC_URL = os.environ.get(
     "TRENDS_RPC_URL", "https://trends.google.com/_/TrendsUi/data/batchexecute"
 )
 TRENDS_RSS_URL = os.environ.get(
-    "TRENDS_RSS_URL", "https://trends.google.com/trending/rss?geo=HK"
+    "TRENDS_RSS_URL", f"https://trends.google.com/trending/rss?geo={TRENDS_GEO}"
 )
+
+# 搵唔到 RSS 新聞標題時，落一條 Google 新聞搜尋連結做 fallback；
+# 呢三個參數決定嗰條連結嘅語言／地區（預設香港繁體）。
+NEWS_HL = os.environ.get("NEWS_HL", "zh-HK")
+NEWS_GL = os.environ.get("NEWS_GL", "HK")
+NEWS_CEID = os.environ.get("NEWS_CEID", "HK:zh-Hant")
+
+# 心跳標題同 hashtag 用嘅品牌字眼（唔同地區部署要叫唔同名）
+# 官方 Trending RSS 對唔上關鍵詞嗰陣（熱點密嘅地區例如 US 幾乎次次對唔上），
+# 即場抓嗰個關鍵詞嘅 Google 新聞 RSS 補標題。=1 開；只喺本身冇標題先會行。
+NEWS_FALLBACK = os.environ.get("NEWS_FALLBACK", "0") == "1"
+NEWS_FALLBACK_MAX = int(os.environ.get("NEWS_FALLBACK_MAX", "3"))
+
+BOT_LABEL = os.environ.get("BOT_LABEL", "香港熱搜推送")
+BRAND_TAG = os.environ.get("BRAND_TAG", "香港熱搜")
+
 
 def _rel(p: str) -> str:
     """相對路徑一律當作「腳本所在資料夾」下面，令排程器點樣叫都搵到檔。"""
@@ -90,7 +106,7 @@ def _rel(p: str) -> str:
 
 STATE_FILE = _rel(os.environ.get("STATE_FILE", "state.json"))
 PROMPT_FILE = _rel(os.environ.get("PROMPT_FILE", "analysis_prompt.md"))
-LOG_PREFIX = "[hk-trends-tg]"
+LOG_PREFIX = os.environ.get("LOG_PREFIX", f"[{TRENDS_GEO.lower()}-trends-tg]")
 
 # 本地模型
 MODEL_API = os.environ.get("MODEL_API", "ollama").strip().lower()  # ollama | openai | mock
@@ -117,13 +133,25 @@ NEXT_RUN_MINUTES = int(os.environ.get("NEXT_RUN_MINUTES", "15"))
 
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 
-HKT = timezone(timedelta(hours=8))
+
+def _resolve_tz(name: str):
+    """時區名 → tzinfo。攞唔到（runner 冇 tzdata）就退返固定 +8，唔會炸咗成個 run。"""
+    try:
+        from zoneinfo import ZoneInfo
+        return ZoneInfo(name)
+    except Exception as e:  # 缺 tzdata / 名寫錯 / Python < 3.9
+        print(LOG_PREFIX, f"時區 {name} 解析失敗（{e}），退回 UTC+8", flush=True)
+        return timezone(timedelta(hours=8))
+
+
+LOCAL_TZ = _resolve_tz(os.environ.get("LOCAL_TZ", "Asia/Hong_Kong"))
 
 HTTP_UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
 HT_NS = "https://trends.google.com/trending/rss"
+GNEWS_NS = "http://news.google.com/"
 
 
 # ---------------------------------------------------------------------------
@@ -139,8 +167,8 @@ def now_utc() -> datetime:
     return datetime.now(timezone.utc)
 
 
-def hkt_now() -> datetime:
-    return datetime.now(HKT)
+def local_now() -> datetime:
+    return datetime.now(LOCAL_TZ)
 
 
 def fmt_ago(iso: str) -> str:
@@ -301,6 +329,33 @@ def attach_news(items: list[dict], news_map: dict) -> None:
     for it in items:
         if it["keyword"] in news_map:
             it["news"] = news_map[it["keyword"]]
+
+
+def fetch_news_by_search(keyword: str) -> list:
+    """單一關鍵詞 → Google 新聞 RSS 頭幾條標題。失敗回 []（best-effort，唔會 raise）。"""
+    q = urllib.parse.quote(keyword)
+    url = (f"https://news.google.com/rss/search?q={q}"
+           f"&hl={NEWS_HL}&gl={NEWS_GL}&ceid={NEWS_CEID}")
+    try:
+        root = ET.fromstring(http_get(url, timeout=20))
+    except (urllib.error.URLError, ET.ParseError, TimeoutError, OSError) as e:
+        log(f"[{keyword}] Google 新聞 RSS 補標題失敗（略過）：{e}")
+        return []
+    out: list = []
+    for it in root.findall("./channel/item")[:NEWS_FALLBACK_MAX]:
+        t = html.unescape((it.findtext("title") or "").strip())
+        u = (it.findtext("link") or "").strip()
+        # <source> 有時帶命名空間有時冇，兩種都試
+        se = it.find(f"{{{GNEWS_NS}}}source")
+        if se is None:
+            se = it.find("source")
+        src = (se.text or "").strip() if se is not None and se.text else ""
+        # Google 新聞標題結尾一律係「 - 媒體名」，斬走令模型讀得乾淨啲
+        if src and t.endswith(f" - {src}"):
+            t = t[: -len(f" - {src}")].rstrip()
+        if t and u:
+            out.append({"title": t, "url": u, "source": src})
+    return out
 
 
 # ---------------------------------------------------------------------------
@@ -473,9 +528,9 @@ def status_text(state: dict, result: str = "ok") -> str:
     head = "⏸ 已暫停" if paused else "▶️ 運行中"
     last = state.get("last_run")
     last_line = f"{fmt_ago(last)}" if last else "未有記錄"
-    nxt = (hkt_now() + timedelta(minutes=NEXT_RUN_MINUTES)).strftime("%H:%M")
+    nxt = (local_now() + timedelta(minutes=NEXT_RUN_MINUTES)).strftime("%H:%M")
     lines = [
-        "📊 <b>香港熱搜推送 · 狀態</b>",
+        f"📊 <b>{_esc(BOT_LABEL)} · 狀態</b>",
         f"狀態：{head}",
         f"最後檢查：{last_line}",
         f"最後結果：{_RESULT_LABEL.get(result, result)}",
@@ -503,7 +558,9 @@ def write_heartbeat(state: dict, result: str = "ok") -> None:
     if not TG_BOT_TOKEN or not TG_ADMIN_CHAT_ID:
         return
     text = status_text(state, result)
-    markup = _heartbeat_markup(bool(state.get("paused")))
+    # 冇開指令嘅 instance 唔可以出按鈕：佢唔會讀 getUpdates，粒掣㩒落去係死掣，
+    # 而共用同一個 bot token 嘅另一個 instance 會代佢收咗，去暫停錯咗個地區。
+    markup = _heartbeat_markup(bool(state.get("paused"))) if TG_CONTROLS else None
     mid = state.get("heartbeat_message_id")
     same_chat = str(state.get("heartbeat_chat_id", "")) == str(TG_ADMIN_CHAT_ID)
     if mid and same_chat:
@@ -590,10 +647,21 @@ def _handle_update(u: dict, state: dict, allowed: set) -> None:
         elif cmd == "/runnow":
             _reply(chat_id, "✅ 收到，今次已經即刻檢查緊；如果啱啱先跑完，等下一個排程。")
     elif cq:
-        frm = str((cq.get("message") or {}).get("chat", {}).get("id", ""))
+        cq_msg = cq.get("message") or {}
+        frm = str((cq_msg.get("chat") or {}).get("id", ""))
         data = cq.get("data") or ""
         if frm not in allowed:
             tg_api("answerCallbackQuery", {"callback_query_id": cq.get("id")})
+            return
+        # 粒掣一定要係「自己嗰條心跳訊息」上面嘅。同一個 bot token 服務多過一個
+        # 地區嗰陣，另一個地區嘅心跳按鈕會經同一條 getUpdates 流過嚟，唔擋就會
+        # 暫停錯咗個 instance。順帶擋埋舊心跳訊息上面嘅過期按鈕。
+        own_mid = state.get("heartbeat_message_id")
+        if own_mid and int(cq_msg.get("message_id", 0)) != int(own_mid):
+            tg_api("answerCallbackQuery", {
+                "callback_query_id": cq.get("id"),
+                "text": "呢粒掣唔屬於呢個推送（睇返最新嗰條心跳訊息）",
+            })
             return
         if data == "hb:pause":
             state["paused"] = True
@@ -628,7 +696,7 @@ def _hashtags(it: dict) -> str:
             seen.add(t.lower())
             tags.append("#" + t)
 
-    add("香港熱搜")
+    add(BRAND_TAG)
     add(it["keyword"])
     for q in it["related"][:MAX_RELATED]:
         if len(tags) >= 4:
@@ -652,7 +720,8 @@ def format_message(it: dict, interpretation: str) -> str:
         lines.append(f'📰 <a href="{html.escape(top["url"], quote=True)}">{label}</a>')
     else:
         q = urllib.parse.quote(it["keyword"])
-        gurl = f"https://news.google.com/search?q={q}&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
+        gurl = (f"https://news.google.com/search?q={q}"
+                f"&hl={NEWS_HL}&gl={NEWS_GL}&ceid={NEWS_CEID}")
         lines.append(f'📰 <a href="{gurl}">Google 新聞：{_esc(it["keyword"])}</a>')
 
     if it["related"]:
@@ -669,7 +738,7 @@ def format_message(it: dict, interpretation: str) -> str:
 # ---------------------------------------------------------------------------
 
 def _roll_daily(state: dict) -> None:
-    today = hkt_now().strftime("%Y-%m-%d")
+    today = local_now().strftime("%Y-%m-%d")
     if state.get("pushed_date") != today:
         state["pushed_date"] = today
         state["pushed_today"] = 0
@@ -741,6 +810,8 @@ def main() -> int:
             break
         kw = it["keyword"]
         try:
+            if NEWS_FALLBACK and not it["news"]:
+                it["news"] = fetch_news_by_search(kw)
             raw = call_model(build_messages(it, sys_tmpl, user_tmpl))
             if not raw:
                 log(f"[{kw}] 模型回傳空，跳過")

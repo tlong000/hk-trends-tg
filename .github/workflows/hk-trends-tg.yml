@@ -1,53 +1,90 @@
-name: hk-trends-tg (manual run-now)
+name: trends-tg (manual run-now)
 
 # 排程交畀 hk-trends-loop.yml（長命 job 自己每 10 分鐘 loop，唔靠 GitHub cron 準時）。
 # 呢個 workflow 淨係留畀你喺 Actions 頁面撳「Run workflow」即刻檢查一次。
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      geo:
+        description: "跑邊個地區"
+        type: choice
+        required: true
+        default: both
+        options: [both, HK, US]
 
-# 同一時間只准一個 run，唔好 cancel 緊跑嗰個（保護 state.json 寫入）
+# 同一時間只准一個 run，唔好 cancel 緊跑嗰個（保護 state 檔寫入）
 concurrency:
   group: hk-trends-tg
   cancel-in-progress: false
 
 permissions:
-  contents: write   # 要 commit state.json 返 repo
+  contents: write   # 要 commit state 檔返 repo
 
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      # ---- 兩邊共用：雲端 LLM（OpenAI 相容）----
+      MODEL_API: openai
+      MODEL_BASE_URL: https://api.zetaapi.ai
+      MODEL_NAME: gpt-5.6-luna
+      MODEL_API_KEY: ${{ secrets.MODEL_API_KEY }}
+      MODEL_TIMEOUT: "60"
+      TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+      TG_ADMIN_CHAT_ID: ${{ secrets.TG_ADMIN_CHAT_ID }}
+      NEXT_RUN_MINUTES: "10"
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run bot
+      - name: Run bot (HK)
+        if: inputs.geo == 'both' || inputs.geo == 'HK'
         env:
-          # ---- 本地/雲端 LLM（OpenAI 相容）----
-          MODEL_API: openai
-          MODEL_BASE_URL: https://api.zetaapi.ai
-          MODEL_NAME: gpt-5.6-luna
-          MODEL_API_KEY: ${{ secrets.MODEL_API_KEY }}
-          MODEL_TIMEOUT: "60"
-          # ---- Telegram ----
-          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-          TG_ADMIN_CHAT_ID: ${{ secrets.TG_ADMIN_CHAT_ID }}
-          # ---- 過濾門檻（想改就改呢度，唔使掂 .env）----
+          # ---- 香港過濾門檻（想改就改呢度，唔使掂 .env）----
           TRENDS_HOURS: "6"
           MIN_TRAFFIC: "500"
           MAX_PUSH_PER_RUN: "5"
-          NEXT_RUN_MINUTES: "10"
         run: python3 trends_tg_bot.py
 
-      - name: Persist state.json
+      - name: Run bot (US)
+        if: inputs.geo == 'both' || inputs.geo == 'US'
+        env:
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID_US }}
+          US_TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN_US }}
+          # ---- 美國過濾門檻 ----
+          TRENDS_GEO: US
+          TRENDS_HOURS: "6"
+          MIN_TRAFFIC: "10000"
+          MAX_PUSH_PER_RUN: "3"
+          MAX_CHARS: "130"
+          LOCAL_TZ: America/New_York
+          NEWS_HL: en-US
+          NEWS_GL: US
+          NEWS_CEID: US:en
+          NEWS_FALLBACK: "1"
+          BOT_LABEL: 歐美熱搜推送
+          BRAND_TAG: 歐美熱搜
+          PROMPT_FILE: analysis_prompt_us.md
+          STATE_FILE: state_us.json
+        run: |
+          # 有獨立 bot 就開返指令；共用 token 就一定要關，唔係兩邊互搶 getUpdates。
+          if [ -n "$US_TG_BOT_TOKEN" ]; then
+            export TG_BOT_TOKEN="$US_TG_BOT_TOKEN" TG_CONTROLS=1
+          else
+            export TG_CONTROLS=0
+          fi
+          python3 trends_tg_bot.py
+
+      - name: Persist state files
         if: always()
         run: |
-          if git diff --quiet -- state.json; then
-            echo "state.json 冇變，唔使 commit"
+          if git diff --quiet -- state.json state_us.json; then
+            echo "state 檔冇變，唔使 commit"
             exit 0
           fi
           git config user.name  "hk-trends-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add state.json
+          git add state.json state_us.json
           git commit -m "chore: update state [skip ci]"
           # 拉一拉再推，避免同上一個 run 撞
           git pull --rebase --autostash origin "${{ github.ref_name }}" || true
