@@ -97,12 +97,21 @@ jobs:
               TG_CONTROLS="$US_CONTROLS" \
               python3 trends_tg_bot.py || echo "(US iteration $i 非零退出，繼續 loop)"
 
-            if ! git diff --quiet -- state.json state_us.json; then
+            # 同手動 run 撞車時，union 合併而唔係邊個贏（理由見 merge_state.py）。
+            # 推唔上去唔算致命：下一圈會連埋新記錄再試。
+            for attempt in 1 2 3; do
+              git fetch -q origin main
+              python3 merge_state.py origin/main state.json state_us.json >/dev/null
+              cp state.json /tmp/_s_hk.json; cp state_us.json /tmp/_s_us.json
+              git reset -q --hard origin/main
+              cp /tmp/_s_hk.json state.json; cp /tmp/_s_us.json state_us.json
               git add state.json state_us.json
+              if git diff --cached --quiet; then break; fi
               git commit -q -m "chore: state [skip ci]"
-              git pull -q --rebase --autostash origin main || true
-              git push -q || echo "(push 失敗，下一輪再試)"
-            fi
+              if git push -q; then break; fi
+              echo "(push 被 reject，第 $attempt 次，重新合併再試)"
+              sleep 3
+            done
             echo "::endgroup::"
             # 最後一圈唔使再 sleep
             if [ "$SECONDS" -lt "$end" ]; then sleep "$INTERVAL_SECONDS"; fi

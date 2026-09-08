@@ -106,15 +106,30 @@ jobs:
 
       - name: Persist state files
         if: always()
+        env:
+          BRANCH: ${{ github.ref_name }}
         run: |
-          if git diff --quiet -- state.json state_us.json; then
-            echo "state 檔冇變，唔使 commit"
-            exit 0
-          fi
           git config user.name  "hk-trends-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add state.json state_us.json
-          git commit -m "chore: update state [skip ci]"
-          # 拉一拉再推，避免同上一個 run 撞
-          git pull --rebase --autostash origin "${{ github.ref_name }}" || true
-          git push
+          # 排程 loop 可能同時寫緊同一個 state 檔，push 一定有一邊被 reject。
+          # 每次重試都同遠端最新版 union 一次（merge_state.py），令兩邊嘅
+          # 「已推過」記錄都保得住 —— 漏咗一個標記＝下次重推＝群組收到重複訊息。
+          # 用 reset --hard 對齊遠端再放返合併結果，唔可以用 reset --soft：
+          # soft 會令 index 保留舊 tree，commit 落去會連遠端新推嘅 code 一齊回滾。
+          for attempt in 1 2 3 4 5; do
+            git fetch -q origin "$BRANCH"
+            python3 merge_state.py "origin/$BRANCH" state.json state_us.json
+            cp state.json /tmp/_s_hk.json; cp state_us.json /tmp/_s_us.json
+            git reset -q --hard "origin/$BRANCH"
+            cp /tmp/_s_hk.json state.json; cp /tmp/_s_us.json state_us.json
+            git add state.json state_us.json
+            if git diff --cached --quiet; then
+              echo "state 檔同遠端一致，唔使 commit"; exit 0
+            fi
+            git commit -q -m "chore: update state [skip ci]"
+            if git push -q; then echo "state 已推上去（第 $attempt 次嘗試）"; exit 0; fi
+            echo "push 被 reject（第 $attempt 次），同遠端重新合併再試"
+            sleep 5
+          done
+          echo "::error::state 推唔上去，去重表未更新，之後可能會重推同一批熱點"
+          exit 1

@@ -164,5 +164,9 @@ HK 一個窗得幾條，條條都喺 top-10 入面，配對率 100%；US 一個�
 
 雲端 runner 每次都係全新機，`state.json` / `state_us.json`（記住「已推過邊啲關鍵詞」「指令 offset」「今日推咗幾多」）
 要有地方擺低。做法係 run 完 `git commit` 返 repo。所以你會見到一堆
-`chore: update state [skip ci]` commit，正常。唔想見到就用 `actions/cache`（有機會被清，48h 內
+`chore: update state [skip ci]` commit，正常。
+
+排程 loop 同手動 run 有機會同時寫同一個 state 檔，其中一邊 `git push` 會被 reject。
+`merge_state.py` 負責喺重試前同遠端最新版做 **union**（兩邊嘅「已推過」記錄全部保留），
+而唔係邊份贏——漏咗一個標記即係下次會重推，群組收到重複訊息。唔想見到就用 `actions/cache`（有機會被清，48h 內
 被清會重推），或改存做一條 Telegram 訊息。
