@@ -147,12 +147,14 @@
     "elena rybakina": "2026-09-09T16:31:32.301148+00:00",
     "charlie kirk": "2026-09-09T16:32:14.552638+00:00",
     "nfl game today": "2026-09-09T16:52:32.010452+00:00",
-    "barcelona - feyenoord": "2026-09-09T17:03:27.630697+00:00"
+    "barcelona - feyenoord": "2026-09-09T17:03:27.630697+00:00",
+    "apple event today": "2026-09-09T17:34:17.066571+00:00",
+    "barcelona": "2026-09-09T17:34:34.358385+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-09",
-  "pushed_today": 145,
-  "last_run": "2026-09-09T17:23:53.540411+00:00",
+  "pushed_today": 147,
+  "last_run": "2026-09-09T17:34:35.359022+00:00",
   "last_result": "ok",
   "tg_offset": 241829769
 }
