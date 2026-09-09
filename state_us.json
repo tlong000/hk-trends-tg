@@ -113,12 +113,15 @@
     "dwts premiere": "2026-09-09T01:31:40.878481+00:00",
     "snowfall spinoff": "2026-09-09T01:52:01.806352+00:00",
     "us submarine captured strait of hormuz": "2026-09-09T02:02:26.338559+00:00",
-    "john sununu": "2026-09-09T02:02:56.582305+00:00"
+    "john sununu": "2026-09-09T02:02:56.582305+00:00",
+    "navarro tennis": "2026-09-09T02:13:42.488721+00:00",
+    "rangers vs mariners": "2026-09-09T02:14:01.001764+00:00",
+    "boca vs são paulo": "2026-09-09T02:14:10.425237+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-08",
-  "pushed_today": 114,
-  "last_run": "2026-09-09T02:02:57.582969+00:00",
+  "pushed_today": 117,
+  "last_run": "2026-09-09T02:14:11.425797+00:00",
   "last_result": "ok",
   "tg_offset": 241829769
 }
