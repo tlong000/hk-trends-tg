@@ -119,12 +119,15 @@
     "boca vs são paulo": "2026-09-09T02:14:10.425237+00:00",
     "jimmy kimmel": "2026-09-09T02:24:35.715253+00:00",
     "treveyon henderson": "2026-09-09T02:24:55.283049+00:00",
-    "new hampshire primary": "2026-09-09T02:25:27.497732+00:00"
+    "new hampshire primary": "2026-09-09T02:25:27.497732+00:00",
+    "ben shelton": "2026-09-09T04:28:46.355281+00:00",
+    "nationals vs padres": "2026-09-09T04:28:57.539223+00:00",
+    "trinity rodman": "2026-09-09T04:29:12.030729+00:00"
   },
   "paused": false,
-  "pushed_date": "2026-09-08",
+  "pushed_date": "2026-09-09",
   "pushed_today": 120,
-  "last_run": "2026-09-09T02:25:28.498284+00:00",
+  "last_run": "2026-09-09T04:29:13.031375+00:00",
   "last_result": "ok",
   "tg_offset": 241829769
 }
