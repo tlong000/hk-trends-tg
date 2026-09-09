@@ -156,12 +156,15 @@
     "apple foldable phone": "2026-09-09T18:50:29.359427+00:00",
     "iphone 18 pro": "2026-09-09T19:00:55.876487+00:00",
     "apple duo": "2026-09-09T19:12:09.554369+00:00",
-    "kirby and the world beyond": "2026-09-09T19:12:27.760557+00:00"
+    "kirby and the world beyond": "2026-09-09T19:12:27.760557+00:00",
+    "iphone": "2026-09-09T19:22:41.068520+00:00",
+    "napoli vs arsenal": "2026-09-09T19:23:00.104452+00:00",
+    "liverpool vs atlético madrid": "2026-09-09T19:23:19.523227+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-09",
-  "pushed_today": 154,
-  "last_run": "2026-09-09T19:12:28.761220+00:00",
+  "pushed_today": 157,
+  "last_run": "2026-09-09T19:23:20.524010+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
