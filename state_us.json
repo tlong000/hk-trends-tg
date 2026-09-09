@@ -159,12 +159,15 @@
     "kirby and the world beyond": "2026-09-09T19:12:27.760557+00:00",
     "iphone": "2026-09-09T19:22:41.068520+00:00",
     "napoli vs arsenal": "2026-09-09T19:23:00.104452+00:00",
-    "liverpool vs atlético madrid": "2026-09-09T19:23:19.523227+00:00"
+    "liverpool vs atlético madrid": "2026-09-09T19:23:19.523227+00:00",
+    "psg vs slovan bratislava": "2026-09-09T19:33:46.641118+00:00",
+    "coco gauff": "2026-09-09T19:34:13.748458+00:00",
+    "chelsea vs leeds": "2026-09-09T19:34:32.425470+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-09",
-  "pushed_today": 157,
-  "last_run": "2026-09-09T19:23:20.524010+00:00",
+  "pushed_today": 160,
+  "last_run": "2026-09-09T19:34:33.426223+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
