@@ -211,12 +211,15 @@
     "nbc": "2026-09-10T00:35:34.366641+00:00",
     "drew lock": "2026-09-10T00:46:21.056140+00:00",
     "inter miami - chicago fire": "2026-09-10T00:46:31.141647+00:00",
-    "orlando city vs atlanta united": "2026-09-10T00:46:40.322773+00:00"
+    "orlando city vs atlanta united": "2026-09-10T00:46:40.322773+00:00",
+    "fetterman": "2026-09-10T00:56:56.613875+00:00",
+    "impuesto": "2026-09-10T00:57:22.012992+00:00",
+    "thursday night football": "2026-09-10T00:57:44.272302+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-09",
-  "pushed_today": 209,
-  "last_run": "2026-09-10T00:46:41.323584+00:00",
+  "pushed_today": 212,
+  "last_run": "2026-09-10T00:57:45.273087+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
