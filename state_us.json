@@ -385,12 +385,15 @@
     "mets vs yankees": "2026-09-11T22:45:04.048737+00:00",
     "dodgers vs marlins": "2026-09-11T22:45:12.998939+00:00",
     "phillies vs braves": "2026-09-11T22:55:27.787012+00:00",
-    "theo james": "2026-09-11T22:55:38.721033+00:00"
+    "theo james": "2026-09-11T22:55:38.721033+00:00",
+    "rockies vs tigers": "2026-09-11T23:05:59.974661+00:00",
+    "villanova vs louisville": "2026-09-11T23:06:09.834648+00:00",
+    "sony playstation": "2026-09-11T23:06:21.541533+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-11",
-  "pushed_today": 379,
-  "last_run": "2026-09-11T22:55:39.721582+00:00",
+  "pushed_today": 382,
+  "last_run": "2026-09-11T23:06:22.542086+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
