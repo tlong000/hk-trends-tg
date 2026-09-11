@@ -395,12 +395,14 @@
     "missouri vs kansas": "2026-09-11T23:32:07.224984+00:00",
     "rutgers vs boston college": "2026-09-11T23:32:24.765868+00:00",
     "richmond vs nc state": "2026-09-11T23:32:36.731004+00:00",
-    "reds vs brewers": "2026-09-11T23:43:01.659501+00:00"
+    "reds vs brewers": "2026-09-11T23:43:01.659501+00:00",
+    "orioles vs blue jays": "2026-09-11T23:53:26.199461+00:00",
+    "practical magic": "2026-09-11T23:53:35.763997+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-11",
-  "pushed_today": 390,
-  "last_run": "2026-09-11T23:43:13.371411+00:00",
+  "pushed_today": 392,
+  "last_run": "2026-09-11T23:53:36.764538+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
