@@ -391,12 +391,15 @@
     "sony playstation": "2026-09-11T23:06:21.541533+00:00",
     "kim zolciak": "2026-09-11T23:21:32.664022+00:00",
     "royals vs red sox": "2026-09-11T23:21:43.342941+00:00",
-    "astros vs rays": "2026-09-11T23:21:50.800343+00:00"
+    "astros vs rays": "2026-09-11T23:21:50.800343+00:00",
+    "missouri vs kansas": "2026-09-11T23:32:07.224984+00:00",
+    "rutgers vs boston college": "2026-09-11T23:32:24.765868+00:00",
+    "richmond vs nc state": "2026-09-11T23:32:36.731004+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-11",
-  "pushed_today": 385,
-  "last_run": "2026-09-11T23:21:51.800970+00:00",
+  "pushed_today": 388,
+  "last_run": "2026-09-11T23:32:37.731624+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
