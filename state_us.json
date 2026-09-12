@@ -526,12 +526,15 @@
     "kstate football": "2026-09-12T20:28:19.483966+00:00",
     "la liga": "2026-09-12T20:29:02.354472+00:00",
     "california vs syracuse": "2026-09-12T20:29:12.516128+00:00",
-    "burger king nugget purse": "2026-09-12T20:29:22.658614+00:00"
+    "burger king nugget purse": "2026-09-12T20:29:22.658614+00:00",
+    "penn state": "2026-09-12T20:39:35.283186+00:00",
+    "maryland vs uconn": "2026-09-12T20:39:47.170474+00:00",
+    "diablo 5": "2026-09-12T20:39:58.607172+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 528,
-  "last_run": "2026-09-12T20:29:23.659167+00:00",
+  "pushed_today": 531,
+  "last_run": "2026-09-12T20:39:59.607819+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
