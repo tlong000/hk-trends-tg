@@ -541,12 +541,15 @@
     "campbell vs florida": "2026-09-12T21:11:53.514495+00:00",
     "kathy hochul": "2026-09-12T21:22:11.806559+00:00",
     "delaware vs vanderbilt": "2026-09-12T21:22:20.702723+00:00",
-    "kylian mbappé": "2026-09-12T21:22:29.944373+00:00"
+    "kylian mbappé": "2026-09-12T21:22:29.944373+00:00",
+    "real madrid vs rayo vallecano standings": "2026-09-12T21:32:52.450512+00:00",
+    "uc davis vs smu": "2026-09-12T21:33:03.349631+00:00",
+    "utah tech vs montana": "2026-09-12T21:33:12.833099+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 543,
-  "last_run": "2026-09-12T21:22:30.945074+00:00",
+  "pushed_today": 546,
+  "last_run": "2026-09-12T21:33:13.833783+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
