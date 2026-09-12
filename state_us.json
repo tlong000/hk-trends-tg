@@ -505,12 +505,15 @@
     "hull city": "2026-09-12T19:12:57.966141+00:00",
     "rice vs notre dame": "2026-09-12T19:23:17.285976+00:00",
     "weber state vs colorado": "2026-09-12T19:23:28.498667+00:00",
-    "arizona vs byu": "2026-09-12T19:23:42.711779+00:00"
+    "arizona vs byu": "2026-09-12T19:23:42.711779+00:00",
+    "real madrid - rayo vallecano": "2026-09-12T19:33:59.464894+00:00",
+    "world of warcraft forever": "2026-09-12T19:34:10.269517+00:00",
+    "ms state vs minnesota": "2026-09-12T19:34:20.321235+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 507,
-  "last_run": "2026-09-12T19:23:43.712598+00:00",
+  "pushed_today": 510,
+  "last_run": "2026-09-12T19:34:21.322066+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
