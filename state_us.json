@@ -559,12 +559,15 @@
     "alabama football schedule": "2026-09-12T22:15:36.653656+00:00",
     "memphis vs boise state": "2026-09-12T22:26:02.865012+00:00",
     "tennessee vs georgia tech": "2026-09-12T22:26:12.107845+00:00",
-    "jessie rosas": "2026-09-12T22:26:24.209026+00:00"
+    "jessie rosas": "2026-09-12T22:26:24.209026+00:00",
+    "ohio state football": "2026-09-12T22:36:39.112580+00:00",
+    "ncaaf scores": "2026-09-12T22:36:49.335952+00:00",
+    "dan ige": "2026-09-12T22:36:58.986430+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 561,
-  "last_run": "2026-09-12T22:26:25.209658+00:00",
+  "pushed_today": 564,
+  "last_run": "2026-09-12T22:36:59.987048+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
