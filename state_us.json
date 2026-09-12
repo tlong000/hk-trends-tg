@@ -568,12 +568,15 @@
     "bama": "2026-09-12T22:47:36.006931+00:00",
     "la tech vs lsu": "2026-09-12T22:58:21.517531+00:00",
     "towson vs south carolina": "2026-09-12T22:58:30.462910+00:00",
-    "toluca - atlas": "2026-09-12T22:58:40.859659+00:00"
+    "toluca - atlas": "2026-09-12T22:58:40.859659+00:00",
+    "syracuse football": "2026-09-12T23:09:03.344667+00:00",
+    "ga southern vs clemson": "2026-09-12T23:09:13.751137+00:00",
+    "nashville vs inter miami": "2026-09-12T23:09:25.524294+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 570,
-  "last_run": "2026-09-12T22:58:41.860499+00:00",
+  "pushed_today": 573,
+  "last_run": "2026-09-12T23:09:26.525069+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
