@@ -470,12 +470,15 @@
     "app state vs east carolina": "2026-09-12T16:02:14.745555+00:00",
     "wku vs georgia": "2026-09-12T16:22:39.643608+00:00",
     "palace vs ipswich town": "2026-09-12T16:22:57.960741+00:00",
-    "liverpool": "2026-09-12T16:23:12.166749+00:00"
+    "liverpool": "2026-09-12T16:23:12.166749+00:00",
+    "east tn st vs unc": "2026-09-12T16:33:34.070992+00:00",
+    "old dominion vs virginia tech": "2026-09-12T16:34:01.291091+00:00",
+    "wake forest vs purdue": "2026-09-12T16:34:16.267964+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 472,
-  "last_run": "2026-09-12T16:23:13.167420+00:00",
+  "pushed_today": 475,
+  "last_run": "2026-09-12T16:34:17.268819+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
