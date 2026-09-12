@@ -462,12 +462,14 @@
     "texas ohio state": "2026-09-12T15:26:16.054144+00:00",
     "el nino winter weather impacts": "2026-09-12T15:28:51.393183+00:00",
     "liverpool - fulham": "2026-09-12T15:29:13.811781+00:00",
-    "glen powell": "2026-09-12T15:29:43.108954+00:00"
+    "glen powell": "2026-09-12T15:29:43.108954+00:00",
+    "oregon vs oklahoma st": "2026-09-12T15:40:41.540785+00:00",
+    "penn state vs temple": "2026-09-12T15:41:21.230808+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 464,
-  "last_run": "2026-09-12T15:29:44.109654+00:00",
+  "pushed_today": 466,
+  "last_run": "2026-09-12T15:41:22.231437+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
