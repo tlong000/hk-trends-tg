@@ -517,12 +517,15 @@
     "college football scores": "2026-09-12T19:55:45.023720+00:00",
     "alabama football": "2026-09-12T20:06:08.253422+00:00",
     "ncaa football": "2026-09-12T20:06:20.732181+00:00",
-    "utah state vs washington": "2026-09-12T20:06:32.181909+00:00"
+    "utah state vs washington": "2026-09-12T20:06:32.181909+00:00",
+    "ucf vs pittsburgh": "2026-09-12T20:16:55.787884+00:00",
+    "utsa vs texas state": "2026-09-12T20:17:05.018170+00:00",
+    "duke vs illinois": "2026-09-12T20:17:15.987051+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 519,
-  "last_run": "2026-09-12T20:06:33.182788+00:00",
+  "pushed_today": 522,
+  "last_run": "2026-09-12T20:17:16.987904+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
