@@ -465,12 +465,14 @@
     "glen powell": "2026-09-12T15:29:43.108954+00:00",
     "oregon vs oklahoma st": "2026-09-12T15:40:41.540785+00:00",
     "penn state vs temple": "2026-09-12T15:41:21.230808+00:00",
-    "aston villa vs nottm forest": "2026-09-12T15:51:42.438568+00:00"
+    "aston villa vs nottm forest": "2026-09-12T15:51:42.438568+00:00",
+    "howard vs indiana": "2026-09-12T16:01:59.452970+00:00",
+    "app state vs east carolina": "2026-09-12T16:02:14.745555+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 467,
-  "last_run": "2026-09-12T15:51:43.439207+00:00",
+  "pushed_today": 469,
+  "last_run": "2026-09-12T16:02:15.746203+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
