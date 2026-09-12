@@ -511,12 +511,15 @@
     "ms state vs minnesota": "2026-09-12T19:34:20.321235+00:00",
     "wow forever": "2026-09-12T19:44:41.223031+00:00",
     "eastern mi vs mi state": "2026-09-12T19:44:52.868684+00:00",
-    "john mateer": "2026-09-12T19:45:10.209521+00:00"
+    "john mateer": "2026-09-12T19:45:10.209521+00:00",
+    "michigan football": "2026-09-12T19:55:23.618758+00:00",
+    "purdue football": "2026-09-12T19:55:34.757232+00:00",
+    "college football scores": "2026-09-12T19:55:45.023720+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 513,
-  "last_run": "2026-09-12T19:45:11.210258+00:00",
+  "pushed_today": 516,
+  "last_run": "2026-09-12T19:55:46.024462+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
