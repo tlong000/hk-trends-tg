@@ -419,12 +419,15 @@
     "best 9/11 documentaries": "2026-09-12T02:29:52.102228+00:00",
     "padres vs giants": "2026-09-12T02:40:06.137129+00:00",
     "rangers vs diamondbacks": "2026-09-12T02:40:18.705269+00:00",
-    "tasia fortune": "2026-09-12T02:40:29.115454+00:00"
+    "tasia fortune": "2026-09-12T02:40:29.115454+00:00",
+    "boca juniors - central córdoba": "2026-09-12T02:50:42.667751+00:00",
+    "2027 social security cola increase": "2026-09-12T02:50:54.704775+00:00",
+    "brewers score": "2026-09-12T02:51:05.686322+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-11",
-  "pushed_today": 420,
-  "last_run": "2026-09-12T02:40:30.116085+00:00",
+  "pushed_today": 423,
+  "last_run": "2026-09-12T02:51:06.686942+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
