@@ -436,12 +436,13 @@
     "rutgers football": "2026-09-12T03:46:13.149079+00:00",
     "zero dark thirty": "2026-09-12T03:56:28.960222+00:00",
     "nc state football": "2026-09-12T04:17:21.642072+00:00",
-    "mizzou football": "2026-09-12T04:24:57.215977+00:00"
+    "mizzou football": "2026-09-12T04:24:57.215977+00:00",
+    "ryan garcia": "2026-09-12T04:35:31.226290+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 437,
-  "last_run": "2026-09-12T04:24:58.216473+00:00",
+  "pushed_today": 438,
+  "last_run": "2026-09-12T04:35:32.226982+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
