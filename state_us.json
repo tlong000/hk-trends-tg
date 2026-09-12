@@ -459,12 +459,15 @@
     "ncaa football schedule": "2026-09-12T14:54:43.838690+00:00",
     "mitch mcconnell senate return timeline": "2026-09-12T15:25:32.767367+00:00",
     "arizona state vs texas a&m": "2026-09-12T15:25:49.712682+00:00",
-    "texas ohio state": "2026-09-12T15:26:16.054144+00:00"
+    "texas ohio state": "2026-09-12T15:26:16.054144+00:00",
+    "el nino winter weather impacts": "2026-09-12T15:28:51.393183+00:00",
+    "liverpool - fulham": "2026-09-12T15:29:13.811781+00:00",
+    "glen powell": "2026-09-12T15:29:43.108954+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 461,
-  "last_run": "2026-09-12T15:26:17.054977+00:00",
+  "pushed_today": 464,
+  "last_run": "2026-09-12T15:29:44.109654+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
