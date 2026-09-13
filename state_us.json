@@ -644,12 +644,14 @@
     "sacramento st vs fresno state": "2026-09-13T03:47:23.272641+00:00",
     "teofimo lopez": "2026-09-13T03:57:41.269058+00:00",
     "cruz azul": "2026-09-13T03:57:54.496725+00:00",
-    "alianza lima - universitario": "2026-09-13T03:58:13.807885+00:00"
+    "alianza lima - universitario": "2026-09-13T03:58:13.807885+00:00",
+    "cam coleman": "2026-09-13T04:18:40.629493+00:00",
+    "navy football": "2026-09-13T04:19:03.817169+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-13",
-  "pushed_today": 648,
-  "last_run": "2026-09-13T04:08:19.063922+00:00",
+  "pushed_today": 650,
+  "last_run": "2026-09-13T04:19:04.817983+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
