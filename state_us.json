@@ -43,7 +43,7 @@
     "south park": "2026-09-08T19:09:27.746978+00:00",
     "alex michelsen": "2026-09-08T19:09:35.857363+00:00",
     "real madrid": "2026-09-08T19:20:16.384475+00:00",
-    "paramount": "2026-09-08T19:30:41.295283+00:00",
+    "paramount": "2026-09-13T03:36:06.579959+00:00",
     "iceland reaction to trump map": "2026-09-08T19:30:51.456917+00:00",
     "lsu sec": "2026-09-08T19:31:02.734826+00:00",
     "losc - real betis": "2026-09-08T20:01:44.634251+00:00",
@@ -636,12 +636,14 @@
     "lafc vs sporting kc": "2026-09-13T03:04:30.054044+00:00",
     "montana state vs nevada": "2026-09-13T03:14:49.350330+00:00",
     "tx southern vs utep": "2026-09-13T03:14:59.037307+00:00",
-    "jaylen mbakwe": "2026-09-13T03:15:10.377676+00:00"
+    "jaylen mbakwe": "2026-09-13T03:15:10.377676+00:00",
+    "southern u vs houston": "2026-09-13T03:35:52.883415+00:00",
+    "is arch manning related to peyton manning": "2026-09-13T03:36:20.138257+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 639,
-  "last_run": "2026-09-13T03:25:16.036327+00:00",
+  "pushed_today": 642,
+  "last_run": "2026-09-13T03:36:21.139121+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
