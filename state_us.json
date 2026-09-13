@@ -584,12 +584,15 @@
     "unlv vs north texas": "2026-09-12T23:51:37.570608+00:00",
     "oregon state football": "2026-09-12T23:51:50.890751+00:00",
     "texas": "2026-09-13T00:02:18.758563+00:00",
-    "ufc card": "2026-09-13T00:02:30.304939+00:00"
+    "ufc card": "2026-09-13T00:02:30.304939+00:00",
+    "charlotte vs ole miss": "2026-09-13T00:12:45.303778+00:00",
+    "south carolina football": "2026-09-13T00:12:57.372991+00:00",
+    "posiciones de real madrid contra rayo vallecano": "2026-09-13T00:13:07.376666+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 587,
-  "last_run": "2026-09-13T00:02:31.305612+00:00",
+  "pushed_today": 590,
+  "last_run": "2026-09-13T00:13:08.377482+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
