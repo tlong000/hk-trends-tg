@@ -614,12 +614,15 @@
     "csu football": "2026-09-13T01:38:47.979426+00:00",
     "arkansas vs utah": "2026-09-13T01:49:11.722945+00:00",
     "prairie view vs baylor": "2026-09-13T01:49:25.615014+00:00",
-    "vanderbilt football": "2026-09-13T01:49:37.199013+00:00"
+    "vanderbilt football": "2026-09-13T01:49:37.199013+00:00",
+    "wcu vs cincinnati": "2026-09-13T01:59:54.385914+00:00",
+    "tulane football": "2026-09-13T02:00:09.229505+00:00",
+    "kamario taylor": "2026-09-13T02:00:26.662523+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 617,
-  "last_run": "2026-09-13T01:49:38.199877+00:00",
+  "pushed_today": 620,
+  "last_run": "2026-09-13T02:00:27.663274+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
