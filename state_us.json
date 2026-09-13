@@ -661,12 +661,14 @@
     "tcu football": "2026-09-13T05:20:56.440374+00:00",
     "texas schedule": "2026-09-13T05:21:10.976500+00:00",
     "did ryan garcia win": "2026-09-13T05:31:39.439211+00:00",
-    "clemson score": "2026-09-13T06:02:49.763066+00:00"
+    "clemson score": "2026-09-13T06:02:49.763066+00:00",
+    "cruz azul vs club américa standings": "2026-09-13T06:13:28.645191+00:00",
+    "seattle sounders vs la galaxy": "2026-09-13T06:13:53.178555+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-13",
-  "pushed_today": 666,
-  "last_run": "2026-09-13T06:02:50.763771+00:00",
+  "pushed_today": 668,
+  "last_run": "2026-09-13T06:13:54.179144+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
