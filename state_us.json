@@ -641,12 +641,15 @@
     "is arch manning related to peyton manning": "2026-09-13T03:36:20.138257+00:00",
     "boxing": "2026-09-13T03:46:47.012069+00:00",
     "bo jackson": "2026-09-13T03:47:07.863423+00:00",
-    "sacramento st vs fresno state": "2026-09-13T03:47:23.272641+00:00"
+    "sacramento st vs fresno state": "2026-09-13T03:47:23.272641+00:00",
+    "teofimo lopez": "2026-09-13T03:57:41.269058+00:00",
+    "cruz azul": "2026-09-13T03:57:54.496725+00:00",
+    "alianza lima - universitario": "2026-09-13T03:58:13.807885+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 645,
-  "last_run": "2026-09-13T03:47:24.273501+00:00",
+  "pushed_today": 648,
+  "last_run": "2026-09-13T03:58:14.808746+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
