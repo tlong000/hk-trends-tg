@@ -602,12 +602,15 @@
     "navy vs fl atlantic": "2026-09-13T00:55:54.691072+00:00",
     "monterrey - tigres": "2026-09-13T01:06:09.353597+00:00",
     "grambling st vs tcu": "2026-09-13T01:06:18.510883+00:00",
-    "san diego st vs ucla": "2026-09-13T01:06:27.152105+00:00"
+    "san diego st vs ucla": "2026-09-13T01:06:27.152105+00:00",
+    "ryan garcia fight card": "2026-09-13T01:16:53.061524+00:00",
+    "houston football": "2026-09-13T01:17:12.360997+00:00",
+    "southern utah vs co state": "2026-09-13T01:17:23.322240+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 605,
-  "last_run": "2026-09-13T01:06:28.152907+00:00",
+  "pushed_today": 608,
+  "last_run": "2026-09-13T01:17:24.323009+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
