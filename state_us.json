@@ -599,12 +599,15 @@
     "pitt football": "2026-09-13T00:45:15.117907+00:00",
     "boxing tonight": "2026-09-13T00:55:28.612947+00:00",
     "texas tech football": "2026-09-13T00:55:43.856216+00:00",
-    "navy vs fl atlantic": "2026-09-13T00:55:54.691072+00:00"
+    "navy vs fl atlantic": "2026-09-13T00:55:54.691072+00:00",
+    "monterrey - tigres": "2026-09-13T01:06:09.353597+00:00",
+    "grambling st vs tcu": "2026-09-13T01:06:18.510883+00:00",
+    "san diego st vs ucla": "2026-09-13T01:06:27.152105+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-12",
-  "pushed_today": 602,
-  "last_run": "2026-09-13T00:55:55.691839+00:00",
+  "pushed_today": 605,
+  "last_run": "2026-09-13T01:06:28.152907+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
