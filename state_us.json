@@ -685,12 +685,15 @@
     "vikings game": "2026-09-13T14:06:45.559380+00:00",
     "cleveland browns": "2026-09-13T14:17:01.472361+00:00",
     "coventry vs brighton": "2026-09-13T14:27:27.809348+00:00",
-    "ravens schedule": "2026-09-13T14:27:38.973880+00:00"
+    "ravens schedule": "2026-09-13T14:27:38.973880+00:00",
+    "bloodhound q50": "2026-09-13T14:38:16.797821+00:00",
+    "steelers game": "2026-09-13T14:38:29.469706+00:00",
+    "apple tv last seen series": "2026-09-13T14:38:42.252066+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-13",
-  "pushed_today": 692,
-  "last_run": "2026-09-13T14:27:39.974693+00:00",
+  "pushed_today": 695,
+  "last_run": "2026-09-13T14:38:43.253180+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
