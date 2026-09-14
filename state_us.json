@@ -856,12 +856,15 @@
     "skattebo": "2026-09-14T01:03:49.305646+00:00",
     "braxton berrios": "2026-09-14T01:14:08.893229+00:00",
     "cowboys score": "2026-09-14T01:14:22.066136+00:00",
-    "alexander zverev us open win": "2026-09-14T01:14:36.455967+00:00"
+    "alexander zverev us open win": "2026-09-14T01:14:36.455967+00:00",
+    "raiders": "2026-09-14T01:24:52.809496+00:00",
+    "redskins": "2026-09-14T01:25:04.825156+00:00",
+    "cat in the hat trend": "2026-09-14T01:25:14.389562+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-13",
-  "pushed_today": 874,
-  "last_run": "2026-09-14T01:14:37.456899+00:00",
+  "pushed_today": 877,
+  "last_run": "2026-09-14T01:25:15.390377+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
