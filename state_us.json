@@ -1005,12 +1005,15 @@
     "liverpool vs spurs": "2026-09-15T20:28:04.117722+00:00",
     "liverpool - tottenham": "2026-09-15T20:38:20.240672+00:00",
     "bitcoin price": "2026-09-15T20:38:43.396039+00:00",
-    "ipswich town vs arsenal": "2026-09-15T21:09:32.374218+00:00"
+    "ipswich town vs arsenal": "2026-09-15T21:09:32.374218+00:00",
+    "ed sheeran tour": "2026-09-15T21:14:18.005113+00:00",
+    "west ham vs fulham": "2026-09-15T21:14:29.344380+00:00",
+    "thomas massie pete hegseth impeachment": "2026-09-15T21:14:48.023070+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-15",
-  "pushed_today": 1025,
-  "last_run": "2026-09-15T21:09:33.375176+00:00",
+  "pushed_today": 1028,
+  "last_run": "2026-09-15T21:14:49.023609+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
