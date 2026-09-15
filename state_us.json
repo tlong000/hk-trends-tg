@@ -1010,12 +1010,15 @@
     "west ham vs fulham": "2026-09-15T21:14:29.344380+00:00",
     "thomas massie pete hegseth impeachment": "2026-09-15T21:14:48.023070+00:00",
     "lukas graham": "2026-09-15T21:25:09.649758+00:00",
-    "real madrid vs elche": "2026-09-15T21:56:51.277020+00:00"
+    "real madrid vs elche": "2026-09-15T21:56:51.277020+00:00",
+    "elche vs real madrid": "2026-09-15T22:07:25.532379+00:00",
+    "mortgage refinance rates": "2026-09-15T22:09:35.445450+00:00",
+    "today": "2026-09-15T22:09:58.855260+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-15",
-  "pushed_today": 1030,
-  "last_run": "2026-09-15T21:56:52.277562+00:00",
+  "pushed_today": 1033,
+  "last_run": "2026-09-15T22:09:59.855797+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
