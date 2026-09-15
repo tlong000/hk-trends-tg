@@ -1000,12 +1000,13 @@
     "rayo vallecano vs espanyol": "2026-09-15T17:52:07.420913+00:00",
     "rayo vallecano - rcd espanyol": "2026-09-15T18:02:30.219102+00:00",
     "al ain vs al-nassr": "2026-09-15T18:43:02.645008+00:00",
-    "elche c. f. - real madrid": "2026-09-15T19:05:35.988965+00:00"
+    "elche c. f. - real madrid": "2026-09-15T19:05:35.988965+00:00",
+    "al ain fc vs al-nassr standings": "2026-09-15T19:37:18.322483+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-15",
-  "pushed_today": 1019,
-  "last_run": "2026-09-15T19:26:47.167037+00:00",
+  "pushed_today": 1020,
+  "last_run": "2026-09-15T19:37:19.323195+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
