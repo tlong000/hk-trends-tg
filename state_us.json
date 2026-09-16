@@ -1052,12 +1052,15 @@
     "san francisco musician jeanie poling": "2026-09-16T15:02:50.397590+00:00",
     "fomc": "2026-09-16T15:23:47.054481+00:00",
     "fed meeting": "2026-09-16T15:56:57.784104+00:00",
-    "atlético vs osasuna": "2026-09-16T16:56:02.642759+00:00"
+    "atlético vs osasuna": "2026-09-16T16:56:02.642759+00:00",
+    "fed rates": "2026-09-16T18:38:15.819491+00:00",
+    "man utd vs brighton": "2026-09-16T18:39:44.714546+00:00",
+    "ben saunders": "2026-09-16T18:39:57.325766+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-16",
-  "pushed_today": 1070,
-  "last_run": "2026-09-16T18:27:21.138278+00:00",
+  "pushed_today": 1073,
+  "last_run": "2026-09-16T18:39:58.326342+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
