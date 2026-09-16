@@ -1083,12 +1083,13 @@
     "sean combs unpaid legal fees": "2026-09-16T23:17:57.398730+00:00",
     "craig melvin": "2026-09-16T23:38:27.852559+00:00",
     "inter miami vs cruz azul": "2026-09-16T23:38:46.139844+00:00",
-    "blake snell": "2026-09-16T23:48:59.504103+00:00"
+    "blake snell": "2026-09-16T23:48:59.504103+00:00",
+    "king charles": "2026-09-16T23:59:40.657859+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-16",
-  "pushed_today": 1102,
-  "last_run": "2026-09-16T23:49:00.504742+00:00",
+  "pushed_today": 1103,
+  "last_run": "2026-09-16T23:59:41.658476+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
