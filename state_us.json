@@ -1026,12 +1026,15 @@
     "disney plus": "2026-09-16T00:24:09.692825+00:00",
     "tyler cameron": "2026-09-16T00:35:03.329867+00:00",
     "sharna burgess": "2026-09-16T00:46:46.947588+00:00",
-    "royals vs astros": "2026-09-16T00:47:31.484426+00:00"
+    "royals vs astros": "2026-09-16T00:47:31.484426+00:00",
+    "puebla - toluca": "2026-09-16T01:09:04.804230+00:00",
+    "athletics vs rays": "2026-09-16T01:09:30.550118+00:00",
+    "us on orbit space control capabilities": "2026-09-16T01:09:55.965375+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-15",
-  "pushed_today": 1047,
-  "last_run": "2026-09-16T00:58:37.476347+00:00",
+  "pushed_today": 1050,
+  "last_run": "2026-09-16T01:09:56.965953+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
