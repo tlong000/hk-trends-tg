@@ -1067,12 +1067,13 @@
     "europa league": "2026-09-16T20:43:35.198558+00:00",
     "guardians": "2026-09-16T20:43:54.932939+00:00",
     "dow": "2026-09-16T20:54:24.699015+00:00",
-    "olympiacos vs jagiellonia białystok": "2026-09-16T21:24:00.015298+00:00"
+    "olympiacos vs jagiellonia białystok": "2026-09-16T21:24:00.015298+00:00",
+    "barcelona - racing de santander": "2026-09-16T21:44:30.365504+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-16",
-  "pushed_today": 1086,
-  "last_run": "2026-09-16T21:34:05.013724+00:00",
+  "pushed_today": 1087,
+  "last_run": "2026-09-16T21:44:31.366180+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
