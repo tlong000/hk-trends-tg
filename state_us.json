@@ -1086,12 +1086,13 @@
     "blake snell": "2026-09-16T23:48:59.504103+00:00",
     "king charles": "2026-09-16T23:59:40.657859+00:00",
     "inter miami - cruz azul": "2026-09-17T00:09:58.589657+00:00",
-    "orlando city vs columbus": "2026-09-17T00:10:24.221101+00:00"
+    "orlando city vs columbus": "2026-09-17T00:10:24.221101+00:00",
+    "atlético mineiro vs santos": "2026-09-17T00:31:24.056241+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-16",
-  "pushed_today": 1105,
-  "last_run": "2026-09-17T00:20:54.373358+00:00",
+  "pushed_today": 1106,
+  "last_run": "2026-09-17T00:31:25.056941+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
