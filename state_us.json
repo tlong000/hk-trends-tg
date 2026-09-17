@@ -1106,12 +1106,15 @@
     "ind vs afg": "2026-09-17T15:25:50.921290+00:00",
     "kenny chesney": "2026-09-17T16:39:12.677816+00:00",
     "man city vs norwich city": "2026-09-17T18:23:04.655709+00:00",
-    "real betis - getafe": "2026-09-17T18:43:24.568966+00:00"
+    "real betis - getafe": "2026-09-17T18:43:24.568966+00:00",
+    "asteroid": "2026-09-17T19:34:22.972122+00:00",
+    "real sociedad vs bournemouth": "2026-09-17T19:34:32.072134+00:00",
+    "betis vs getafe": "2026-09-17T19:34:40.387910+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-17",
-  "pushed_today": 1124,
-  "last_run": "2026-09-17T19:24:06.397501+00:00",
+  "pushed_today": 1127,
+  "last_run": "2026-09-17T19:34:41.388481+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
