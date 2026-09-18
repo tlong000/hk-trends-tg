@@ -1176,12 +1176,14 @@
     "national cheeseburger day 2026": "2026-09-18T16:40:58.378264+00:00",
     "traitors cast": "2026-09-18T16:51:19.096688+00:00",
     "rapper sway": "2026-09-18T16:51:38.314489+00:00",
-    "social security administration 2027 adjustment": "2026-09-18T17:32:02.006482+00:00"
+    "social security administration 2027 adjustment": "2026-09-18T17:32:02.006482+00:00",
+    "amazon settlement": "2026-09-18T17:52:34.315098+00:00",
+    "national burger day": "2026-09-18T17:52:58.639517+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-18",
-  "pushed_today": 1196,
-  "last_run": "2026-09-18T17:42:06.724841+00:00",
+  "pushed_today": 1198,
+  "last_run": "2026-09-18T17:52:59.640176+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
