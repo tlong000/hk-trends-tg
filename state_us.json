@@ -1128,12 +1128,15 @@
     "ed oliver": "2026-09-17T23:51:13.253995+00:00",
     "syracuse vs pittsburgh": "2026-09-18T00:01:27.042497+00:00",
     "sparks vs wings": "2026-09-18T00:01:35.812915+00:00",
-    "beach hazards statement": "2026-09-18T00:01:51.871090+00:00"
+    "beach hazards statement": "2026-09-18T00:01:51.871090+00:00",
+    "prime video": "2026-09-18T00:12:10.181699+00:00",
+    "ella beatty": "2026-09-18T00:12:29.585161+00:00",
+    "amazon prime": "2026-09-18T00:12:51.120528+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-17",
-  "pushed_today": 1147,
-  "last_run": "2026-09-18T00:01:52.871647+00:00",
+  "pushed_today": 1150,
+  "last_run": "2026-09-18T00:12:52.121087+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
