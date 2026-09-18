@@ -1187,12 +1187,13 @@
     "bayern - fc union berlin": "2026-09-18T18:56:00.596861+00:00",
     "frankie muniz": "2026-09-18T19:46:50.327023+00:00",
     "espanyol vs elche": "2026-09-18T19:57:10.557771+00:00",
-    "rcd espanyol - elche c. f.": "2026-09-18T19:57:18.840306+00:00"
+    "rcd espanyol - elche c. f.": "2026-09-18T19:57:18.840306+00:00",
+    "bayern munich": "2026-09-18T20:17:34.415021+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-18",
-  "pushed_today": 1207,
-  "last_run": "2026-09-18T20:07:23.279016+00:00",
+  "pushed_today": 1208,
+  "last_run": "2026-09-18T20:17:35.415671+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
