@@ -631,7 +631,7 @@
     "cruz azul - américa": "2026-09-13T02:53:11.540717+00:00",
     "louisiana vs usc": "2026-09-13T02:53:22.335377+00:00",
     "ohio state football schedule": "2026-09-13T02:53:36.902530+00:00",
-    "lsu football": "2026-09-13T03:04:02.648165+00:00",
+    "lsu football": "2026-09-19T23:45:28.868395+00:00",
     "iowa hawkeyes football": "2026-09-13T03:04:19.538862+00:00",
     "lafc vs sporting kc": "2026-09-13T03:04:30.054044+00:00",
     "montana state vs nevada": "2026-09-13T03:14:49.350330+00:00",
@@ -1270,8 +1270,8 @@
   },
   "paused": false,
   "pushed_date": "2026-09-19",
-  "pushed_today": 1301,
-  "last_run": "2026-09-19T23:35:11.179462+00:00",
+  "pushed_today": 1302,
+  "last_run": "2026-09-19T23:45:29.869034+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
