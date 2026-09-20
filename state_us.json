@@ -1294,12 +1294,15 @@
     "maryland football": "2026-09-20T03:49:41.508503+00:00",
     "ufc fights": "2026-09-20T04:00:07.079803+00:00",
     "lsu football schedule": "2026-09-20T04:00:30.239110+00:00",
-    "vt football": "2026-09-20T04:20:53.023717+00:00"
+    "vt football": "2026-09-20T04:20:53.023717+00:00",
+    "chivas game": "2026-09-20T04:44:57.661509+00:00",
+    "northwestern football": "2026-09-20T04:45:18.691712+00:00",
+    "west virginia football": "2026-09-20T04:45:31.790681+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-20",
-  "pushed_today": 1336,
-  "last_run": "2026-09-20T04:20:54.024230+00:00",
+  "pushed_today": 1339,
+  "last_run": "2026-09-20T04:45:32.791971+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
