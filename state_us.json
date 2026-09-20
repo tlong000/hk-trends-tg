@@ -1344,12 +1344,14 @@
     "cincinnati bengals": "2026-09-20T21:46:40.024797+00:00",
     "tre tucker": "2026-09-20T21:46:51.270250+00:00",
     "jayden daniels injury": "2026-09-20T22:18:24.861501+00:00",
-    "sunday night football": "2026-09-20T22:48:45.548802+00:00"
+    "sunday night football": "2026-09-20T22:48:45.548802+00:00",
+    "60 minutes": "2026-09-20T23:20:44.335368+00:00",
+    "cody white": "2026-09-20T23:20:56.943668+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-20",
-  "pushed_today": 1424,
-  "last_run": "2026-09-20T23:10:19.233707+00:00",
+  "pushed_today": 1426,
+  "last_run": "2026-09-20T23:20:57.944393+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
