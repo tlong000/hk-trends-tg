@@ -1403,12 +1403,14 @@
     "brewers vs phillies": "2026-09-22T23:05:40.787497+00:00",
     "amazon ftc prime settlement update": "2026-09-22T23:06:03.393494+00:00",
     "reds vs braves": "2026-09-22T23:16:34.740910+00:00",
-    "guardians vs red sox": "2026-09-22T23:26:58.861728+00:00"
+    "guardians vs red sox": "2026-09-22T23:26:58.861728+00:00",
+    "cardinals vs pirates": "2026-09-22T23:47:19.695389+00:00",
+    "lynx vs fever": "2026-09-22T23:47:39.093104+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-22",
-  "pushed_today": 1496,
-  "last_run": "2026-09-22T23:37:03.466728+00:00",
+  "pushed_today": 1498,
+  "last_run": "2026-09-22T23:47:40.093806+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
