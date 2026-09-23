@@ -1442,12 +1442,13 @@
     "meat recall": "2026-09-23T19:49:36.507365+00:00",
     "joe flacco": "2026-09-23T22:18:57.744915+00:00",
     "jonathan taylor thomas": "2026-09-23T22:29:27.029891+00:00",
-    "carnival panorama": "2026-09-23T22:29:57.315137+00:00"
+    "carnival panorama": "2026-09-23T22:29:57.315137+00:00",
+    "congressional budget office social security projection": "2026-09-23T23:21:11.802756+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-23",
-  "pushed_today": 1542,
-  "last_run": "2026-09-23T23:10:12.968316+00:00",
+  "pushed_today": 1543,
+  "last_run": "2026-09-23T23:21:12.803467+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
