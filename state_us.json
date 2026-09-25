@@ -1540,12 +1540,14 @@
     "aykroyd": "2026-09-25T08:50:36.814593+00:00",
     "cleveland taylor swift": "2026-09-25T09:31:00.851314+00:00",
     "australia vs brazil": "2026-09-25T09:51:33.922123+00:00",
-    "taylor swift cleveland": "2026-09-25T10:12:07.692092+00:00"
+    "taylor swift cleveland": "2026-09-25T10:12:07.692092+00:00",
+    "australia - brasil": "2026-09-25T11:42:42.598280+00:00",
+    "coastal flood warning": "2026-09-25T11:42:59.081749+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-25",
-  "pushed_today": 1654,
-  "last_run": "2026-09-25T10:12:08.692841+00:00",
+  "pushed_today": 1656,
+  "last_run": "2026-09-25T11:43:00.082441+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
