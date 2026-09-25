@@ -1559,12 +1559,13 @@
     "turquía - francia": "2026-09-25T18:25:21.277140+00:00",
     "nigeria vs madagascar": "2026-09-25T18:35:55.563529+00:00",
     "cuba": "2026-09-25T18:36:28.643850+00:00",
-    "italy vs belgium": "2026-09-25T18:47:01.563492+00:00"
+    "italy vs belgium": "2026-09-25T18:47:01.563492+00:00",
+    "poland vs bosnia and herzegovina": "2026-09-25T18:57:39.525503+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-25",
-  "pushed_today": 1674,
-  "last_run": "2026-09-25T18:47:02.564297+00:00",
+  "pushed_today": 1675,
+  "last_run": "2026-09-25T18:57:40.526261+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
