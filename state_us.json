@@ -1533,12 +1533,13 @@
     "lucas spence": "2026-09-25T05:27:49.473212+00:00",
     "los angeles dodgers": "2026-09-25T05:27:59.101125+00:00",
     "avengers doomsday": "2026-09-25T05:28:14.311550+00:00",
-    "dodgers vs padres": "2026-09-25T05:58:41.483163+00:00"
+    "dodgers vs padres": "2026-09-25T05:58:41.483163+00:00",
+    "matt lafleur": "2026-09-25T06:08:53.342947+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-25",
-  "pushed_today": 1647,
-  "last_run": "2026-09-25T05:58:42.483841+00:00",
+  "pushed_today": 1648,
+  "last_run": "2026-09-25T06:08:54.343732+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
