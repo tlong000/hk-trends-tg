@@ -1563,12 +1563,13 @@
     "poland vs bosnia and herzegovina": "2026-09-25T18:57:39.525503+00:00",
     "egypt vs angola": "2026-09-25T19:08:09.103340+00:00",
     "army vs temple": "2026-09-25T21:28:18.136546+00:00",
-    "orioles vs yankees": "2026-09-25T21:38:32.890368+00:00"
+    "orioles vs yankees": "2026-09-25T21:38:32.890368+00:00",
+    "immigration news": "2026-09-25T21:48:48.184990+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-25",
-  "pushed_today": 1678,
-  "last_run": "2026-09-25T21:38:33.891136+00:00",
+  "pushed_today": 1679,
+  "last_run": "2026-09-25T21:48:49.185825+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
