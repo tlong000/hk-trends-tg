@@ -1649,12 +1649,14 @@
     "florida ole miss": "2026-09-26T23:29:05.320755+00:00",
     "minecraft sift": "2026-09-26T23:29:14.972631+00:00",
     "canada vs chile": "2026-09-26T23:33:21.157605+00:00",
-    "ou vs georgia": "2026-09-26T23:33:37.287683+00:00"
+    "ou vs georgia": "2026-09-26T23:33:37.287683+00:00",
+    "missouri vs ms state": "2026-09-26T23:53:55.018797+00:00",
+    "nc central vs east carolina": "2026-09-26T23:54:07.967184+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-26",
-  "pushed_today": 1774,
-  "last_run": "2026-09-26T23:43:42.223963+00:00",
+  "pushed_today": 1776,
+  "last_run": "2026-09-26T23:54:08.967993+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
