@@ -295,7 +295,7 @@
     "miami hurricanes football": "2026-09-11T00:36:35.183141+00:00",
     "dolly parton final request prayer": "2026-09-11T00:46:57.712196+00:00",
     "rick springfield": "2026-09-11T00:47:05.810677+00:00",
-    "deebo samuel": "2026-09-11T00:57:25.169902+00:00",
+    "deebo samuel": "2026-09-27T21:48:23.513018+00:00",
     "is aaron donald playing week 1": "2026-09-11T00:57:37.977909+00:00",
     "george kittle": "2026-09-11T00:57:47.255045+00:00",
     "christian mccaffrey": "2026-09-11T01:08:00.562726+00:00",
@@ -1779,12 +1779,14 @@
     "bolivia vs paraguay": "2026-09-27T21:27:30.758749+00:00",
     "san francisco 49ers": "2026-09-27T21:37:44.779602+00:00",
     "pirates vs tigers": "2026-09-27T21:37:52.981311+00:00",
-    "braves vs marlins": "2026-09-27T21:38:00.757294+00:00"
+    "braves vs marlins": "2026-09-27T21:38:00.757294+00:00",
+    "seahawks game": "2026-09-27T21:48:14.242429+00:00",
+    "jackson koivun": "2026-09-27T21:48:32.536534+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-27",
-  "pushed_today": 1945,
-  "last_run": "2026-09-27T21:38:01.758117+00:00",
+  "pushed_today": 1948,
+  "last_run": "2026-09-27T21:48:33.537345+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
