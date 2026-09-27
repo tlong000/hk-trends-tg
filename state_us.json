@@ -1683,12 +1683,15 @@
     "lsu vs texas a&m": "2026-09-27T02:37:35.168319+00:00",
     "lsu vs a&m": "2026-09-27T02:47:57.302023+00:00",
     "alabama a&m vs florida a&m": "2026-09-27T02:48:28.259844+00:00",
-    "southern miss vs tulane": "2026-09-27T02:48:36.631683+00:00"
+    "southern miss vs tulane": "2026-09-27T02:48:36.631683+00:00",
+    "mexico national football team vs colombia national football team lineups": "2026-09-27T02:59:07.843376+00:00",
+    "farm aid 2026": "2026-09-27T02:59:22.086295+00:00",
+    "phillies score": "2026-09-27T02:59:31.372153+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-26",
-  "pushed_today": 1812,
-  "last_run": "2026-09-27T02:48:37.632450+00:00",
+  "pushed_today": 1815,
+  "last_run": "2026-09-27T02:59:32.373809+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
