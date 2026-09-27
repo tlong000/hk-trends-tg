@@ -1708,12 +1708,13 @@
     "rice vs fresno state": "2026-09-27T05:09:10.728036+00:00",
     "wsu football": "2026-09-27T05:09:23.025464+00:00",
     "weather forecast today": "2026-09-27T06:10:30.343535+00:00",
-    "air force vs nevada": "2026-09-27T06:20:50.751307+00:00"
+    "air force vs nevada": "2026-09-27T06:20:50.751307+00:00",
+    "dante moore update": "2026-09-27T06:41:22.000840+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-27",
-  "pushed_today": 1845,
-  "last_run": "2026-09-27T06:30:56.375651+00:00",
+  "pushed_today": 1846,
+  "last_run": "2026-09-27T06:41:23.002124+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
