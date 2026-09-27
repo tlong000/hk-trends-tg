@@ -1730,12 +1730,14 @@
     "seahawks vs commanders": "2026-09-27T16:29:57.338437+00:00",
     "chargers vs bills": "2026-09-27T16:40:13.101013+00:00",
     "jets vs lions": "2026-09-27T16:40:25.588281+00:00",
-    "panthers vs browns": "2026-09-27T16:40:34.009872+00:00"
+    "panthers vs browns": "2026-09-27T16:40:34.009872+00:00",
+    "titans vs giants": "2026-09-27T16:50:48.276394+00:00",
+    "texans vs colts": "2026-09-27T16:50:59.554167+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-27",
-  "pushed_today": 1868,
-  "last_run": "2026-09-27T16:40:35.010886+00:00",
+  "pushed_today": 1870,
+  "last_run": "2026-09-27T16:51:00.554919+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
