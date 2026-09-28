@@ -1851,12 +1851,15 @@
     "patient zero video": "2026-09-28T06:58:43.745348+00:00",
     "neville": "2026-09-28T07:19:17.002157+00:00",
     "pac benjamin satterley": "2026-09-28T07:29:34.115843+00:00",
-    "pac cause of death": "2026-09-28T07:49:55.247479+00:00"
+    "pac cause of death": "2026-09-28T07:49:55.247479+00:00",
+    "spacex": "2026-09-28T13:42:43.895337+00:00",
+    "south korea vs uruguay": "2026-09-28T13:42:52.121543+00:00",
+    "japan vs venezuela": "2026-09-28T13:43:22.746105+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-28",
-  "pushed_today": 2039,
-  "last_run": "2026-09-28T10:41:34.912022+00:00",
+  "pushed_today": 2042,
+  "last_run": "2026-09-28T13:43:23.747128+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
