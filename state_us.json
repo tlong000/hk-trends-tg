@@ -1909,12 +1909,14 @@
     "winter storm warning": "2026-09-29T01:45:25.522797+00:00",
     "andy dalton": "2026-09-29T01:56:00.385250+00:00",
     "keenum": "2026-09-29T01:56:14.360785+00:00",
-    "guatemala - el salvador": "2026-09-29T02:06:29.785350+00:00"
+    "guatemala - el salvador": "2026-09-29T02:06:29.785350+00:00",
+    "devonta smith": "2026-09-29T02:16:44.765002+00:00",
+    "teresa giudice": "2026-09-29T02:16:52.681275+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-28",
-  "pushed_today": 2108,
-  "last_run": "2026-09-29T02:06:30.786175+00:00",
+  "pushed_today": 2110,
+  "last_run": "2026-09-29T02:16:53.682126+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
