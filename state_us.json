@@ -1955,12 +1955,15 @@
     "pete hegseth general officer reduction": "2026-09-29T20:17:50.331016+00:00",
     "mlb scores": "2026-09-29T20:28:07.805680+00:00",
     "six flags x2 roller coaster closure": "2026-09-29T20:28:16.355751+00:00",
-    "parachuting": "2026-09-29T20:28:25.620166+00:00"
+    "parachuting": "2026-09-29T20:28:25.620166+00:00",
+    "scotland vs switzerland": "2026-09-29T20:38:38.525602+00:00",
+    "spain": "2026-09-29T20:38:48.859228+00:00",
+    "openai dots": "2026-09-29T20:38:55.874291+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-29",
-  "pushed_today": 2157,
-  "last_run": "2026-09-29T20:28:26.621076+00:00",
+  "pushed_today": 2160,
+  "last_run": "2026-09-29T20:38:56.875193+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
