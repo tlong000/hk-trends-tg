@@ -2065,12 +2065,15 @@
     "astros score": "2026-09-30T23:22:11.899057+00:00",
     "minnesota federal judges misconduct complaint": "2026-09-30T23:32:28.956491+00:00",
     "argentina vs bolivia": "2026-09-30T23:42:43.517061+00:00",
-    "argentina - bolivia": "2026-09-30T23:42:55.626579+00:00"
+    "argentina - bolivia": "2026-09-30T23:42:55.626579+00:00",
+    "pak vs ban": "2026-09-30T23:53:07.945285+00:00",
+    "penguins vs flyers": "2026-09-30T23:53:19.797929+00:00",
+    "trump $500": "2026-09-30T23:53:28.140795+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-30",
-  "pushed_today": 2288,
-  "last_run": "2026-09-30T23:42:56.627235+00:00",
+  "pushed_today": 2291,
+  "last_run": "2026-09-30T23:53:29.141448+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
