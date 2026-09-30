@@ -1994,12 +1994,15 @@
     "red sox game today": "2026-09-30T00:51:06.278366+00:00",
     "bruins": "2026-09-30T01:01:21.500151+00:00",
     "inventia healthcare chlorthalidone tablet recall": "2026-09-30T01:01:30.351434+00:00",
-    "yankees score": "2026-09-30T01:23:16.247605+00:00"
+    "yankees score": "2026-09-30T01:23:16.247605+00:00",
+    "cubs vs padres": "2026-09-30T01:34:22.998209+00:00",
+    "otto sirgo": "2026-09-30T01:34:53.575136+00:00",
+    "usmnt": "2026-09-30T01:35:44.966312+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-29",
-  "pushed_today": 2206,
-  "last_run": "2026-09-30T01:23:47.823678+00:00",
+  "pushed_today": 2209,
+  "last_run": "2026-09-30T01:35:45.967082+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
