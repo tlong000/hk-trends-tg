@@ -2058,12 +2058,13 @@
     "atlanta braves": "2026-09-30T22:02:50.589422+00:00",
     "tj maxx closing": "2026-09-30T22:02:57.981789+00:00",
     "kaliningrad": "2026-09-30T22:10:40.330201+00:00",
-    "senate democrats block stock bill": "2026-09-30T22:10:52.639777+00:00"
+    "senate democrats block stock bill": "2026-09-30T22:10:52.639777+00:00",
+    "lawsuit": "2026-09-30T22:51:19.255182+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-30",
-  "pushed_today": 2281,
-  "last_run": "2026-09-30T22:41:06.296762+00:00",
+  "pushed_today": 2282,
+  "last_run": "2026-09-30T22:51:20.255781+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
