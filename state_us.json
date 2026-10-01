@@ -1485,7 +1485,7 @@
     "portugal": "2026-09-24T20:35:38.665156+00:00",
     "côte d'ivoire vs ghana": "2026-09-24T21:16:07.949609+00:00",
     "netanyahu": "2026-09-24T21:27:17.786510+00:00",
-    "portugal national football team": "2026-09-24T22:07:52.917354+00:00",
+    "portugal national football team": "2026-10-01T20:50:07.920806+00:00",
     "pete crow armstrong": "2026-09-24T22:18:08.084152+00:00",
     "bob pettit": "2026-09-24T23:08:37.390841+00:00",
     "falcons vs packers": "2026-09-24T23:08:54.200455+00:00",
@@ -2143,8 +2143,8 @@
   },
   "paused": false,
   "pushed_date": "2026-10-01",
-  "pushed_today": 2362,
-  "last_run": "2026-10-01T20:39:50.606943+00:00",
+  "pushed_today": 2363,
+  "last_run": "2026-10-01T20:50:08.922070+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
