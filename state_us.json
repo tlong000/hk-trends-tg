@@ -2070,12 +2070,13 @@
     "penguins vs flyers": "2026-09-30T23:53:19.797929+00:00",
     "trump $500": "2026-09-30T23:53:28.140795+00:00",
     "marsha blackburn sues jack smith": "2026-10-01T00:03:44.076614+00:00",
-    "cheese recall": "2026-10-01T00:03:52.369743+00:00"
+    "cheese recall": "2026-10-01T00:03:52.369743+00:00",
+    "verity movie": "2026-10-01T00:24:16.753184+00:00"
   },
   "paused": false,
   "pushed_date": "2026-09-30",
-  "pushed_today": 2293,
-  "last_run": "2026-10-01T00:13:57.787593+00:00",
+  "pushed_today": 2294,
+  "last_run": "2026-10-01T00:24:17.753802+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
