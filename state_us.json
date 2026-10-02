@@ -2158,12 +2158,14 @@
     "rick ross arrest": "2026-10-02T00:04:41.356330+00:00",
     "lebron james philadelphia 76ers helicopter commute": "2026-10-02T00:15:03.675650+00:00",
     "thursday night football tonight": "2026-10-02T00:15:15.879026+00:00",
-    "wku vs nm state": "2026-10-02T00:25:37.845131+00:00"
+    "wku vs nm state": "2026-10-02T00:25:37.845131+00:00",
+    "lightning vs rangers": "2026-10-02T00:40:58.454961+00:00",
+    "flyers vs devils": "2026-10-02T00:41:12.835113+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-01",
-  "pushed_today": 2390,
-  "last_run": "2026-10-02T00:36:40.822002+00:00",
+  "pushed_today": 2392,
+  "last_run": "2026-10-02T00:41:13.835906+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
