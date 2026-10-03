@@ -2275,12 +2275,15 @@
     "india vs west indies": "2026-10-03T12:14:00.940818+00:00",
     "nolan wells": "2026-10-03T14:16:06.660680+00:00",
     "india - brasil": "2026-10-03T14:46:44.137734+00:00",
-    "where is college gameday this week": "2026-10-03T15:07:41.066591+00:00"
+    "where is college gameday this week": "2026-10-03T15:07:41.066591+00:00",
+    "alabama vs ms state": "2026-10-03T15:28:43.599135+00:00",
+    "michigan vs minnesota": "2026-10-03T15:29:11.363669+00:00",
+    "croatia vs england": "2026-10-03T15:29:47.527378+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-03",
-  "pushed_today": 2517,
-  "last_run": "2026-10-03T15:17:45.537762+00:00",
+  "pushed_today": 2520,
+  "last_run": "2026-10-03T15:29:48.528295+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
