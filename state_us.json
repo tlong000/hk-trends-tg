@@ -1713,7 +1713,7 @@
     "georgia tech football": "2026-09-27T07:12:10.179597+00:00",
     "uw football": "2026-09-27T08:13:02.439367+00:00",
     "barcelos": "2026-09-27T08:23:23.320022+00:00",
-    "gopher football": "2026-09-27T08:43:52.196150+00:00",
+    "gopher football": "2026-10-03T20:06:54.952514+00:00",
     "ind vs wi": "2026-10-03T09:14:29.266977+00:00",
     "wi vs ind": "2026-09-30T10:56:12.477683+00:00",
     "taylor sheridan": "2026-09-27T15:06:45.891663+00:00",
@@ -2310,12 +2310,14 @@
     "donald trump medicare payment": "2026-10-03T19:34:08.162174+00:00",
     "notre dame football": "2026-10-03T19:44:29.369499+00:00",
     "maryland vs nebraska": "2026-10-03T19:44:44.706265+00:00",
-    "louisville vs nc state": "2026-10-03T19:55:48.344384+00:00"
+    "louisville vs nc state": "2026-10-03T19:55:48.344384+00:00",
+    "kentucky vs south carolina": "2026-10-03T20:06:40.675101+00:00",
+    "wyoming vs nd state": "2026-10-03T20:07:09.766757+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-03",
-  "pushed_today": 2562,
-  "last_run": "2026-10-03T19:56:19.834420+00:00",
+  "pushed_today": 2565,
+  "last_run": "2026-10-03T20:07:10.767630+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
