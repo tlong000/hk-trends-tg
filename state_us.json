@@ -2279,12 +2279,15 @@
     "alabama vs ms state": "2026-10-03T15:28:43.599135+00:00",
     "michigan vs minnesota": "2026-10-03T15:29:11.363669+00:00",
     "croatia vs england": "2026-10-03T15:29:47.527378+00:00",
-    "notre dame vs unc": "2026-10-03T15:40:47.361533+00:00"
+    "notre dame vs unc": "2026-10-03T15:40:47.361533+00:00",
+    "croacia - inglaterra": "2026-10-03T15:51:25.531877+00:00",
+    "west virginia vs iowa state": "2026-10-03T15:52:00.718569+00:00",
+    "memphis vs charlotte": "2026-10-03T15:52:34.633196+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-03",
-  "pushed_today": 2521,
-  "last_run": "2026-10-03T15:40:48.362469+00:00",
+  "pushed_today": 2524,
+  "last_run": "2026-10-03T15:52:35.634019+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
