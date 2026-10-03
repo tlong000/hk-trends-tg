@@ -2287,12 +2287,13 @@
     "alabama vs mississippi state": "2026-10-03T16:19:52.431485+00:00",
     "cj carr": "2026-10-03T16:21:22.779539+00:00",
     "mi state vs wisconsin": "2026-10-03T16:31:45.394493+00:00",
-    "ucf vs houston": "2026-10-03T16:32:11.649180+00:00"
+    "ucf vs houston": "2026-10-03T16:32:11.649180+00:00",
+    "iowa vs ohio state": "2026-10-03T16:42:48.468757+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-03",
-  "pushed_today": 2530,
-  "last_run": "2026-10-03T16:32:12.649981+00:00",
+  "pushed_today": 2531,
+  "last_run": "2026-10-03T16:42:49.469596+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
