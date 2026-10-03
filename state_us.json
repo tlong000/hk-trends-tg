@@ -1020,7 +1020,7 @@
     "30 year mortgage rate": "2026-09-15T22:34:08.356201+00:00",
     "brewers vs pirates": "2026-09-15T23:07:04.048671+00:00",
     "phillies vs nationals": "2026-09-15T23:18:33.473052+00:00",
-    "caitlin clark": "2026-09-15T23:19:15.645296+00:00",
+    "caitlin clark": "2026-10-03T16:20:41.060809+00:00",
     "red sox vs rangers": "2026-09-16T00:23:26.591313+00:00",
     "jimmy horn jr": "2026-09-16T00:23:45.500318+00:00",
     "disney plus": "2026-09-16T00:24:09.692825+00:00",
@@ -2283,12 +2283,14 @@
     "croacia - inglaterra": "2026-10-03T15:51:25.531877+00:00",
     "west virginia vs iowa state": "2026-10-03T15:52:00.718569+00:00",
     "memphis vs charlotte": "2026-10-03T15:52:34.633196+00:00",
-    "vanderbilt vs georgia": "2026-10-03T16:02:59.354389+00:00"
+    "vanderbilt vs georgia": "2026-10-03T16:02:59.354389+00:00",
+    "alabama vs mississippi state": "2026-10-03T16:19:52.431485+00:00",
+    "cj carr": "2026-10-03T16:21:22.779539+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-03",
-  "pushed_today": 2525,
-  "last_run": "2026-10-03T16:09:13.691479+00:00",
+  "pushed_today": 2528,
+  "last_run": "2026-10-03T16:21:23.780294+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
