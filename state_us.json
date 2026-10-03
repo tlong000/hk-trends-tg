@@ -2335,12 +2335,15 @@
     "mick parkin": "2026-10-03T22:11:56.571274+00:00",
     "ohio vs kent state": "2026-10-03T22:12:08.809153+00:00",
     "johnny walker": "2026-10-03T22:22:24.000602+00:00",
-    "bermuda airplane missing": "2026-10-03T22:22:55.006408+00:00"
+    "bermuda airplane missing": "2026-10-03T22:22:55.006408+00:00",
+    "arkansas vs texas a&m": "2026-10-03T22:33:13.994790+00:00",
+    "oregon state vs co state": "2026-10-03T22:33:25.400241+00:00",
+    "anthony wint": "2026-10-03T22:33:35.081091+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-03",
-  "pushed_today": 2600,
-  "last_run": "2026-10-03T22:22:56.007158+00:00",
+  "pushed_today": 2603,
+  "last_run": "2026-10-03T22:33:36.081907+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
