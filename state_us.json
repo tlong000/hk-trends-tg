@@ -2258,12 +2258,15 @@
     "boca juniors - unión": "2026-10-03T03:15:25.203109+00:00",
     "vt vs pitt": "2026-10-03T03:25:46.931872+00:00",
     "gabby williams": "2026-10-03T03:26:21.724068+00:00",
-    "ducks vs golden knights": "2026-10-03T03:26:46.118974+00:00"
+    "ducks vs golden knights": "2026-10-03T03:26:46.118974+00:00",
+    "pak vs ind": "2026-10-03T05:07:37.713909+00:00",
+    "the widower netflix reviews": "2026-10-03T05:08:17.625474+00:00",
+    "colombia - paraguay": "2026-10-03T05:08:34.284969+00:00"
   },
   "paused": false,
-  "pushed_date": "2026-10-02",
+  "pushed_date": "2026-10-03",
   "pushed_today": 2501,
-  "last_run": "2026-10-03T03:26:47.119833+00:00",
+  "last_run": "2026-10-03T05:08:35.285968+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
