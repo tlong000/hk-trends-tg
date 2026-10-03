@@ -2237,12 +2237,14 @@
     "capitals vs hurricanes": "2026-10-02T23:48:43.602491+00:00",
     "dylan larkin": "2026-10-02T23:48:51.152548+00:00",
     "liberty vs delaware": "2026-10-02T23:49:00.347421+00:00",
-    "italy vs france": "2026-10-03T00:09:21.029946+00:00"
+    "italy vs france": "2026-10-03T00:09:21.029946+00:00",
+    "kathleen turner and michael douglas": "2026-10-03T00:39:41.516459+00:00",
+    "colombia vs paraguay": "2026-10-03T00:39:51.594970+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-02",
-  "pushed_today": 2477,
-  "last_run": "2026-10-03T00:29:29.247560+00:00",
+  "pushed_today": 2479,
+  "last_run": "2026-10-03T00:39:52.595783+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
