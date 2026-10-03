@@ -1695,7 +1695,7 @@
     "snl": "2026-09-27T03:31:47.684285+00:00",
     "ailin perez": "2026-09-27T03:42:19.260038+00:00",
     "tigres - puebla": "2026-09-27T04:03:20.764904+00:00",
-    "umass football": "2026-09-27T04:03:39.288300+00:00",
+    "umass football": "2026-10-03T21:18:45.008116+00:00",
     "mexico vs columbia": "2026-09-27T04:14:04.179673+00:00",
     "stanford football": "2026-09-27T04:14:22.665453+00:00",
     "missouri football": "2026-10-03T21:01:00.899101+00:00",
@@ -2321,12 +2321,14 @@
     "mn gophers football": "2026-10-03T20:39:59.449771+00:00",
     "braves - dodgers": "2026-10-03T21:00:49.528686+00:00",
     "white sox game today": "2026-10-03T21:01:14.172814+00:00",
-    "unc vs notre dame": "2026-10-03T21:07:39.764157+00:00"
+    "unc vs notre dame": "2026-10-03T21:07:39.764157+00:00",
+    "croatia national football team vs england national football team standings": "2026-10-03T21:18:12.953919+00:00",
+    "california vs unlv": "2026-10-03T21:18:33.547145+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-03",
-  "pushed_today": 2581,
-  "last_run": "2026-10-03T21:07:55.846224+00:00",
+  "pushed_today": 2584,
+  "last_run": "2026-10-03T21:18:46.008887+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
