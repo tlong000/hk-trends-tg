@@ -1059,7 +1059,7 @@
     "atlético madrid - osasuna": "2026-09-16T18:50:28.250374+00:00",
     "barcelona vs racing santander": "2026-09-16T19:41:11.615585+00:00",
     "s&p 500": "2026-09-16T20:01:35.212069+00:00",
-    "white sox": "2026-09-30T02:09:28.769602+00:00",
+    "white sox": "2026-10-03T18:51:24.808840+00:00",
     "fed interest rates": "2026-09-16T20:22:12.237530+00:00",
     "federal reserve": "2026-09-16T20:32:34.531227+00:00",
     "milan vs benfica": "2026-09-16T20:32:58.017116+00:00",
@@ -2300,12 +2300,14 @@
     "trump news": "2026-10-03T18:18:54.767665+00:00",
     "middle tenn. vs kansas": "2026-10-03T18:29:18.138991+00:00",
     "ucf football": "2026-10-03T18:29:38.172280+00:00",
-    "alabama mississippi state": "2026-10-03T18:40:27.746092+00:00"
+    "alabama mississippi state": "2026-10-03T18:40:27.746092+00:00",
+    "ohio state vs iowa": "2026-10-03T18:51:52.496902+00:00",
+    "stanford vs wake forest": "2026-10-03T18:52:12.796709+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-03",
-  "pushed_today": 2548,
-  "last_run": "2026-10-03T18:40:46.774103+00:00",
+  "pushed_today": 2551,
+  "last_run": "2026-10-03T18:52:13.797523+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
