@@ -2344,12 +2344,15 @@
     "runescape 4": "2026-10-03T22:44:14.529519+00:00",
     "miami fl vs clemson": "2026-10-03T22:54:35.009354+00:00",
     "osu vs iowa": "2026-10-03T22:54:47.180224+00:00",
-    "alabama a&m vs jackson state": "2026-10-03T22:54:56.969813+00:00"
+    "alabama a&m vs jackson state": "2026-10-03T22:54:56.969813+00:00",
+    "byu vs tcu": "2026-10-03T23:05:22.969045+00:00",
+    "mcneese state vs lsu": "2026-10-03T23:05:32.716882+00:00",
+    "texas tech vs colorado": "2026-10-03T23:06:03.495953+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-03",
-  "pushed_today": 2609,
-  "last_run": "2026-10-03T22:54:57.970584+00:00",
+  "pushed_today": 2612,
+  "last_run": "2026-10-03T23:06:04.496743+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
