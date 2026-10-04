@@ -2436,12 +2436,13 @@
     "commanders vs colts": "2026-10-04T17:01:16.162190+00:00",
     "kosovo vs austria": "2026-10-04T17:01:38.790339+00:00",
     "chiefs vs raiders": "2026-10-04T17:12:17.703900+00:00",
-    "indianapolis colts": "2026-10-04T17:12:42.384685+00:00"
+    "indianapolis colts": "2026-10-04T17:12:42.384685+00:00",
+    "raiders vs chiefs": "2026-10-04T17:23:41.482224+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-04",
-  "pushed_today": 2726,
-  "last_run": "2026-10-04T17:13:09.121090+00:00",
+  "pushed_today": 2727,
+  "last_run": "2026-10-04T17:23:42.483005+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
