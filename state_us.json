@@ -2551,12 +2551,14 @@
     "francia - bélgica": "2026-10-05T18:41:56.468200+00:00",
     "citizenship": "2026-10-05T18:52:09.873260+00:00",
     "matt reeves": "2026-10-05T19:02:27.430325+00:00",
-    "robert kelker kelly": "2026-10-05T19:12:41.536300+00:00"
+    "robert kelker kelly": "2026-10-05T19:12:41.536300+00:00",
+    "italy vs türkiye": "2026-10-05T19:22:56.678895+00:00",
+    "bosnia and herzegovina vs poland": "2026-10-05T19:23:05.278684+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-05",
-  "pushed_today": 2892,
-  "last_run": "2026-10-05T19:12:42.536940+00:00",
+  "pushed_today": 2894,
+  "last_run": "2026-10-05T19:23:06.279239+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
