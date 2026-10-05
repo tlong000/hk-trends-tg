@@ -2538,12 +2538,14 @@
     "russia pneumonic plague": "2026-10-05T14:25:33.325123+00:00",
     "foxnews": "2026-10-05T14:25:43.122992+00:00",
     "karl deisseroth": "2026-10-05T14:26:17.694756+00:00",
-    "horario de verano": "2026-10-05T14:36:37.606318+00:00"
+    "horario de verano": "2026-10-05T14:36:37.606318+00:00",
+    "dennis hastert": "2026-10-05T14:57:06.759276+00:00",
+    "karoline leavitt": "2026-10-05T14:57:22.451263+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-05",
-  "pushed_today": 2876,
-  "last_run": "2026-10-05T14:46:42.835109+00:00",
+  "pushed_today": 2878,
+  "last_run": "2026-10-05T14:57:23.452111+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
