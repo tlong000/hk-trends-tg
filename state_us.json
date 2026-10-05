@@ -2565,12 +2565,13 @@
     "monday night football tonight": "2026-10-05T22:29:05.887744+00:00",
     "voter registration": "2026-10-05T22:29:17.713596+00:00",
     "chris wilson jr": "2026-10-05T22:29:26.036069+00:00",
-    "adrian hill": "2026-10-05T22:39:40.708183+00:00"
+    "adrian hill": "2026-10-05T22:39:40.708183+00:00",
+    "voter registration texas": "2026-10-05T22:59:59.794732+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-05",
-  "pushed_today": 2907,
-  "last_run": "2026-10-05T22:49:45.863173+00:00",
+  "pushed_today": 2908,
+  "last_run": "2026-10-05T23:00:00.795705+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
