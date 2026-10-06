@@ -2590,12 +2590,15 @@
     "what happened to steve gleason": "2026-10-06T01:37:32.137379+00:00",
     "saints depth chart": "2026-10-06T01:47:56.457002+00:00",
     "knicks game": "2026-10-06T01:58:26.970496+00:00",
-    "honduras vs jamaica": "2026-10-06T02:18:44.828014+00:00"
+    "honduras vs jamaica": "2026-10-06T02:18:44.828014+00:00",
+    "honduras - jamaica": "2026-10-06T02:29:09.976159+00:00",
+    "freddy peralta": "2026-10-06T02:29:23.976622+00:00",
+    "nba games": "2026-10-06T02:29:42.598722+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-05",
-  "pushed_today": 2946,
-  "last_run": "2026-10-06T02:18:58.406728+00:00",
+  "pushed_today": 2949,
+  "last_run": "2026-10-06T02:29:43.599456+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
