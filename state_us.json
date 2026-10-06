@@ -2610,12 +2610,13 @@
     "revoke us citizenship": "2026-10-06T06:09:50.939323+00:00",
     "timberwolves vs bucks": "2026-10-06T06:20:12.397407+00:00",
     "posiciones de selección de fútbol de guatemala contra selección de fútbol de surinam": "2026-10-06T06:20:29.293669+00:00",
-    "lakers vs kings": "2026-10-06T06:30:51.012651+00:00"
+    "lakers vs kings": "2026-10-06T06:30:51.012651+00:00",
+    "windsor": "2026-10-06T09:22:32.109272+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-06",
-  "pushed_today": 2965,
-  "last_run": "2026-10-06T09:12:11.336736+00:00",
+  "pushed_today": 2966,
+  "last_run": "2026-10-06T09:22:33.110122+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
