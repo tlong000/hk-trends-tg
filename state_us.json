@@ -2656,12 +2656,14 @@
     "airport": "2026-10-06T23:50:23.932624+00:00",
     "dodgers - braves": "2026-10-07T00:00:35.499031+00:00",
     "croatia national football team vs spain national football team standings": "2026-10-07T00:00:42.917993+00:00",
-    "england national football team vs czech republic national football team standings": "2026-10-07T00:00:52.578621+00:00"
+    "england national football team vs czech republic national football team standings": "2026-10-07T00:00:52.578621+00:00",
+    "southern miss vs troy": "2026-10-07T00:11:12.882373+00:00",
+    "is christa pike awake": "2026-10-07T00:11:21.121900+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-06",
-  "pushed_today": 3019,
-  "last_run": "2026-10-07T00:00:53.579495+00:00",
+  "pushed_today": 3021,
+  "last_run": "2026-10-07T00:11:22.122658+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
