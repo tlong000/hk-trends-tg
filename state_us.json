@@ -2705,12 +2705,15 @@
     "cam jurgens": "2026-10-07T17:16:03.849961+00:00",
     "obj vikings": "2026-10-07T17:37:03.880327+00:00",
     "trump accounts": "2026-10-07T17:47:19.800184+00:00",
-    "estatus de protección temporal": "2026-10-07T18:27:47.351629+00:00"
+    "estatus de protección temporal": "2026-10-07T18:27:47.351629+00:00",
+    "hurricane watch": "2026-10-07T20:33:16.133194+00:00",
+    "guardians vs white sox": "2026-10-07T20:33:26.145893+00:00",
+    "travis kelce birthday chiefs win": "2026-10-07T20:33:36.897601+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-07",
-  "pushed_today": 3090,
-  "last_run": "2026-10-07T18:37:52.834241+00:00",
+  "pushed_today": 3093,
+  "last_run": "2026-10-07T20:33:37.898508+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
