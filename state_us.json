@@ -2689,12 +2689,14 @@
     "usa vs canada soccer": "2026-10-07T03:03:50.735423+00:00",
     "hurricane in the gulf": "2026-10-07T03:14:09.554385+00:00",
     "senators vs red wings": "2026-10-07T03:14:22.116216+00:00",
-    "golden knights vs kraken": "2026-10-07T03:35:56.842022+00:00"
+    "golden knights vs kraken": "2026-10-07T03:35:56.842022+00:00",
+    "padres game today": "2026-10-07T03:56:47.767214+00:00",
+    "hurricane florida": "2026-10-07T03:57:02.793492+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-06",
-  "pushed_today": 3069,
-  "last_run": "2026-10-07T03:46:24.080703+00:00",
+  "pushed_today": 3071,
+  "last_run": "2026-10-07T03:57:03.794225+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
