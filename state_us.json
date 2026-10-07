@@ -995,7 +995,7 @@
     "stock market today": "2026-09-27T05:50:12.759085+00:00",
     "latest news": "2026-09-19T12:59:34.079676+00:00",
     "technology news": "2026-09-15T09:58:23.452421+00:00",
-    "weather today": "2026-09-15T11:47:43.604534+00:00",
+    "weather today": "2026-10-07T07:28:50.365434+00:00",
     "ticketmaster": "2026-09-15T13:49:28.483827+00:00",
     "rayo vallecano vs espanyol": "2026-09-15T17:52:07.420913+00:00",
     "rayo vallecano - rcd espanyol": "2026-09-15T18:02:30.219102+00:00",
@@ -2696,12 +2696,13 @@
     "panthers vs kings": "2026-10-07T05:44:59.844241+00:00",
     "guillermo dancing with the stars": "2026-10-07T05:45:46.966105+00:00",
     "atlanta braves game": "2026-10-07T06:16:28.687737+00:00",
-    "harry potter": "2026-10-07T06:47:00.582987+00:00"
+    "harry potter": "2026-10-07T06:47:00.582987+00:00",
+    "yaxel lendeborg": "2026-10-07T07:28:26.347930+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-07",
-  "pushed_today": 3074,
-  "last_run": "2026-10-07T07:17:41.698520+00:00",
+  "pushed_today": 3076,
+  "last_run": "2026-10-07T07:28:51.366160+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
