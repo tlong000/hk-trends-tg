@@ -2686,12 +2686,14 @@
     "islanders": "2026-10-07T02:31:25.404684+00:00",
     "who got eliminated on dancing with the stars": "2026-10-07T02:51:55.058709+00:00",
     "padres game": "2026-10-07T02:52:29.266015+00:00",
-    "usa vs canada soccer": "2026-10-07T03:03:50.735423+00:00"
+    "usa vs canada soccer": "2026-10-07T03:03:50.735423+00:00",
+    "hurricane in the gulf": "2026-10-07T03:14:09.554385+00:00",
+    "senators vs red wings": "2026-10-07T03:14:22.116216+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-06",
-  "pushed_today": 3063,
-  "last_run": "2026-10-07T03:03:51.736134+00:00",
+  "pushed_today": 3065,
+  "last_run": "2026-10-07T03:14:23.117026+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
