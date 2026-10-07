@@ -2718,12 +2718,13 @@
     "mall of america": "2026-10-07T21:05:29.629137+00:00",
     "trump administration green card policy lawsuit": "2026-10-07T21:46:03.419968+00:00",
     "white sox game": "2026-10-07T21:56:19.102260+00:00",
-    "sox game today": "2026-10-07T22:06:49.372098+00:00"
+    "sox game today": "2026-10-07T22:06:49.372098+00:00",
+    "tropical storm watch": "2026-10-07T22:27:27.605719+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-07",
-  "pushed_today": 3104,
-  "last_run": "2026-10-07T22:17:04.109407+00:00",
+  "pushed_today": 3105,
+  "last_run": "2026-10-07T22:27:28.606597+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
