@@ -2728,12 +2728,14 @@
     "guardians game": "2026-10-07T23:49:49.663911+00:00",
     "jax state vs kennesaw st": "2026-10-08T00:10:16.607342+00:00",
     "pacers": "2026-10-08T00:10:22.665283+00:00",
-    "hurricane rachel": "2026-10-08T00:10:47.306360+00:00"
+    "hurricane rachel": "2026-10-08T00:10:47.306360+00:00",
+    "penguins vs capitals": "2026-10-08T00:21:03.992066+00:00",
+    "nm state vs fiu": "2026-10-08T00:21:25.530508+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-07",
-  "pushed_today": 3118,
-  "last_run": "2026-10-08T00:10:48.307214+00:00",
+  "pushed_today": 3120,
+  "last_run": "2026-10-08T00:21:26.531338+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
