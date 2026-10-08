@@ -2781,12 +2781,13 @@
     "fort hood shooter": "2026-10-08T22:15:07.138662+00:00",
     "cassidy hutchinson": "2026-10-08T22:15:13.975499+00:00",
     "marvel zodiac": "2026-10-08T22:25:32.071153+00:00",
-    "cardiff bed bug infestation gareth davies": "2026-10-08T22:36:50.897978+00:00"
+    "cardiff bed bug infestation gareth davies": "2026-10-08T22:36:50.897978+00:00",
+    "buccaneers": "2026-10-08T22:58:36.494217+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-08",
-  "pushed_today": 3181,
-  "last_run": "2026-10-08T22:48:03.987035+00:00",
+  "pushed_today": 3182,
+  "last_run": "2026-10-08T22:58:37.495068+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
