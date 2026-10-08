@@ -2763,12 +2763,13 @@
     "valkyries game today": "2026-10-08T05:36:18.316520+00:00",
     "did the brewers win last night": "2026-10-08T10:46:43.780914+00:00",
     "tropical storm hurricane isaias": "2026-10-08T11:27:22.025598+00:00",
-    "refinance home loan": "2026-10-08T12:59:37.044667+00:00"
+    "refinance home loan": "2026-10-08T12:59:37.044667+00:00",
+    "anne carson": "2026-10-08T13:10:23.421040+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-08",
-  "pushed_today": 3162,
-  "last_run": "2026-10-08T12:59:38.045449+00:00",
+  "pushed_today": 3163,
+  "last_run": "2026-10-08T13:10:24.421838+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
