@@ -2732,12 +2732,13 @@
     "penguins vs capitals": "2026-10-08T00:21:03.992066+00:00",
     "nm state vs fiu": "2026-10-08T00:21:25.530508+00:00",
     "fiu football": "2026-10-08T00:56:30.747858+00:00",
-    "sox": "2026-10-08T00:56:47.601085+00:00"
+    "sox": "2026-10-08T00:56:47.601085+00:00",
+    "tropical storm isaias hurricane tracker": "2026-10-08T01:28:04.930413+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-07",
-  "pushed_today": 3124,
-  "last_run": "2026-10-08T01:17:46.793618+00:00",
+  "pushed_today": 3125,
+  "last_run": "2026-10-08T01:28:05.931265+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
