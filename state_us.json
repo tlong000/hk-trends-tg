@@ -2843,12 +2843,13 @@
     "katie zacharia": "2026-10-09T18:39:33.176536+00:00",
     "panama earthquake": "2026-10-09T18:39:44.627340+00:00",
     "al-nassr vs diriyah": "2026-10-09T18:50:06.051080+00:00",
-    "high wind warning": "2026-10-09T18:50:11.931563+00:00"
+    "high wind warning": "2026-10-09T18:50:11.931563+00:00",
+    "panama": "2026-10-09T19:00:31.829522+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-09",
-  "pushed_today": 3252,
-  "last_run": "2026-10-09T18:50:12.932282+00:00",
+  "pushed_today": 3253,
+  "last_run": "2026-10-09T19:00:32.830164+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
