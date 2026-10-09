@@ -2861,12 +2861,13 @@
     "newport beach flooding": "2026-10-09T21:24:16.144131+00:00",
     "ditka cause of death": "2026-10-09T21:24:30.672235+00:00",
     "reimbursement": "2026-10-09T21:34:45.386305+00:00",
-    "fort hood shooting details": "2026-10-09T21:45:05.933426+00:00"
+    "fort hood shooting details": "2026-10-09T21:45:05.933426+00:00",
+    "dortmund": "2026-10-09T22:05:22.848824+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-09",
-  "pushed_today": 3271,
-  "last_run": "2026-10-09T21:55:10.985778+00:00",
+  "pushed_today": 3272,
+  "last_run": "2026-10-09T22:05:23.849489+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
