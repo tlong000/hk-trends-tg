@@ -65,7 +65,7 @@
     "rhode": "2026-09-08T21:04:38.368877+00:00",
     "derek phillips": "2026-09-08T21:04:48.353959+00:00",
     "real madrid vs": "2026-09-08T21:25:08.226762+00:00",
-    "baker mayfield": "2026-09-27T23:33:57.081279+00:00",
+    "baker mayfield": "2026-10-09T01:22:16.887283+00:00",
     "dortmund - villarreal": "2026-09-08T21:46:02.742668+00:00",
     "millwall vs newcastle": "2026-09-08T21:46:18.366595+00:00",
     "posiciones de real madrid contra inter milan": "2026-09-08T22:06:47.559939+00:00",
@@ -2790,12 +2790,14 @@
     "mo state vs wku": "2026-10-08T23:39:45.521834+00:00",
     "court": "2026-10-08T23:51:05.156035+00:00",
     "baker mayfield injury": "2026-10-09T01:11:32.004570+00:00",
-    "meteor shower tonight": "2026-10-09T01:11:50.911965+00:00"
+    "meteor shower tonight": "2026-10-09T01:11:50.911965+00:00",
+    "south alabama vs ar state": "2026-10-09T01:22:48.640822+00:00",
+    "mammoth vs bruins": "2026-10-09T01:23:21.326382+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-08",
-  "pushed_today": 3193,
-  "last_run": "2026-10-09T01:11:51.912738+00:00",
+  "pushed_today": 3196,
+  "last_run": "2026-10-09T01:23:22.327174+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
