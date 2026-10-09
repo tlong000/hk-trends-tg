@@ -2320,7 +2320,7 @@
     "utep vs new mexico": "2026-10-03T20:39:45.801608+00:00",
     "mn gophers football": "2026-10-03T20:39:59.449771+00:00",
     "braves - dodgers": "2026-10-03T21:00:49.528686+00:00",
-    "white sox game today": "2026-10-03T21:01:14.172814+00:00",
+    "white sox game today": "2026-10-09T04:36:23.256022+00:00",
     "unc vs notre dame": "2026-10-03T21:07:39.764157+00:00",
     "croatia national football team vs england national football team standings": "2026-10-03T21:18:12.953919+00:00",
     "california vs unlv": "2026-10-03T21:18:33.547145+00:00",
@@ -2594,7 +2594,7 @@
     "honduras - jamaica": "2026-10-06T02:29:09.976159+00:00",
     "freddy peralta": "2026-10-06T02:29:23.976622+00:00",
     "nba games": "2026-10-06T02:29:42.598722+00:00",
-    "lakers": "2026-10-06T02:39:57.614810+00:00",
+    "lakers": "2026-10-09T04:37:15.260325+00:00",
     "ariel hukporti": "2026-10-06T02:40:05.913037+00:00",
     "pistons": "2026-10-06T02:40:14.419682+00:00",
     "eric church": "2026-10-06T02:50:30.058418+00:00",
@@ -2825,12 +2825,13 @@
     "todd bowles": "2026-10-09T04:12:16.059427+00:00",
     "avalanche vs flames": "2026-10-09T04:12:55.638756+00:00",
     "fort hood shooting what happened": "2026-10-09T04:13:11.307272+00:00",
-    "white sox schedule": "2026-10-09T04:24:33.507137+00:00"
+    "white sox schedule": "2026-10-09T04:24:33.507137+00:00",
+    "maple leafs vs golden knights": "2026-10-09T04:36:55.034471+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-09",
-  "pushed_today": 3231,
-  "last_run": "2026-10-09T04:25:35.084120+00:00",
+  "pushed_today": 3234,
+  "last_run": "2026-10-09T04:37:16.261217+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
