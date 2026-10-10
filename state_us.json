@@ -2936,12 +2936,15 @@
     "arizona vs west virginia": "2026-10-10T17:39:46.910336+00:00",
     "unc vs pittsburgh": "2026-10-10T17:49:59.247919+00:00",
     "wake forest vs nc state": "2026-10-10T17:50:05.388922+00:00",
-    "texas ou": "2026-10-10T17:50:11.995352+00:00"
+    "texas ou": "2026-10-10T17:50:11.995352+00:00",
+    "ball state vs northwestern": "2026-10-10T18:00:24.757358+00:00",
+    "old dominion vs app state": "2026-10-10T18:00:37.324660+00:00",
+    "tulane vs army": "2026-10-10T18:00:47.843656+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3354,
-  "last_run": "2026-10-10T17:50:12.996053+00:00",
+  "pushed_today": 3357,
+  "last_run": "2026-10-10T18:00:48.844250+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
