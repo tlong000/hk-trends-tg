@@ -2933,12 +2933,15 @@
     "texas a&m vs missouri": "2026-10-10T17:29:08.680573+00:00",
     "man utd vs spurs": "2026-10-10T17:29:14.381581+00:00",
     "ucf vs oklahoma st": "2026-10-10T17:39:39.182824+00:00",
-    "arizona vs west virginia": "2026-10-10T17:39:46.910336+00:00"
+    "arizona vs west virginia": "2026-10-10T17:39:46.910336+00:00",
+    "unc vs pittsburgh": "2026-10-10T17:49:59.247919+00:00",
+    "wake forest vs nc state": "2026-10-10T17:50:05.388922+00:00",
+    "texas ou": "2026-10-10T17:50:11.995352+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3351,
-  "last_run": "2026-10-10T17:39:47.913084+00:00",
+  "pushed_today": 3354,
+  "last_run": "2026-10-10T17:50:12.996053+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
