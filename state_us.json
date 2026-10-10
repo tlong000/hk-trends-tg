@@ -2928,12 +2928,15 @@
     "aston villa vs brentford": "2026-10-10T14:58:33.993400+00:00",
     "barcelona vs getafe": "2026-10-10T17:18:17.031474+00:00",
     "marvin harrison jr": "2026-10-10T17:18:22.552545+00:00",
-    "indiana vs nebraska": "2026-10-10T17:18:30.170152+00:00"
+    "indiana vs nebraska": "2026-10-10T17:18:30.170152+00:00",
+    "south carolina vs florida": "2026-10-10T17:28:59.762985+00:00",
+    "texas a&m vs missouri": "2026-10-10T17:29:08.680573+00:00",
+    "man utd vs spurs": "2026-10-10T17:29:14.381581+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3345,
-  "last_run": "2026-10-10T17:18:31.170929+00:00",
+  "pushed_today": 3348,
+  "last_run": "2026-10-10T17:29:15.382262+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
