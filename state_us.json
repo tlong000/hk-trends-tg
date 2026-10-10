@@ -2918,12 +2918,13 @@
     "augsburg vs bayern": "2026-10-10T13:46:33.838320+00:00",
     "chelsea vs bournemouth": "2026-10-10T13:46:39.576055+00:00",
     "erie shooting": "2026-10-10T13:46:47.208785+00:00",
-    "sunderland vs brighton": "2026-10-10T13:57:01.368717+00:00"
+    "sunderland vs brighton": "2026-10-10T13:57:01.368717+00:00",
+    "alavés - atlético madrid": "2026-10-10T14:07:24.707858+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3334,
-  "last_run": "2026-10-10T13:57:02.369498+00:00",
+  "pushed_today": 3335,
+  "last_run": "2026-10-10T14:07:25.708637+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
