@@ -2876,12 +2876,15 @@
     "instituto - boca juniors": "2026-10-10T00:42:52.220715+00:00",
     "law": "2026-10-10T00:53:18.482115+00:00",
     "rangers vs capitals": "2026-10-10T00:53:30.939635+00:00",
-    "national firearms act": "2026-10-10T00:53:46.302012+00:00"
+    "national firearms act": "2026-10-10T00:53:46.302012+00:00",
+    "florida state football": "2026-10-10T01:04:05.031870+00:00",
+    "penguins vs blue jackets": "2026-10-10T01:04:16.094234+00:00",
+    "chris brown and usher tour": "2026-10-10T01:04:30.852876+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-09",
-  "pushed_today": 3290,
-  "last_run": "2026-10-10T00:53:47.302841+00:00",
+  "pushed_today": 3293,
+  "last_run": "2026-10-10T01:04:31.853808+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
