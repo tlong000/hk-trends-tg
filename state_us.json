@@ -2993,12 +2993,14 @@
     "ole miss score": "2026-10-10T22:14:09.299651+00:00",
     "jackson state vs grambling st": "2026-10-10T22:24:25.414097+00:00",
     "hurricane tropical storm": "2026-10-10T22:24:33.376285+00:00",
-    "uconn vs temple": "2026-10-10T22:24:38.163585+00:00"
+    "uconn vs temple": "2026-10-10T22:24:38.163585+00:00",
+    "nick marsh": "2026-10-10T22:34:48.751563+00:00",
+    "ohio state football score": "2026-10-10T22:34:55.828443+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3424,
-  "last_run": "2026-10-10T22:24:39.164466+00:00",
+  "pushed_today": 3426,
+  "last_run": "2026-10-10T22:34:56.829235+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
