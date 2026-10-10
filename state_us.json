@@ -2945,12 +2945,15 @@
     "inter vs parma": "2026-10-10T18:11:13.876129+00:00",
     "erie pa mass shooting": "2026-10-10T18:21:25.325884+00:00",
     "augsburgo - bayern": "2026-10-10T18:21:31.764068+00:00",
-    "premier league standings": "2026-10-10T18:21:37.563135+00:00"
+    "premier league standings": "2026-10-10T18:21:37.563135+00:00",
+    "real madrid vs villarreal": "2026-10-10T18:31:48.881677+00:00",
+    "flyers vs bruins": "2026-10-10T18:31:54.064348+00:00",
+    "ga vs alabama": "2026-10-10T18:31:59.020281+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3363,
-  "last_run": "2026-10-10T18:21:38.563929+00:00",
+  "pushed_today": 3366,
+  "last_run": "2026-10-10T18:32:00.020946+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
