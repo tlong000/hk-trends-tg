@@ -2909,12 +2909,13 @@
     "elijah brown": "2026-10-10T05:46:49.797722+00:00",
     "storm chaser hurricane isaias": "2026-10-10T05:57:20.362993+00:00",
     "post-tropical cyclone isaias": "2026-10-10T09:42:57.419229+00:00",
-    "premier league": "2026-10-10T09:43:03.238849+00:00"
+    "premier league": "2026-10-10T09:43:03.238849+00:00",
+    "arsenal vs leeds": "2026-10-10T11:13:57.106154+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3325,
-  "last_run": "2026-10-10T11:03:46.919793+00:00",
+  "pushed_today": 3326,
+  "last_run": "2026-10-10T11:13:58.106948+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
