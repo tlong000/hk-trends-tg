@@ -2996,12 +2996,15 @@
     "uconn vs temple": "2026-10-10T22:24:38.163585+00:00",
     "nick marsh": "2026-10-10T22:34:48.751563+00:00",
     "ohio state football score": "2026-10-10T22:34:55.828443+00:00",
-    "kentucky vs lsu": "2026-10-10T22:45:06.807157+00:00"
+    "kentucky vs lsu": "2026-10-10T22:45:06.807157+00:00",
+    "d.c. united vs inter miami": "2026-10-10T22:55:15.820062+00:00",
+    "san diego st vs oregon state": "2026-10-10T22:55:20.907905+00:00",
+    "wwe": "2026-10-10T22:55:28.107070+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3427,
-  "last_run": "2026-10-10T22:45:07.807977+00:00",
+  "pushed_today": 3430,
+  "last_run": "2026-10-10T22:55:29.107958+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
