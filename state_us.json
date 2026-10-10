@@ -2990,12 +2990,15 @@
     "manchester united f.c. vs tottenham standings": "2026-10-10T21:33:21.950363+00:00",
     "missouri vs texas a&m": "2026-10-10T21:43:31.760993+00:00",
     "tulsa vs navy": "2026-10-10T21:53:45.900543+00:00",
-    "ole miss score": "2026-10-10T22:14:09.299651+00:00"
+    "ole miss score": "2026-10-10T22:14:09.299651+00:00",
+    "jackson state vs grambling st": "2026-10-10T22:24:25.414097+00:00",
+    "hurricane tropical storm": "2026-10-10T22:24:33.376285+00:00",
+    "uconn vs temple": "2026-10-10T22:24:38.163585+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3421,
-  "last_run": "2026-10-10T22:14:15.598457+00:00",
+  "pushed_today": 3424,
+  "last_run": "2026-10-10T22:24:39.164466+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
