@@ -2917,12 +2917,13 @@
     "social security extra deposit 90": "2026-10-10T13:26:10.048276+00:00",
     "augsburg vs bayern": "2026-10-10T13:46:33.838320+00:00",
     "chelsea vs bournemouth": "2026-10-10T13:46:39.576055+00:00",
-    "erie shooting": "2026-10-10T13:46:47.208785+00:00"
+    "erie shooting": "2026-10-10T13:46:47.208785+00:00",
+    "sunderland vs brighton": "2026-10-10T13:57:01.368717+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3333,
-  "last_run": "2026-10-10T13:46:48.209500+00:00",
+  "pushed_today": 3334,
+  "last_run": "2026-10-10T13:57:02.369498+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
