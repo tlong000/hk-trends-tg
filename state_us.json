@@ -1674,7 +1674,7 @@
     "raul rosas jr": "2026-09-27T01:51:38.381396+00:00",
     "norma dumont": "2026-09-27T02:13:17.788807+00:00",
     "ailín pérez": "2026-09-27T02:13:46.020803+00:00",
-    "nebraska football": "2026-10-03T21:07:54.845618+00:00",
+    "nebraska football": "2026-10-10T17:39:25.493687+00:00",
     "mo state vs smu": "2026-09-27T02:25:08.740981+00:00",
     "uiw vs texas state": "2026-09-27T02:25:50.483188+00:00",
     "delaware vs virginia": "2026-09-27T02:26:16.188119+00:00",
@@ -2931,12 +2931,14 @@
     "indiana vs nebraska": "2026-10-10T17:18:30.170152+00:00",
     "south carolina vs florida": "2026-10-10T17:28:59.762985+00:00",
     "texas a&m vs missouri": "2026-10-10T17:29:08.680573+00:00",
-    "man utd vs spurs": "2026-10-10T17:29:14.381581+00:00"
+    "man utd vs spurs": "2026-10-10T17:29:14.381581+00:00",
+    "ucf vs oklahoma st": "2026-10-10T17:39:39.182824+00:00",
+    "arizona vs west virginia": "2026-10-10T17:39:46.910336+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3348,
-  "last_run": "2026-10-10T17:29:15.382262+00:00",
+  "pushed_today": 3351,
+  "last_run": "2026-10-10T17:39:47.913084+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
