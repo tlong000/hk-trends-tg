@@ -2902,12 +2902,13 @@
     "becky hammon": "2026-10-10T04:00:46.288880+00:00",
     "wnba finals": "2026-10-10T04:42:49.977998+00:00",
     "isaac brown": "2026-10-10T04:43:27.258038+00:00",
-    "destin florida hurricane": "2026-10-10T04:43:54.669511+00:00"
+    "destin florida hurricane": "2026-10-10T04:43:54.669511+00:00",
+    "igor shesterkin injury": "2026-10-10T04:54:34.337165+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3318,
-  "last_run": "2026-10-10T04:43:55.670239+00:00",
+  "pushed_today": 3319,
+  "last_run": "2026-10-10T04:54:35.337905+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
