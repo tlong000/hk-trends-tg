@@ -2904,12 +2904,13 @@
     "isaac brown": "2026-10-10T04:43:27.258038+00:00",
     "destin florida hurricane": "2026-10-10T04:43:54.669511+00:00",
     "igor shesterkin injury": "2026-10-10T04:54:34.337165+00:00",
-    "angel reese": "2026-10-10T05:14:47.943498+00:00"
+    "angel reese": "2026-10-10T05:14:47.943498+00:00",
+    "mike norvell": "2026-10-10T05:25:46.112680+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3320,
-  "last_run": "2026-10-10T05:14:48.944207+00:00",
+  "pushed_today": 3321,
+  "last_run": "2026-10-10T05:25:47.113437+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
