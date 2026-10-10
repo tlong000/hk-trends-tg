@@ -2982,12 +2982,14 @@
     "wwe money in the bank": "2026-10-10T21:08:35.795135+00:00",
     "where is marvin harrison jr being traded to": "2026-10-10T21:08:41.644876+00:00",
     "money in the bank start time": "2026-10-10T21:18:52.981939+00:00",
-    "real": "2026-10-10T21:19:06.703134+00:00"
+    "real": "2026-10-10T21:19:06.703134+00:00",
+    "real madrid vs. villarreal": "2026-10-10T21:29:19.324078+00:00",
+    "pitt vs unc": "2026-10-10T21:29:24.423000+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3411,
-  "last_run": "2026-10-10T21:19:07.703813+00:00",
+  "pushed_today": 3413,
+  "last_run": "2026-10-10T21:29:25.423730+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
