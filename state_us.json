@@ -1749,7 +1749,7 @@
     "washington commanders": "2026-10-04T13:49:50.711388+00:00",
     "germany vs greece": "2026-09-27T18:52:18.746129+00:00",
     "drake maye": "2026-09-27T18:52:34.255782+00:00",
-    "college football rankings": "2026-09-27T19:02:54.133479+00:00",
+    "college football rankings": "2026-10-11T00:39:42.057799+00:00",
     "leo chenal": "2026-09-27T19:13:38.774347+00:00",
     "malik willis": "2026-09-27T19:13:59.056558+00:00",
     "ncaa football rankings": "2026-09-27T19:14:20.955655+00:00",
@@ -3021,12 +3021,14 @@
     "north dakota vs northern iowa": "2026-10-11T00:18:49.995625+00:00",
     "juarez vs club tijuana": "2026-10-11T00:29:00.626005+00:00",
     "querétaro - atlante": "2026-10-11T00:29:08.886732+00:00",
-    "cfb rankings": "2026-10-11T00:29:17.256590+00:00"
+    "cfb rankings": "2026-10-11T00:29:17.256590+00:00",
+    "james madison vs ga southern": "2026-10-11T00:39:27.554521+00:00",
+    "andre fili": "2026-10-11T00:39:33.441976+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3455,
-  "last_run": "2026-10-11T00:29:18.257509+00:00",
+  "pushed_today": 3458,
+  "last_run": "2026-10-11T00:39:43.058775+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
