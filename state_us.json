@@ -3015,12 +3015,15 @@
     "kansas vs utah": "2026-10-10T23:57:46.211627+00:00",
     "nevada vs utep": "2026-10-10T23:57:51.588495+00:00",
     "minnesota vs purdue": "2026-10-11T00:08:06.938278+00:00",
-    "syracuse vs virginia": "2026-10-11T00:08:12.922017+00:00"
+    "syracuse vs virginia": "2026-10-11T00:08:12.922017+00:00",
+    "gerald meerschaert": "2026-10-11T00:18:35.912127+00:00",
+    "nebraska volleyball": "2026-10-11T00:18:43.319456+00:00",
+    "north dakota vs northern iowa": "2026-10-11T00:18:49.995625+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3449,
-  "last_run": "2026-10-11T00:08:21.101933+00:00",
+  "pushed_today": 3452,
+  "last_run": "2026-10-11T00:18:50.996624+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
