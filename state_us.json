@@ -640,7 +640,7 @@
     "southern u vs houston": "2026-09-13T03:35:52.883415+00:00",
     "is arch manning related to peyton manning": "2026-09-13T03:36:20.138257+00:00",
     "boxing": "2026-09-13T03:46:47.012069+00:00",
-    "bo jackson": "2026-09-13T03:47:07.863423+00:00",
+    "bo jackson": "2026-10-11T02:55:39.698506+00:00",
     "sacramento st vs fresno state": "2026-09-13T03:47:23.272641+00:00",
     "teofimo lopez": "2026-09-13T03:57:41.269058+00:00",
     "cruz azul": "2026-09-13T03:57:54.496725+00:00",
@@ -2803,7 +2803,7 @@
     "stars vs sabres": "2026-10-09T02:21:55.372129+00:00",
     "fort hood shooting": "2026-10-09T02:32:23.501467+00:00",
     "abdul el-sayed": "2026-10-09T02:33:51.387857+00:00",
-    "jose ramirez": "2026-10-09T02:45:53.653496+00:00",
+    "jose ramirez": "2026-10-11T02:55:28.929378+00:00",
     "cavs": "2026-10-09T02:47:32.238295+00:00",
     "the social reckoning": "2026-10-09T02:47:38.810181+00:00",
     "bucky irving": "2026-10-09T02:58:13.374691+00:00",
@@ -3053,12 +3053,13 @@
     "naruto shadow rising": "2026-10-11T02:34:33.943414+00:00",
     "alabama v georgia": "2026-10-11T02:34:39.186781+00:00",
     "red wings vs canadiens": "2026-10-11T02:44:54.631264+00:00",
-    "nebraska vs wisconsin volleyball": "2026-10-11T02:45:00.383271+00:00"
+    "nebraska vs wisconsin volleyball": "2026-10-11T02:45:00.383271+00:00",
+    "america vs monterrey": "2026-10-11T02:55:23.045054+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3492,
-  "last_run": "2026-10-11T02:45:01.384212+00:00",
+  "pushed_today": 3495,
+  "last_run": "2026-10-11T02:55:40.699375+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
