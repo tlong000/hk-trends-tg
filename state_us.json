@@ -194,7 +194,7 @@
     "united airlines dubai flight suspension": "2026-09-09T23:20:13.341670+00:00",
     "apple watch ultra 4": "2026-09-09T23:20:26.081690+00:00",
     "dhs": "2026-09-09T23:30:59.631320+00:00",
-    "shane gillis": "2026-09-09T23:31:13.528276+00:00",
+    "shane gillis": "2026-10-11T05:35:03.773671+00:00",
     "donald trump air force one slide": "2026-09-09T23:41:29.917766+00:00",
     "airpods": "2026-09-09T23:41:45.522309+00:00",
     "caitlin clark team usa bench": "2026-09-09T23:52:05.498487+00:00",
@@ -3054,12 +3054,14 @@
     "alabama v georgia": "2026-10-11T02:34:39.186781+00:00",
     "red wings vs canadiens": "2026-10-11T02:44:54.631264+00:00",
     "nebraska vs wisconsin volleyball": "2026-10-11T02:45:00.383271+00:00",
-    "america vs monterrey": "2026-10-11T02:55:23.045054+00:00"
+    "america vs monterrey": "2026-10-11T02:55:23.045054+00:00",
+    "américa - monterrey": "2026-10-11T05:34:54.462076+00:00",
+    "kings vs golden knights": "2026-10-11T05:35:10.832848+00:00"
   },
   "paused": false,
-  "pushed_date": "2026-10-10",
+  "pushed_date": "2026-10-11",
   "pushed_today": 3495,
-  "last_run": "2026-10-11T02:55:40.699375+00:00",
+  "last_run": "2026-10-11T05:35:11.833790+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
