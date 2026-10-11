@@ -3051,12 +3051,14 @@
     "money in the bank results": "2026-10-11T02:24:15.173873+00:00",
     "boise state vs fresno state": "2026-10-11T02:34:27.030023+00:00",
     "naruto shadow rising": "2026-10-11T02:34:33.943414+00:00",
-    "alabama v georgia": "2026-10-11T02:34:39.186781+00:00"
+    "alabama v georgia": "2026-10-11T02:34:39.186781+00:00",
+    "red wings vs canadiens": "2026-10-11T02:44:54.631264+00:00",
+    "nebraska vs wisconsin volleyball": "2026-10-11T02:45:00.383271+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-10",
-  "pushed_today": 3490,
-  "last_run": "2026-10-11T02:34:40.187765+00:00",
+  "pushed_today": 3492,
+  "last_run": "2026-10-11T02:45:01.384212+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
