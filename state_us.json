@@ -817,7 +817,7 @@
     "zverev diabetes": "2026-09-13T22:51:30.995516+00:00",
     "ladd mcconkey": "2026-09-13T23:02:06.929046+00:00",
     "cardinals nfl": "2026-09-13T23:02:20.053033+00:00",
-    "ashton jeanty": "2026-09-13T23:02:34.046570+00:00",
+    "ashton jeanty": "2026-10-11T15:13:46.226744+00:00",
     "jacoby brissett": "2026-09-13T23:05:40.643324+00:00",
     "caitlin clark international tournament impact": "2026-09-13T23:05:50.062964+00:00",
     "nascar": "2026-09-20T03:28:12.852978+00:00",
@@ -3082,12 +3082,13 @@
     "is jamarr chase playing week 5": "2026-10-11T14:42:32.150703+00:00",
     "philadelphia eagles vs jacksonville jaguars match player stats": "2026-10-11T14:52:57.201557+00:00",
     "liverpool - manchester city": "2026-10-11T15:03:20.769302+00:00",
-    "hull vs everton": "2026-10-11T15:03:27.524492+00:00"
+    "hull vs everton": "2026-10-11T15:03:27.524492+00:00",
+    "f1 driver standings": "2026-10-11T15:13:53.886509+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-11",
-  "pushed_today": 3536,
-  "last_run": "2026-10-11T15:03:35.809802+00:00",
+  "pushed_today": 3538,
+  "last_run": "2026-10-11T15:13:54.887125+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
