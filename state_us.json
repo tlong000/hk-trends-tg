@@ -643,7 +643,7 @@
     "bo jackson": "2026-10-11T02:55:39.698506+00:00",
     "sacramento st vs fresno state": "2026-09-13T03:47:23.272641+00:00",
     "teofimo lopez": "2026-09-13T03:57:41.269058+00:00",
-    "cruz azul": "2026-09-13T03:57:54.496725+00:00",
+    "cruz azul": "2026-10-12T03:22:01.183899+00:00",
     "alianza lima - universitario": "2026-09-13T03:58:13.807885+00:00",
     "cam coleman": "2026-09-13T04:18:40.629493+00:00",
     "navy football": "2026-10-10T22:14:14.597527+00:00",
@@ -3182,12 +3182,13 @@
     "sahil jilani abrams falls recovery": "2026-10-12T02:10:16.398842+00:00",
     "brice turang": "2026-10-12T02:30:33.523094+00:00",
     "kyle hamilton": "2026-10-12T02:40:51.209459+00:00",
-    "posiciones de atlético san luis contra santos laguna": "2026-10-12T03:01:35.247143+00:00"
+    "posiciones de atlético san luis contra santos laguna": "2026-10-12T03:01:35.247143+00:00",
+    "ohtani": "2026-10-12T03:22:13.637033+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-11",
-  "pushed_today": 3686,
-  "last_run": "2026-10-12T03:11:49.485147+00:00",
+  "pushed_today": 3688,
+  "last_run": "2026-10-12T03:22:14.638018+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
