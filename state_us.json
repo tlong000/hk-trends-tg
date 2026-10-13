@@ -3288,12 +3288,15 @@
     "pope": "2026-10-13T21:02:41.983680+00:00",
     "manchester united": "2026-10-13T21:02:48.528314+00:00",
     "viking - bayern": "2026-10-13T21:13:01.823604+00:00",
-    "villarreal - napoli": "2026-10-13T21:13:18.905929+00:00"
+    "villarreal - napoli": "2026-10-13T21:13:18.905929+00:00",
+    "galatasaray vs fc barcelona standings": "2026-10-13T21:23:29.989797+00:00",
+    "ambassador thornhill": "2026-10-13T21:23:36.941362+00:00",
+    "amazon acetaminophen recall aurobindo pharma": "2026-10-13T21:23:45.976671+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-13",
-  "pushed_today": 3813,
-  "last_run": "2026-10-13T21:13:19.906874+00:00",
+  "pushed_today": 3816,
+  "last_run": "2026-10-13T21:23:46.977588+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
