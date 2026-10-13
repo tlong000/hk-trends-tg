@@ -3273,12 +3273,15 @@
     "apple home view": "2026-10-13T19:09:32.457139+00:00",
     "viking vs bayern": "2026-10-13T19:19:43.774690+00:00",
     "homeview": "2026-10-13T19:19:56.219704+00:00",
-    "barcelona vs": "2026-10-13T20:00:30.552498+00:00"
+    "barcelona vs": "2026-10-13T20:00:30.552498+00:00",
+    "sotomayor gorsuch immigration case": "2026-10-13T20:10:43.234073+00:00",
+    "tupac shakur": "2026-10-13T20:10:51.399127+00:00",
+    "bettina anderson": "2026-10-13T20:11:02.116637+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-13",
-  "pushed_today": 3797,
-  "last_run": "2026-10-13T20:00:31.553426+00:00",
+  "pushed_today": 3800,
+  "last_run": "2026-10-13T20:11:03.117424+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
