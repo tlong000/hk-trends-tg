@@ -3374,12 +3374,15 @@
     "roma - real madrid": "2026-10-14T19:36:56.430241+00:00",
     "xbox nano": "2026-10-14T19:57:19.549668+00:00",
     "aston villa vs fenerbahçe": "2026-10-14T20:07:32.847015+00:00",
-    "social security raise for 2027": "2026-10-14T20:27:58.903130+00:00"
+    "social security raise for 2027": "2026-10-14T20:27:58.903130+00:00",
+    "real madrid vs roma": "2026-10-14T20:38:11.381831+00:00",
+    "iphone duo": "2026-10-14T20:38:18.401034+00:00",
+    "real madrid schedule": "2026-10-14T20:38:24.192678+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-14",
-  "pushed_today": 3919,
-  "last_run": "2026-10-14T20:27:59.904024+00:00",
+  "pushed_today": 3922,
+  "last_run": "2026-10-14T20:38:25.193485+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
