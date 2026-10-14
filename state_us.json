@@ -3351,12 +3351,13 @@
     "cola increase 2027": "2026-10-14T13:23:21.923238+00:00",
     "uk royal family approval ratings": "2026-10-14T13:44:11.757968+00:00",
     "cruise passenger rescued ionian sea": "2026-10-14T14:04:35.178859+00:00",
-    "2027 cola": "2026-10-14T14:35:31.400427+00:00"
+    "2027 cola": "2026-10-14T14:35:31.400427+00:00",
+    "2027 social security cola percentage": "2026-10-14T14:45:56.900631+00:00"
   },
   "paused": false,
   "pushed_date": "2026-10-14",
-  "pushed_today": 3891,
-  "last_run": "2026-10-14T14:35:32.401141+00:00",
+  "pushed_today": 3892,
+  "last_run": "2026-10-14T14:45:57.901562+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
