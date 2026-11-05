@@ -450,6 +450,27 @@ def build_messages(it: dict, sys_tmpl: str, user_tmpl: str) -> list[dict]:
     ]
 
 
+def _call_model_api(url: str, payload: dict, headers: dict | None = None) -> dict:
+    """同 tg_api 一樣：4xx 嘅真正原因喺 response body 嗰個 error.message 入面
+    （OpenRouter 會講「No auth credentials found」／「Insufficient credits」／
+    model 唔存在／唔符合 data policy 等）。唔讀 body 就只剩
+    "HTTP Error 401: Unauthorized"，等於冇講過原因，debug 唔到。"""
+    try:
+        return http_post_json(url, payload, MODEL_TIMEOUT, headers=headers)
+    except urllib.error.HTTPError as e:
+        detail = ""
+        try:
+            body = e.read().decode("utf-8", "replace")
+            try:
+                err = json.loads(body).get("error")
+                detail = (err.get("message") if isinstance(err, dict) else str(err)) or ""
+            except (ValueError, AttributeError):
+                detail = body[:300]
+        except OSError:
+            pass
+        raise RuntimeError(f"模型 HTTP {e.code}" + (f"：{detail}" if detail else "")) from e
+
+
 def call_model(messages: list[dict]) -> str:
     if MODEL_API == "mock":
         user = next((m["content"] for m in messages if m["role"] == "user"), "")
@@ -463,7 +484,7 @@ def call_model(messages: list[dict]) -> str:
         url = f"{MODEL_BASE_URL}/api/chat"
         payload = {"model": MODEL_NAME, "messages": messages, "stream": False,
                    "options": {"temperature": 0.3, "num_ctx": MODEL_NUM_CTX}}
-        resp = http_post_json(url, payload, MODEL_TIMEOUT)
+        resp = _call_model_api(url, payload)
         return (resp.get("message", {}) or {}).get("content", "").strip()
 
     if MODEL_API == "openai":
@@ -471,7 +492,7 @@ def call_model(messages: list[dict]) -> str:
         payload = {"model": MODEL_NAME, "messages": messages, "stream": False,
                    "temperature": 0.3}
         headers = {"Authorization": f"Bearer {MODEL_API_KEY}"} if MODEL_API_KEY else None
-        resp = http_post_json(url, payload, MODEL_TIMEOUT, headers=headers)
+        resp = _call_model_api(url, payload, headers=headers)
         return resp["choices"][0]["message"]["content"].strip()
 
     raise ValueError(f"未知 MODEL_API：{MODEL_API}（ollama / openai / mock）")
