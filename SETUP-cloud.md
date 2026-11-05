@@ -76,7 +76,7 @@ GitHub repo → **Settings → Secrets and variables → Actions → New reposit
 | `TG_ADMIN_CHAT_ID` | 管理 chat id（兩個地區共用，會見到兩條心跳） |
 | `TG_BOT_TOKEN_US` | **選填**。填咗＝歐美群用自己嗰個 bot，指令／按鈕齊全；<br>唔填＝同香港共用一個 bot，歐美嗰邊冇指令冇按鈕。 |
 
-（模型 `deepseek/deepseek-v4.1-flash-1017` 同 base url 寫喺兩份 workflow 的 `env`，要換就兩份一齊改。
+（模型 `deepseek/deepseek-v4.1-flash` 同 base url 寫喺兩份 workflow 的 `env`，要換就兩份一齊改。
 原本用嘅 api.zetaapi.ai 已經喺 2026-10-31 停服，所以 2026-11-06 轉咗 OpenRouter。）
 
 ### 4. 開 workflow

@@ -37,7 +37,7 @@ jobs:
           # ---- 兩邊共用 ----
           MODEL_API: openai
           MODEL_BASE_URL: https://openrouter.ai/api
-          MODEL_NAME: deepseek/deepseek-v4.1-flash-1017
+          MODEL_NAME: deepseek/deepseek-v4.1-flash
           MODEL_API_KEY: ${{ secrets.MODEL_API_KEY }}
           MODEL_TIMEOUT: "60"
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
