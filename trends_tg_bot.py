@@ -3,8 +3,9 @@
 """
 香港 Google Trends「Trending Now」熱點 → 本地模型解讀 → Telegram 群組推送
 
-資料來源＝ https://trends.google.com/trending?geo=HK 呢個頁面背後嘅內部介面
-（batchexecute RPC，RPC id = i0OFE）。相比舊 RSS：
+資料來源＝ https://trends.google.com/trending?geo=HK 嗰個頁面入面嵌住嘅
+ds:0 init data（2026-11 之前行嘅 batchexecute RPC i0OFE 已經俾 Google 收咗，
+RPC 固定回 permission denied，所以改為直接抓頁面）。相比舊 RSS：
   - 支援 server 端「過去 N 小時」過濾（直接對應「6 小時內」需求）
   - 每條有「數值」搜尋量（100 / 200 / 500 / 2000 / 20000…），唔使夾硬 parse "500+"
   - 有「trend 係咪已完結」flag，可淨要進行中嘅
@@ -76,8 +77,8 @@ MAX_CHARS = int(os.environ.get("MAX_CHARS", "100"))
 TG_LINK_PREVIEW = os.environ.get("TG_LINK_PREVIEW", "0") == "1"   # =1 顯示新聞連結預覽卡
 MAX_RELATED = int(os.environ.get("MAX_RELATED", "4"))             # 相關詞 / hashtag 上限
 
-TRENDS_RPC_URL = os.environ.get(
-    "TRENDS_RPC_URL", "https://trends.google.com/_/TrendsUi/data/batchexecute"
+TRENDS_PAGE_URL = os.environ.get(
+    "TRENDS_PAGE_URL", "https://trends.google.com/trending"
 )
 TRENDS_RSS_URL = os.environ.get(
     "TRENDS_RSS_URL", f"https://trends.google.com/trending/rss?geo={TRENDS_GEO}"
@@ -212,48 +213,68 @@ def http_post_json(url: str, payload: dict, timeout: float, headers: dict | None
 
 
 # ---------------------------------------------------------------------------
-# 1. 抓 Trending Now（batchexecute RPC）
+# 1. 抓 Trending Now（trending 頁面嵌住嘅 ds:0 init data）
 # ---------------------------------------------------------------------------
+
+def _window_hours() -> int:
+    """Google 頁面只收 24 / 48 / 168 三個時間窗（4 個鐘嗰個已經固定回空），
+    揀最細但夠蓋住 TRENDS_HOURS 嗰個；之後 qualifies() 會按實際 TRENDS_HOURS 再篩。"""
+    for bucket in (24, 48, 168):
+        if TRENDS_HOURS <= bucket:
+            return bucket
+    return 168
+
+
+def _extract_init_data(page: str, key: str = "ds:0") -> list:
+    """由 trending 頁面挖出 AF_initDataCallback({key: 'ds:0', ..., data: [...]}) 個 array。"""
+    i = page.find("AF_initDataCallback({key: '%s'" % key)
+    if i < 0:
+        raise ValueError("頁面搵唔到 %s init data" % key)
+    start = page.index("[", page.index("data:", i))
+    depth = 0
+    for k in range(start, len(page)):
+        ch = page[k]
+        if ch == "[":
+            depth += 1
+        elif ch == "]":
+            depth -= 1
+            if depth == 0:
+                return json.loads(page[start:k + 1])
+    raise ValueError("%s init data 括號唔完整" % key)
+
 
 def fetch_trends() -> list[dict]:
     """回傳 [{keyword, volume:int, started:datetime, ended:bool, related:[str]}]。"""
-    inner = json.dumps([None, None, TRENDS_GEO, 0, "en", TRENDS_HOURS, 1])
-    freq = json.dumps([[["i0OFE", inner, None, "generic"]]])
-    body = urllib.parse.urlencode({"f.req": freq}).encode("utf-8")
+    hours = _window_hours()
+    url = "%s?%s" % (
+        TRENDS_PAGE_URL,
+        urllib.parse.urlencode({"geo": TRENDS_GEO, "hours": hours}),
+    )
     headers = {
-        "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
         "User-Agent": HTTP_UA,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
     }
-    log(f"抓 Trending Now RPC: geo={TRENDS_GEO} hours={TRENDS_HOURS}")
-    raw = None
+    log(f"抓 Trending Now 頁面: geo={TRENDS_GEO} window={hours}h（目標 {TRENDS_HOURS}h）")
+    page = None
     for attempt in (1, 2, 3):
         try:
-            raw = http_post(TRENDS_RPC_URL, body, timeout=30, headers=headers)
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=45) as resp:
+                page = resp.read().decode("utf-8", "replace")
             break
         except urllib.error.HTTPError as e:
             if e.code in (429, 500, 502, 503, 504) and attempt < 3:
                 wait = 5 * attempt
-                log(f"RPC HTTP {e.code}，{wait}s 後重試（{attempt}/2）")
+                log(f"頁面 HTTP {e.code}，{wait}s 後重試（{attempt}/3）")
                 time.sleep(wait)
                 continue
             raise
-    if raw is None:
-        raise urllib.error.URLError("RPC 重試耗盡")
+    if page is None:
+        raise urllib.error.URLError("抓頁面重試耗盡")
 
-    text = raw.lstrip()
-    if text.startswith(")]}'"):
-        text = text[4:].lstrip()
-    envelope = json.loads(text)
-
-    payload = None
-    for row in envelope:
-        if isinstance(row, list) and len(row) >= 3 and row[0] == "wrb.fr" and row[1] == "i0OFE":
-            payload = row[2]
-            break
-    if not payload:
-        raise ValueError("RPC 回應搵唔到 i0OFE payload")
-
-    rows = json.loads(payload)[1] or []
+    rows = _extract_init_data(page)
+    rows = (rows[1] if len(rows) > 1 else None) or []
     out: list[dict] = []
     for r in rows:
         try:
@@ -278,7 +299,7 @@ def fetch_trends() -> list[dict]:
                     "news": [],
                 }
             )
-    log(f"RPC 共 {len(out)} 條")
+    log(f"頁面共 {len(out)} 條")
     return out
 
 
