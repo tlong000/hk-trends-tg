@@ -36,8 +36,8 @@ jobs:
         env:
           # ---- 兩邊共用 ----
           MODEL_API: openai
-          MODEL_BASE_URL: https://api.zetaapi.ai
-          MODEL_NAME: gpt-5.6-luna
+          MODEL_BASE_URL: https://openrouter.ai/api
+          MODEL_NAME: deepseek/deepseek-v4.1-flash-1017
           MODEL_API_KEY: ${{ secrets.MODEL_API_KEY }}
           MODEL_TIMEOUT: "60"
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}

@@ -17,7 +17,7 @@ GitHub Actions 長命 job（hk-trends-loop.yml，內部每 10 分鐘一圈）
        1. 若「已暫停」→ 只更新心跳，收工
        2. 抓 trends.google.com 內部 RPC → 過濾（N 小時 / 搜尋量門檻 / 進行中）
        3. 官方 Trending RSS 補新聞標題；對唔上就抓嗰個關鍵詞嘅 Google 新聞 RSS
-       4. 逐條 call 雲端 LLM（api.zetaapi.ai，OpenAI 相容）→ 短解讀
+       4. 逐條 call 雲端 LLM（openrouter.ai，OpenAI 相容）→ 短解讀
        5. sendMessage 去推送群
        6. edit 一條 pinned「心跳」訊息顯示運行狀態
   └─ commit state.json + state_us.json 返 repo（去重 + offset + 狀態嘅持久層）
@@ -69,14 +69,15 @@ GitHub repo → **Settings → Secrets and variables → Actions → New reposit
 
 | Secret | 值 |
 |---|---|
-| `MODEL_API_KEY` | 你 api.zetaapi.ai 個 key |
+| `MODEL_API_KEY` | 你 openrouter.ai 個 key |
 | `TG_BOT_TOKEN` | BotFather 個 token |
 | `TG_CHAT_ID` | 香港推送群 id（`-100…`） |
 | `TG_CHAT_ID_US` | 歐美推送群 id（`-100…`） |
 | `TG_ADMIN_CHAT_ID` | 管理 chat id（兩個地區共用，會見到兩條心跳） |
 | `TG_BOT_TOKEN_US` | **選填**。填咗＝歐美群用自己嗰個 bot，指令／按鈕齊全；<br>唔填＝同香港共用一個 bot，歐美嗰邊冇指令冇按鈕。 |
 
-（模型 `gpt-5.6-luna` 同 base url 寫喺兩份 workflow 的 `env`，要換就兩份一齊改。）
+（模型 `deepseek/deepseek-v4.1-flash-1017` 同 base url 寫喺兩份 workflow 的 `env`，要換就兩份一齊改。
+原本用嘅 api.zetaapi.ai 已經喺 2026-10-31 停服，所以 2026-11-06 轉咗 OpenRouter。）
 
 ### 4. 開 workflow
 Repo → **Actions** tab → 見到 `trends-tg loop (HK + US)` 同 `trends-tg (manual run-now)`
