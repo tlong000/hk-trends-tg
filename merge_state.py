@@ -8,7 +8,8 @@
 
 所以呢度唔做「邊份贏」，做 union：
   - pushed：兩邊嘅 key 全部保留，撞名取時間較新嗰個
-  - 計數器：取大
+  - tg_offset / heartbeat_message_id：取大
+  - pushed_today：跟 pushed_date 較新嗰邊（見 pick_daily）
 「已推過」漏咗嘅代價係洗版，多咗嘅代價只係少推一條 —— 窗內一律偏向保留。
 
 但 union 之後一定要按 DEDUP_TTL_HOURS 剷走過期 entries，否則 TTL 永遠唔生效：
@@ -56,6 +57,25 @@ def within_ttl(iso: object) -> bool:
         return False
 
 
+def pick_daily(mine: dict, theirs: dict) -> tuple:
+    """揀「今日已推」計數器，回傳 (pushed_today, pushed_date)。
+
+    唔可以照 max()：trends_tg_bot.py 嘅 _roll_daily() 過日界會把 pushed_today
+    歸零，但 ref 上面仍然係歸零前嗰個較大值，max() 就會把舊數贏返，於是個計數器
+    一路累積，心跳訊息顯示嘅「今日已推」由頭到尾都唔準。
+    所以日期唔同就跟較新嗰邊，日期相同才取大（同一日兩個 run 各推幾條都計得到）。
+    """
+    sides = []
+    for side in (mine, theirs):
+        count = side.get("pushed_today")
+        sides.append((str(side.get("pushed_date", "")),
+                      count if isinstance(count, int) else 0))
+    (my_date, my_count), (their_date, their_count) = sides
+    if my_date != their_date:
+        return (my_count, my_date) if my_date > their_date else (their_count, their_date)
+    return max(my_count, their_count), my_date
+
+
 def merge(mine: dict, theirs: dict) -> dict:
     out = dict(theirs)
     out.update({k: v for k, v in mine.items() if k != "pushed"})
@@ -65,10 +85,13 @@ def merge(mine: dict, theirs: dict) -> dict:
         if kw not in pushed or str(iso) > str(pushed[kw]):
             pushed[kw] = iso
     out["pushed"] = {kw: iso for kw, iso in pushed.items() if within_ttl(iso)}
-    for key in ("pushed_today", "tg_offset", "heartbeat_message_id"):
+    # offset 單調遞增、message id 越新越大，呢兩個取大係對嘅。
+    for key in ("tg_offset", "heartbeat_message_id"):
         a, b = mine.get(key), theirs.get(key)
         if isinstance(a, int) and isinstance(b, int):
             out[key] = max(a, b)
+    if "pushed_today" in mine or "pushed_today" in theirs:
+        out["pushed_today"], out["pushed_date"] = pick_daily(mine, theirs)
     return out
 
 
