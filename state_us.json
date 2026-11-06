@@ -86,12 +86,14 @@
     "stephen miller": "2026-11-06T19:15:05.038609+00:00",
     "everton vs coventry": "2026-11-06T20:15:56.058086+00:00",
     "toulouse vs strasbourg": "2026-11-06T20:16:01.777629+00:00",
-    "carlos alcaraz": "2026-11-06T20:26:19.681983+00:00"
+    "carlos alcaraz": "2026-11-06T20:26:19.681983+00:00",
+    "paige bueckers": "2026-11-06T20:36:37.815318+00:00",
+    "did the stock market crash today": "2026-11-06T20:36:45.062319+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-06",
-  "pushed_today": 25,
-  "last_run": "2026-11-06T20:26:20.683750+00:00",
+  "pushed_today": 27,
+  "last_run": "2026-11-06T20:36:46.062973+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
