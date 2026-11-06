@@ -22,12 +22,13 @@
     "leanne selman": "2026-11-06T00:36:13.763319+00:00",
     "uconn vs michigan": "2026-11-06T00:46:40.034909+00:00",
     "jacob pearson": "2026-11-06T00:46:49.990040+00:00",
-    "utsa vs fl atlantic": "2026-11-06T00:57:07.291399+00:00"
+    "utsa vs fl atlantic": "2026-11-06T00:57:07.291399+00:00",
+    "blackhawks vs lightning": "2026-11-06T01:07:26.487604+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-05",
-  "pushed_today": 3953,
-  "last_run": "2026-11-06T00:57:08.292082+00:00",
+  "pushed_today": 3954,
+  "last_run": "2026-11-06T01:07:27.488276+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
