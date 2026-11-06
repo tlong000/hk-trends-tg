@@ -66,12 +66,14 @@
     "miami heat": "2026-11-06T06:23:14.823036+00:00",
     "nasa artemis ii": "2026-11-06T06:23:19.691084+00:00",
     "elon musk net worth": "2026-11-06T06:33:52.767044+00:00",
-    "golden state warriors vs miami heat match player stats": "2026-11-06T06:44:03.571413+00:00"
+    "golden state warriors vs miami heat match player stats": "2026-11-06T06:44:03.571413+00:00",
+    "warriors vs heat": "2026-11-06T06:54:20.598558+00:00",
+    "cal poly vs arizona": "2026-11-06T06:54:31.045535+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-06",
-  "pushed_today": 5,
-  "last_run": "2026-11-06T06:44:04.572117+00:00",
+  "pushed_today": 7,
+  "last_run": "2026-11-06T06:54:32.046279+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
