@@ -83,12 +83,14 @@
     "luca van assche": "2026-11-06T17:03:30.425962+00:00",
     "treveyon henderson": "2026-11-06T18:24:27.531023+00:00",
     "lawsuit": "2026-11-06T18:44:45.604858+00:00",
-    "stephen miller": "2026-11-06T19:15:05.038609+00:00"
+    "stephen miller": "2026-11-06T19:15:05.038609+00:00",
+    "everton vs coventry": "2026-11-06T20:15:56.058086+00:00",
+    "toulouse vs strasbourg": "2026-11-06T20:16:01.777629+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-06",
-  "pushed_today": 22,
-  "last_run": "2026-11-06T20:05:39.396194+00:00",
+  "pushed_today": 24,
+  "last_run": "2026-11-06T20:16:02.778209+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
