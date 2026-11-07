@@ -190,12 +190,15 @@
     "oklahoma st vs kansas state": "2026-11-07T17:55:14.284796+00:00",
     "mainz 05 - bayern": "2026-11-07T18:05:32.548140+00:00",
     "duke vs nc state": "2026-11-07T18:15:51.498693+00:00",
-    "mcdonalds new value meals": "2026-11-07T18:15:57.729495+00:00"
+    "mcdonalds new value meals": "2026-11-07T18:15:57.729495+00:00",
+    "dana white": "2026-11-07T19:21:12.610435+00:00",
+    "panthers vs capitals": "2026-11-07T19:21:25.718202+00:00",
+    "galatasaray vs amed sk": "2026-11-07T19:21:31.858334+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-07",
-  "pushed_today": 43,
-  "last_run": "2026-11-07T18:15:58.730195+00:00",
+  "pushed_today": 46,
+  "last_run": "2026-11-07T19:21:32.859104+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
