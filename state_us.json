@@ -150,9 +150,9 @@
     "middle tn vs kansas": "2026-11-07T04:23:18.255249+00:00"
   },
   "paused": false,
-  "pushed_date": "2026-11-06",
-  "pushed_today": 86,
-  "last_run": "2026-11-07T04:23:19.255949+00:00",
+  "pushed_date": "2026-11-07",
+  "pushed_today": 0,
+  "last_run": "2026-11-07T05:47:22.372885+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
