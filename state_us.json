@@ -101,12 +101,15 @@
     "virginia tech vs smu": "2026-11-06T23:51:22.430628+00:00",
     "76ers vs cavaliers": "2026-11-07T00:01:33.394093+00:00",
     "alcaraz": "2026-11-07T00:11:46.691671+00:00",
-    "iowa men's basketball": "2026-11-07T00:22:11.470068+00:00"
+    "iowa men's basketball": "2026-11-07T00:22:11.470068+00:00",
+    "nebraska vs illinois": "2026-11-07T00:32:28.234334+00:00",
+    "wizards vs hawks": "2026-11-07T00:32:59.806772+00:00",
+    "michael sanft": "2026-11-07T00:33:07.956907+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-06",
-  "pushed_today": 40,
-  "last_run": "2026-11-07T00:22:12.470742+00:00",
+  "pushed_today": 43,
+  "last_run": "2026-11-07T00:33:08.957632+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
