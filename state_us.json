@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "tuten": "2026-11-05T21:33:38.645869+00:00",
-    "gta vi launch gallery": "2026-11-05T21:33:49.420063+00:00",
-    "vix": "2026-11-05T21:33:54.742700+00:00",
     "irs 2027 federal tax brackets": "2026-11-05T22:11:22.068080+00:00",
     "az vs juventus": "2026-11-05T22:11:38.298311+00:00",
     "real sociedad vs ol": "2026-11-05T22:31:55.230867+00:00",
@@ -211,12 +208,14 @@
     "rutgers vs wisconsin": "2026-11-07T21:15:47.369225+00:00",
     "ucf vs kansas": "2026-11-07T21:15:54.721489+00:00",
     "ucla football schedule": "2026-11-07T21:16:05.813448+00:00",
-    "polar vortex weather": "2026-11-07T21:26:15.263105+00:00"
+    "polar vortex weather": "2026-11-07T21:26:15.263105+00:00",
+    "vanderbilt vs ms state": "2026-11-07T21:36:35.060572+00:00",
+    "old dominion vs coastal carolina": "2026-11-07T21:36:56.692672+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-07",
-  "pushed_today": 70,
-  "last_run": "2026-11-07T21:26:16.263766+00:00",
+  "pushed_today": 72,
+  "last_run": "2026-11-07T21:36:57.693475+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
