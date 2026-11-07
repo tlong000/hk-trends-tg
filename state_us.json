@@ -123,12 +123,15 @@
     "purdue basketball": "2026-11-07T01:36:58.683343+00:00",
     "james madison vs kentucky": "2026-11-07T01:47:12.941166+00:00",
     "actor": "2026-11-07T01:47:22.682443+00:00",
-    "charlie woods florida state signing": "2026-11-07T01:47:36.954043+00:00"
+    "charlie woods florida state signing": "2026-11-07T01:47:36.954043+00:00",
+    "san luis - juárez": "2026-11-07T02:08:00.908401+00:00",
+    "mizzou basketball": "2026-11-07T02:08:14.869265+00:00",
+    "cavs": "2026-11-07T02:08:20.940154+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-06",
-  "pushed_today": 62,
-  "last_run": "2026-11-07T01:57:42.445183+00:00",
+  "pushed_today": 65,
+  "last_run": "2026-11-07T02:08:21.940836+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
