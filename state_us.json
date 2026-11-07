@@ -187,12 +187,13 @@
     "fulham vs newcastle": "2026-11-07T17:34:27.622952+00:00",
     "maryland vs purdue": "2026-11-07T17:34:41.242056+00:00",
     "nyt connections hints": "2026-11-07T17:45:00.370954+00:00",
-    "oklahoma st vs kansas state": "2026-11-07T17:55:14.284796+00:00"
+    "oklahoma st vs kansas state": "2026-11-07T17:55:14.284796+00:00",
+    "mainz 05 - bayern": "2026-11-07T18:05:32.548140+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-07",
-  "pushed_today": 40,
-  "last_run": "2026-11-07T17:55:15.285531+00:00",
+  "pushed_today": 41,
+  "last_run": "2026-11-07T18:05:33.548852+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
