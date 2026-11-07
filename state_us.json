@@ -201,12 +201,13 @@
     "utah football schedule": "2026-11-07T19:42:21.324243+00:00",
     "mass shooting krakow poland": "2026-11-07T19:52:34.730182+00:00",
     "oregon vs ohio state": "2026-11-07T19:52:43.365668+00:00",
-    "psg vs troyes": "2026-11-07T20:02:57.195019+00:00"
+    "psg vs troyes": "2026-11-07T20:02:57.195019+00:00",
+    "penn state vs washington": "2026-11-07T20:13:08.453252+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-07",
-  "pushed_today": 54,
-  "last_run": "2026-11-07T20:02:58.195697+00:00",
+  "pushed_today": 55,
+  "last_run": "2026-11-07T20:13:09.453829+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
