@@ -216,12 +216,15 @@
     "sam leavitt": "2026-11-07T22:18:23.515984+00:00",
     "wisconsin trooper ice custody release": "2026-11-07T22:18:33.726627+00:00",
     "temple vs navy": "2026-11-07T22:39:02.729585+00:00",
-    "ohio state game": "2026-11-07T22:39:12.014563+00:00"
+    "ohio state game": "2026-11-07T22:39:12.014563+00:00",
+    "portland st vs montana": "2026-11-07T22:49:37.629893+00:00",
+    "boca juniors - defensa y justicia": "2026-11-07T22:49:47.469712+00:00",
+    "lsu": "2026-11-07T22:49:57.105988+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-07",
-  "pushed_today": 81,
-  "last_run": "2026-11-07T22:39:13.015330+00:00",
+  "pushed_today": 84,
+  "last_run": "2026-11-07T22:49:58.106751+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
