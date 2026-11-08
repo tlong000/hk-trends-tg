@@ -1,7 +1,6 @@
 {
   "pushed": {
     "warriors": "2026-11-08T04:17:38.368640+00:00",
-    "casper ruud": "2026-11-06T23:10:33.196764+00:00",
     "celtics vs hornets": "2026-11-06T23:41:09.389929+00:00",
     "virginia tech vs smu": "2026-11-06T23:51:22.430628+00:00",
     "76ers vs cavaliers": "2026-11-07T00:01:33.394093+00:00",
@@ -328,12 +327,15 @@
     "76ers vs chicago bulls match player stats": "2026-11-08T22:51:18.951776+00:00",
     "portland thorns vs washington spirit": "2026-11-08T23:01:31.951135+00:00",
     "aj barner": "2026-11-08T23:01:44.913728+00:00",
-    "rhamondre stevenson": "2026-11-08T23:01:54.428394+00:00"
+    "rhamondre stevenson": "2026-11-08T23:01:54.428394+00:00",
+    "puka nacua": "2026-11-08T23:12:03.674547+00:00",
+    "nascar race": "2026-11-08T23:12:13.259723+00:00",
+    "nwsl playoffs": "2026-11-08T23:12:24.093208+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-08",
-  "pushed_today": 115,
-  "last_run": "2026-11-08T23:01:55.429201+00:00",
+  "pushed_today": 118,
+  "last_run": "2026-11-08T23:12:25.093918+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
