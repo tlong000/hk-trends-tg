@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "penn vs illinois": "2026-11-06T03:11:52.944864+00:00",
-    "orlando magic vs phoenix suns match player stats": "2026-11-06T03:11:58.250884+00:00",
     "orlando magic": "2026-11-06T03:22:16.828279+00:00",
     "ravens schedule": "2026-11-06T03:22:22.941947+00:00",
     "suns vs magic": "2026-11-06T03:22:26.466993+00:00",
@@ -245,12 +243,13 @@
     "providence vs nebraska": "2026-11-08T02:54:34.611558+00:00",
     "devils vs islanders": "2026-11-08T03:04:51.338863+00:00",
     "mls playoffs": "2026-11-08T03:05:00.383047+00:00",
-    "georgia ole miss": "2026-11-08T03:05:06.830093+00:00"
+    "georgia ole miss": "2026-11-08T03:05:06.830093+00:00",
+    "new movies to stream": "2026-11-08T03:15:25.853571+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-07",
-  "pushed_today": 140,
-  "last_run": "2026-11-08T03:05:07.831051+00:00",
+  "pushed_today": 141,
+  "last_run": "2026-11-08T03:15:26.854450+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
