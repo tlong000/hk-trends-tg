@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "bruins vs penguins": "2026-11-06T00:25:25.303585+00:00",
-    "aaron judge": "2026-11-06T00:25:36.333902+00:00",
     "golden knights vs red wings": "2026-11-06T00:35:47.381711+00:00",
     "newsom": "2026-11-06T00:35:54.794210+00:00",
     "leanne selman": "2026-11-06T00:36:13.763319+00:00",
@@ -238,12 +236,14 @@
     "pokémon": "2026-11-08T00:23:32.727662+00:00",
     "luke fahey": "2026-11-08T00:24:48.249672+00:00",
     "lanorris sellers": "2026-11-08T00:24:52.495890+00:00",
-    "boca juniors": "2026-11-08T00:25:03.238106+00:00"
+    "boca juniors": "2026-11-08T00:25:03.238106+00:00",
+    "oregon ducks football vs ohio state buckeyes football match player stats": "2026-11-08T00:35:18.369272+00:00",
+    "app state football": "2026-11-08T00:35:42.408014+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-07",
-  "pushed_today": 106,
-  "last_run": "2026-11-08T00:25:04.238928+00:00",
+  "pushed_today": 108,
+  "last_run": "2026-11-08T00:35:43.408814+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
