@@ -1,7 +1,6 @@
 {
   "pushed": {
     "warriors": "2026-11-08T04:17:38.368640+00:00",
-    "treveyon henderson": "2026-11-06T18:24:27.531023+00:00",
     "lawsuit": "2026-11-06T18:44:45.604858+00:00",
     "stephen miller": "2026-11-06T19:15:05.038609+00:00",
     "everton vs coventry": "2026-11-06T20:15:56.058086+00:00",
@@ -263,12 +262,15 @@
     "browns vs saints": "2026-11-08T18:03:52.424721+00:00",
     "rams vs commanders": "2026-11-08T18:14:18.129744+00:00",
     "cruise ship worker rescued pacific ocean": "2026-11-08T18:14:25.417038+00:00",
-    "barcelona - madrid": "2026-11-08T18:14:33.804560+00:00"
+    "barcelona - madrid": "2026-11-08T18:14:33.804560+00:00",
+    "inter vs como": "2026-11-08T18:24:52.185463+00:00",
+    "george pickens": "2026-11-08T18:25:07.667428+00:00",
+    "dohnte meyers": "2026-11-08T18:25:13.457191+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-08",
-  "pushed_today": 35,
-  "last_run": "2026-11-08T18:14:34.805128+00:00",
+  "pushed_today": 38,
+  "last_run": "2026-11-08T18:25:14.457770+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
