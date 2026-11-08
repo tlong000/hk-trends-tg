@@ -270,12 +270,15 @@
     "tee higgins": "2026-11-08T18:35:49.347548+00:00",
     "joe milton": "2026-11-08T18:45:59.804982+00:00",
     "brighton vs brentford": "2026-11-08T18:46:05.285761+00:00",
-    "week 10 college football fpi update": "2026-11-08T18:46:18.258429+00:00"
+    "week 10 college football fpi update": "2026-11-08T18:46:18.258429+00:00",
+    "seattle power outages": "2026-11-08T18:56:36.284027+00:00",
+    "chicago fire": "2026-11-08T18:56:42.514879+00:00",
+    "epl": "2026-11-08T18:56:48.587269+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-08",
-  "pushed_today": 44,
-  "last_run": "2026-11-08T18:46:19.259220+00:00",
+  "pushed_today": 47,
+  "last_run": "2026-11-08T18:56:49.587748+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
