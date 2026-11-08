@@ -260,12 +260,15 @@
     "broncos vs panthers": "2026-11-08T17:53:19.091493+00:00",
     "lions vs dolphins": "2026-11-08T18:03:40.927989+00:00",
     "jets vs chiefs": "2026-11-08T18:03:46.900642+00:00",
-    "browns vs saints": "2026-11-08T18:03:52.424721+00:00"
+    "browns vs saints": "2026-11-08T18:03:52.424721+00:00",
+    "rams vs commanders": "2026-11-08T18:14:18.129744+00:00",
+    "cruise ship worker rescued pacific ocean": "2026-11-08T18:14:25.417038+00:00",
+    "barcelona - madrid": "2026-11-08T18:14:33.804560+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-08",
-  "pushed_today": 32,
-  "last_run": "2026-11-08T18:03:53.425230+00:00",
+  "pushed_today": 35,
+  "last_run": "2026-11-08T18:14:34.805128+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
