@@ -1,7 +1,6 @@
 {
   "pushed": {
     "warriors": "2026-11-08T04:17:38.368640+00:00",
-    "celtics vs hornets": "2026-11-06T23:41:09.389929+00:00",
     "virginia tech vs smu": "2026-11-06T23:51:22.430628+00:00",
     "76ers vs cavaliers": "2026-11-07T00:01:33.394093+00:00",
     "alcaraz": "2026-11-07T00:11:46.691671+00:00",
@@ -336,12 +335,15 @@
     "washington spirit": "2026-11-08T23:22:49.103955+00:00",
     "jazz vs timberwolves": "2026-11-08T23:32:58.002591+00:00",
     "seahawks game": "2026-11-08T23:33:06.854377+00:00",
-    "chivas vs leon": "2026-11-08T23:33:31.622403+00:00"
+    "chivas vs leon": "2026-11-08T23:33:31.622403+00:00",
+    "las vegas raiders vs 49ers match player stats": "2026-11-08T23:43:44.616717+00:00",
+    "fred warner": "2026-11-08T23:43:55.136267+00:00",
+    "bears game today": "2026-11-08T23:44:03.569819+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-08",
-  "pushed_today": 124,
-  "last_run": "2026-11-08T23:33:32.622939+00:00",
+  "pushed_today": 127,
+  "last_run": "2026-11-08T23:44:04.570378+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
