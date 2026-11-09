@@ -1,8 +1,6 @@
 {
   "pushed": {
     "warriors": "2026-11-08T04:17:38.368640+00:00",
-    "new mexico vs nevada": "2026-11-07T02:59:51.338743+00:00",
-    "new zealand national cricket team vs india national cricket team timeline": "2026-11-07T03:00:06.804621+00:00",
     "keira knightley": "2026-11-07T03:10:19.101452+00:00",
     "mhsaa football playoffs": "2026-11-07T03:20:33.173030+00:00",
     "tcu vs arizona": "2026-11-07T03:31:06.328955+00:00",
@@ -351,12 +349,14 @@
     "us-iran": "2026-11-09T02:43:38.187290+00:00",
     "tampa bay buccaneers vs chicago bears match player stats": "2026-11-09T02:53:54.031972+00:00",
     "terremoto": "2026-11-09T02:54:02.602235+00:00",
-    "field goal": "2026-11-09T02:54:19.110675+00:00"
+    "field goal": "2026-11-09T02:54:19.110675+00:00",
+    "rome odunze": "2026-11-09T03:04:28.127058+00:00",
+    "nfc south standings": "2026-11-09T03:04:40.579569+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-08",
-  "pushed_today": 177,
-  "last_run": "2026-11-09T02:54:20.111414+00:00",
+  "pushed_today": 179,
+  "last_run": "2026-11-09T03:04:41.580327+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
