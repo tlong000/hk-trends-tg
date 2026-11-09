@@ -1,9 +1,6 @@
 {
   "pushed": {
     "warriors": "2026-11-08T04:17:38.368640+00:00",
-    "climate prediction center heavy snow map": "2026-11-07T01:04:27.922415+00:00",
-    "necaxa vs club tijuana": "2026-11-07T01:04:46.260794+00:00",
-    "blue jackets vs sabres": "2026-11-07T01:04:59.744958+00:00",
     "bill clifton died": "2026-11-07T01:15:16.175157+00:00",
     "jazz vs mavericks": "2026-11-07T01:15:26.797382+00:00",
     "sharks vs wild": "2026-11-07T01:15:36.275980+00:00",
@@ -348,12 +345,15 @@
     "celtics vs bucks": "2026-11-09T00:47:23.091006+00:00",
     "msc cruises miami ship detained": "2026-11-09T00:57:39.533065+00:00",
     "patriots game today": "2026-11-09T00:57:46.147758+00:00",
-    "jordan watkins": "2026-11-09T00:57:52.945621+00:00"
+    "jordan watkins": "2026-11-09T00:57:52.945621+00:00",
+    "mike tirico": "2026-11-09T01:08:05.185182+00:00",
+    "gracen halton": "2026-11-09T01:08:23.102332+00:00",
+    "wes moore": "2026-11-09T01:08:28.391364+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-08",
-  "pushed_today": 148,
-  "last_run": "2026-11-09T00:57:53.946148+00:00",
+  "pushed_today": 151,
+  "last_run": "2026-11-09T01:08:29.392060+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
