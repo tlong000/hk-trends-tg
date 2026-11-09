@@ -1,8 +1,6 @@
 {
   "pushed": {
     "warriors": "2026-11-08T04:17:38.368640+00:00",
-    "ncaa football (fbs i)": "2026-11-07T21:05:27.185265+00:00",
-    "kc current": "2026-11-07T21:05:35.620628+00:00",
     "rutgers vs wisconsin": "2026-11-07T21:15:47.369225+00:00",
     "ucf vs kansas": "2026-11-07T21:15:54.721489+00:00",
     "ucla football schedule": "2026-11-07T21:16:05.813448+00:00",
@@ -322,12 +320,13 @@
     "fable 5.2": "2026-11-09T20:21:01.482307+00:00",
     "national chicken sandwich day": "2026-11-09T20:21:07.424216+00:00",
     "ozempic zepbound eye risk warnings": "2026-11-09T20:51:35.326721+00:00",
-    "sec championship game": "2026-11-09T21:01:48.164721+00:00"
+    "sec championship game": "2026-11-09T21:01:48.164721+00:00",
+    "fall out boy tour": "2026-11-09T21:12:04.018608+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-09",
-  "pushed_today": 42,
-  "last_run": "2026-11-09T21:01:49.165508+00:00",
+  "pushed_today": 43,
+  "last_run": "2026-11-09T21:12:05.019429+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
