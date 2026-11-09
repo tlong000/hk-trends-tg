@@ -1,8 +1,6 @@
 {
   "pushed": {
     "warriors": "2026-11-08T04:17:38.368640+00:00",
-    "fulham vs newcastle": "2026-11-07T17:34:27.622952+00:00",
-    "maryland vs purdue": "2026-11-07T17:34:41.242056+00:00",
     "nyt connections hints": "2026-11-07T17:45:00.370954+00:00",
     "oklahoma st vs kansas state": "2026-11-07T17:55:14.284796+00:00",
     "mainz 05 - bayern": "2026-11-07T18:05:32.548140+00:00",
@@ -333,12 +331,13 @@
     "prince william harry royal family split": "2026-11-09T16:25:58.338008+00:00",
     "nfl trade deadline 2026": "2026-11-09T16:36:19.955699+00:00",
     "rockstar games gta vi": "2026-11-09T16:46:33.574858+00:00",
-    "country music": "2026-11-09T17:27:33.784892+00:00"
+    "country music": "2026-11-09T17:27:33.784892+00:00",
+    "starbucks snowcap marshmallow drink lineup": "2026-11-09T17:37:55.637396+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-09",
-  "pushed_today": 25,
-  "last_run": "2026-11-09T17:27:34.785695+00:00",
+  "pushed_today": 26,
+  "last_run": "2026-11-09T17:37:56.638255+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
