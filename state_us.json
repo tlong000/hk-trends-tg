@@ -1,7 +1,6 @@
 {
   "pushed": {
     "warriors": "2026-11-08T04:17:38.368640+00:00",
-    "ryan day": "2026-11-08T02:02:29.809103+00:00",
     "west virginia vs texas tech": "2026-11-08T02:22:46.786512+00:00",
     "spurs vs trail blazers": "2026-11-08T02:22:52.356764+00:00",
     "lucas fernando": "2026-11-08T02:22:59.291876+00:00",
@@ -276,12 +275,15 @@
     "pacers vs mavericks": "2026-11-10T01:48:34.089523+00:00",
     "nuggets vs rockets": "2026-11-10T01:58:46.773597+00:00",
     "syracuse vs indiana": "2026-11-10T01:58:59.007895+00:00",
-    "adrian peterson": "2026-11-10T01:59:09.971270+00:00"
+    "adrian peterson": "2026-11-10T01:59:09.971270+00:00",
+    "grizzlies vs raptors": "2026-11-10T02:09:45.670213+00:00",
+    "michael wilson": "2026-11-10T02:09:50.979171+00:00",
+    "vikings schedule": "2026-11-10T02:10:06.973557+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-09",
-  "pushed_today": 56,
-  "last_run": "2026-11-10T01:59:10.972136+00:00",
+  "pushed_today": 59,
+  "last_run": "2026-11-10T02:10:07.974562+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
