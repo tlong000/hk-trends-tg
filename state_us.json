@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "heerenveen vs feyenoord": "2026-11-08T12:01:21.701079+00:00",
     "paris masters 2026": "2026-11-08T13:12:04.230259+00:00",
     "burien power outage": "2026-11-08T13:22:16.401567+00:00",
     "ncaaf rankings": "2026-11-08T13:22:29.931063+00:00",
@@ -281,7 +280,7 @@
   "paused": false,
   "pushed_date": "2026-11-10",
   "pushed_today": 11,
-  "last_run": "2026-11-10T12:01:16.560943+00:00",
+  "last_run": "2026-11-10T12:11:21.404055+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
