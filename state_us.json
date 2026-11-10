@@ -273,12 +273,13 @@
     "anthropic ipo": "2026-11-10T14:34:36.448470+00:00",
     "vitamin k deficiency bleeding": "2026-11-10T15:45:38.155298+00:00",
     "adam schefter": "2026-11-10T15:45:45.877624+00:00",
-    "vikings trade": "2026-11-10T15:56:05.863894+00:00"
+    "vikings trade": "2026-11-10T15:56:05.863894+00:00",
+    "cpi inflation data": "2026-11-10T16:16:34.693241+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-10",
-  "pushed_today": 22,
-  "last_run": "2026-11-10T16:06:12.590920+00:00",
+  "pushed_today": 23,
+  "last_run": "2026-11-10T16:16:35.693826+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
