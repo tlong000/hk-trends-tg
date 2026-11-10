@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "college football rankings ap poll": "2026-11-08T14:03:06.271948+00:00",
     "palace vs liverpool": "2026-11-08T14:13:18.166382+00:00",
     "sunderland vs chelsea": "2026-11-08T14:13:26.763225+00:00",
     "social security benefit cuts 2032": "2026-11-08T14:13:34.358376+00:00",
@@ -276,12 +275,13 @@
     "troy aikman monday night football": "2026-11-10T12:31:49.658233+00:00",
     "nfl power rankings week 10": "2026-11-10T13:02:17.743243+00:00",
     "starbucks red cup day 2026": "2026-11-10T13:02:29.294247+00:00",
-    "cpi report": "2026-11-10T13:53:36.034692+00:00"
+    "cpi report": "2026-11-10T13:53:36.034692+00:00",
+    "david walliams": "2026-11-10T14:03:47.893496+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-10",
-  "pushed_today": 15,
-  "last_run": "2026-11-10T13:53:37.035415+00:00",
+  "pushed_today": 16,
+  "last_run": "2026-11-10T14:03:48.894224+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
