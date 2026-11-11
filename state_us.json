@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "niners game": "2026-11-09T02:00:44.699484+00:00",
-    "blades brown": "2026-11-09T02:00:53.364458+00:00",
-    "snf tonight": "2026-11-09T02:01:05.565533+00:00",
     "heat vs kings": "2026-11-09T02:11:25.414806+00:00",
     "daniss jenkins": "2026-11-09T02:11:31.835926+00:00",
     "austin reaves": "2026-11-09T02:11:41.681942+00:00",
@@ -190,12 +187,15 @@
     "illinois vs texas tech": "2026-11-11T01:43:34.311501+00:00",
     "vision quest episode 8 release date": "2026-11-11T01:44:36.086277+00:00",
     "stacy keach": "2026-11-11T01:54:49.205635+00:00",
-    "unc basketball": "2026-11-11T01:55:04.602278+00:00"
+    "unc basketball": "2026-11-11T01:55:04.602278+00:00",
+    "dancing with the stars voting": "2026-11-11T02:05:17.891275+00:00",
+    "red wings vs blues": "2026-11-11T02:05:28.556234+00:00",
+    "mark robinson personal debt filing": "2026-11-11T02:05:38.921540+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-10",
-  "pushed_today": 72,
-  "last_run": "2026-11-11T01:55:05.602979+00:00",
+  "pushed_today": 75,
+  "last_run": "2026-11-11T02:05:39.922348+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
