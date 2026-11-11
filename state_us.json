@@ -199,9 +199,9 @@
     "kei truck": "2026-11-11T04:54:12.649488+00:00"
   },
   "paused": false,
-  "pushed_date": "2026-11-10",
-  "pushed_today": 102,
-  "last_run": "2026-11-11T04:54:13.650199+00:00",
+  "pushed_date": "2026-11-11",
+  "pushed_today": 0,
+  "last_run": "2026-11-11T05:04:27.192863+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
