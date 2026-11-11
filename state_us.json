@@ -1,9 +1,5 @@
 {
   "pushed": {
-    "seahawks": "2026-11-09T00:47:19.059338+00:00",
-    "celtics vs bucks": "2026-11-09T00:47:23.091006+00:00",
-    "msc cruises miami ship detained": "2026-11-09T00:57:39.533065+00:00",
-    "patriots game today": "2026-11-09T00:57:46.147758+00:00",
     "jordan watkins": "2026-11-09T00:57:52.945621+00:00",
     "mike tirico": "2026-11-09T01:08:05.185182+00:00",
     "gracen halton": "2026-11-09T01:08:23.102332+00:00",
@@ -194,12 +190,14 @@
     "did jonathan taylor get traded": "2026-11-11T00:26:13.176888+00:00",
     "crwv": "2026-11-11T00:36:43.550755+00:00",
     "avalanche vs maple leafs": "2026-11-11T00:46:50.751248+00:00",
-    "cfp rankings": "2026-11-11T00:47:06.983660+00:00"
+    "cfp rankings": "2026-11-11T00:47:06.983660+00:00",
+    "kent state vs bowling green": "2026-11-11T00:57:36.737111+00:00",
+    "coreweave": "2026-11-11T00:57:44.795694+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-10",
-  "pushed_today": 60,
-  "last_run": "2026-11-11T00:47:07.984479+00:00",
+  "pushed_today": 62,
+  "last_run": "2026-11-11T00:57:45.796518+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
