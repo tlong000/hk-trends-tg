@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "todd bowles": "2026-11-09T03:14:53.122017+00:00",
-    "marshals show": "2026-11-09T03:15:03.094791+00:00",
     "zyon mccollum": "2026-11-09T03:25:18.675846+00:00",
     "tank dell": "2026-11-09T03:25:29.796890+00:00",
     "bucky irving": "2026-11-09T06:02:23.923814+00:00",
@@ -185,12 +183,14 @@
     "kentucky basketball": "2026-11-11T02:58:37.969607+00:00",
     "boston celtics vs 76ers match player stats": "2026-11-11T02:58:52.664474+00:00",
     "deer park shelter in place": "2026-11-11T03:09:05.290668+00:00",
-    "ohio vs miami oh": "2026-11-11T03:09:20.324799+00:00"
+    "ohio vs miami oh": "2026-11-11T03:09:20.324799+00:00",
+    "kansas vs kentucky": "2026-11-11T03:19:42.916688+00:00",
+    "magic vs kings": "2026-11-11T03:19:54.858171+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-10",
-  "pushed_today": 87,
-  "last_run": "2026-11-11T03:09:21.325487+00:00",
+  "pushed_today": 89,
+  "last_run": "2026-11-11T03:19:55.858935+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
