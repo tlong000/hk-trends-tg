@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "josh johnson": "2026-11-10T03:36:04.976719+00:00",
-    "lion": "2026-11-10T03:36:10.551452+00:00",
     "aaron jones": "2026-11-10T03:46:28.991097+00:00",
     "vikings standings": "2026-11-10T03:46:37.729465+00:00",
     "vikings quarterback": "2026-11-10T03:57:09.430519+00:00",
@@ -184,12 +182,15 @@
     "where to watch oklahoma city thunder vs portland trail blazers": "2026-11-12T03:05:51.532518+00:00",
     "the vow": "2026-11-12T03:16:21.024104+00:00",
     "ricky alvarez": "2026-11-12T03:26:36.158641+00:00",
-    "james harden": "2026-11-12T03:26:47.901522+00:00"
+    "james harden": "2026-11-12T03:26:47.901522+00:00",
+    "mammoth vs golden knights": "2026-11-12T03:37:10.267000+00:00",
+    "steph curry injury": "2026-11-12T03:37:16.378352+00:00",
+    "robert morris vs arkansas": "2026-11-12T03:37:29.050767+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-11",
-  "pushed_today": 66,
-  "last_run": "2026-11-12T03:26:48.902318+00:00",
+  "pushed_today": 69,
+  "last_run": "2026-11-12T03:37:30.051484+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
