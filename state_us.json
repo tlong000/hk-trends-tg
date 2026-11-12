@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "troy aikman": "2026-11-10T03:14:54.200850+00:00",
-    "lakers vs atlanta hawks match player stats": "2026-11-10T03:15:14.228119+00:00",
-    "kevin mcgonigle": "2026-11-10T03:15:24.225288+00:00",
     "vikings game today": "2026-11-10T03:25:52.667413+00:00",
     "josh johnson": "2026-11-10T03:36:04.976719+00:00",
     "lion": "2026-11-10T03:36:10.551452+00:00",
@@ -185,12 +182,13 @@
     "buffalo vs ball state": "2026-11-12T02:55:15.897152+00:00",
     "umass vs toledo": "2026-11-12T02:55:20.273816+00:00",
     "magic vs jazz": "2026-11-12T03:05:37.452516+00:00",
-    "where to watch oklahoma city thunder vs portland trail blazers": "2026-11-12T03:05:51.532518+00:00"
+    "where to watch oklahoma city thunder vs portland trail blazers": "2026-11-12T03:05:51.532518+00:00",
+    "the vow": "2026-11-12T03:16:21.024104+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-11",
-  "pushed_today": 63,
-  "last_run": "2026-11-12T03:05:52.533258+00:00",
+  "pushed_today": 64,
+  "last_run": "2026-11-12T03:16:22.024896+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
