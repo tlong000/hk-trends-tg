@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "cpi inflation data": "2026-11-10T16:16:34.693241+00:00",
     "keenan allen": "2026-11-10T19:37:45.748522+00:00",
     "arnold ebiketie": "2026-11-10T19:37:55.585622+00:00",
     "amazon ring drone camera": "2026-11-10T19:38:00.176246+00:00",
@@ -186,7 +185,7 @@
   "paused": false,
   "pushed_date": "2026-11-12",
   "pushed_today": 23,
-  "last_run": "2026-11-12T16:12:20.420093+00:00",
+  "last_run": "2026-11-12T16:22:24.621639+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
