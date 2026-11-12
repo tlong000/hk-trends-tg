@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "rams trade": "2026-11-10T21:11:09.772809+00:00",
     "kyle mccord": "2026-11-10T21:41:27.117095+00:00",
     "crwv stock": "2026-11-10T21:41:35.991771+00:00",
     "mcdonalds pokemon": "2026-11-10T21:42:01.588754+00:00",
@@ -187,12 +186,13 @@
     "liga de naciones": "2026-11-12T20:54:18.565629+00:00",
     "msft": "2026-11-12T20:54:24.942981+00:00",
     "tornado warning nyc": "2026-11-12T20:54:32.319041+00:00",
-    "hegseth awards medal to soldier who reprimanded him and aides at arlington cemetery": "2026-11-12T21:04:48.501610+00:00"
+    "hegseth awards medal to soldier who reprimanded him and aides at arlington cemetery": "2026-11-12T21:04:48.501610+00:00",
+    "social security cuts": "2026-11-12T21:15:04.658847+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-12",
-  "pushed_today": 45,
-  "last_run": "2026-11-12T21:04:49.502459+00:00",
+  "pushed_today": 46,
+  "last_run": "2026-11-12T21:15:05.659694+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
