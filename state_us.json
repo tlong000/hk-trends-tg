@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "kyler murray": "2026-11-10T02:31:16.705440+00:00",
-    "pelicans vs warriors": "2026-11-10T02:31:22.226871+00:00",
-    "jordon hudson": "2026-11-10T02:31:32.260013+00:00",
     "rangers vs oilers": "2026-11-10T02:41:44.554463+00:00",
     "bills schedule": "2026-11-10T02:41:57.231720+00:00",
     "the end of everything": "2026-11-10T02:42:03.918433+00:00",
@@ -188,12 +185,15 @@
     "nuggets vs grizzlies": "2026-11-12T02:12:39.225188+00:00",
     "nets vs pelicans": "2026-11-12T02:22:53.429592+00:00",
     "flyers vs oilers": "2026-11-12T02:23:02.726253+00:00",
-    "the vow chris harrison": "2026-11-12T02:23:08.589670+00:00"
+    "the vow chris harrison": "2026-11-12T02:23:08.589670+00:00",
+    "brandon mall shooting": "2026-11-12T02:33:40.124918+00:00",
+    "cy young award 2026": "2026-11-12T02:33:48.545011+00:00",
+    "usher chris brown tour cancellations": "2026-11-12T02:34:10.534862+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-11",
-  "pushed_today": 54,
-  "last_run": "2026-11-12T02:23:09.590376+00:00",
+  "pushed_today": 57,
+  "last_run": "2026-11-12T02:34:11.535633+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
