@@ -181,12 +181,14 @@
     "senegal vs sudan": "2026-11-12T21:55:42.220333+00:00",
     "england national football team": "2026-11-12T22:05:55.615817+00:00",
     "england national football team vs croatia national football team standings": "2026-11-12T22:16:27.280933+00:00",
-    "españa vs": "2026-11-12T22:16:36.973059+00:00"
+    "españa vs": "2026-11-12T22:16:36.973059+00:00",
+    "france": "2026-11-12T22:47:05.476371+00:00",
+    "gemini 4 hydrogen": "2026-11-12T22:47:11.195163+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-12",
-  "pushed_today": 51,
-  "last_run": "2026-11-12T22:36:47.819818+00:00",
+  "pushed_today": 53,
+  "last_run": "2026-11-12T22:47:12.196049+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
