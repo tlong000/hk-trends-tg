@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "action thriller": "2026-11-10T22:02:58.265813+00:00",
-    "xavier smith": "2026-11-10T22:03:05.688243+00:00",
     "amani hooker stats": "2026-11-10T22:13:19.287987+00:00",
     "is the nfl trade deadline over": "2026-11-10T22:13:39.400258+00:00",
     "is the trade deadline over": "2026-11-10T22:23:50.539935+00:00",
@@ -184,12 +182,13 @@
     "hegseth awards medal to soldier who reprimanded him and aides at arlington cemetery": "2026-11-12T21:04:48.501610+00:00",
     "social security cuts": "2026-11-12T21:15:04.658847+00:00",
     "act": "2026-11-12T21:35:21.220693+00:00",
-    "senegal vs sudan": "2026-11-12T21:55:42.220333+00:00"
+    "senegal vs sudan": "2026-11-12T21:55:42.220333+00:00",
+    "england national football team": "2026-11-12T22:05:55.615817+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-12",
-  "pushed_today": 48,
-  "last_run": "2026-11-12T21:55:43.221212+00:00",
+  "pushed_today": 49,
+  "last_run": "2026-11-12T22:05:56.616719+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
