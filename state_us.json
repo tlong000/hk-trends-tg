@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "bills game": "2026-11-10T05:00:52.401167+00:00",
-    "islanders vs sharks": "2026-11-10T05:01:02.322446+00:00",
     "carla hall food network": "2026-11-10T05:21:25.108359+00:00",
     "meat recall": "2026-11-10T05:21:42.235906+00:00",
     "anthony davis": "2026-11-10T05:21:54.954487+00:00",
@@ -180,12 +178,14 @@
     "walmart black friday sales": "2026-11-12T04:19:21.551532+00:00",
     "lindenwood vs nebraska": "2026-11-12T04:29:41.420145+00:00",
     "penguins vs sharks": "2026-11-12T04:39:59.739175+00:00",
-    "oklahoma city thunder vs portland trail blazers match player stats": "2026-11-12T04:50:16.329431+00:00"
+    "oklahoma city thunder vs portland trail blazers match player stats": "2026-11-12T04:50:16.329431+00:00",
+    "luka injury": "2026-11-12T05:10:33.791517+00:00",
+    "sacramento st vs central mi": "2026-11-12T05:10:40.987349+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-12",
-  "pushed_today": 0,
-  "last_run": "2026-11-12T05:00:21.718573+00:00",
+  "pushed_today": 2,
+  "last_run": "2026-11-12T05:10:41.988111+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
