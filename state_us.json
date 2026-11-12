@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "vikings quarterback": "2026-11-10T03:57:09.430519+00:00",
     "snow storm weather forecast": "2026-11-10T04:07:28.205636+00:00",
     "sal stewart": "2026-11-10T04:07:33.240593+00:00",
     "china": "2026-11-10T04:07:58.217365+00:00",
@@ -186,12 +185,14 @@
     "robert morris vs arkansas": "2026-11-12T03:37:29.050767+00:00",
     "steph curry": "2026-11-12T03:47:45.727787+00:00",
     "scarlett johansson studio pitch criticism": "2026-11-12T03:47:59.352995+00:00",
-    "rockets vs warriors": "2026-11-12T03:48:09.934587+00:00"
+    "rockets vs warriors": "2026-11-12T03:48:09.934587+00:00",
+    "ball state football": "2026-11-12T03:58:29.955257+00:00",
+    "isaiah hartenstein": "2026-11-12T03:58:35.094071+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-11",
-  "pushed_today": 72,
-  "last_run": "2026-11-12T03:48:10.935458+00:00",
+  "pushed_today": 74,
+  "last_run": "2026-11-12T03:58:36.094928+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
