@@ -189,12 +189,13 @@
     "suns": "2026-11-13T05:07:39.509218+00:00",
     "weather forecast": "2026-11-13T05:07:48.510430+00:00",
     "streamer awards 2026 winners": "2026-11-13T05:18:04.421104+00:00",
-    "chigoziem okonkwo": "2026-11-13T05:18:31.541460+00:00"
+    "chigoziem okonkwo": "2026-11-13T05:18:31.541460+00:00",
+    "snow storm weather forecast": "2026-11-13T05:28:55.030686+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-13",
-  "pushed_today": 5,
-  "last_run": "2026-11-13T05:18:32.542344+00:00",
+  "pushed_today": 6,
+  "last_run": "2026-11-13T05:28:56.031530+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
