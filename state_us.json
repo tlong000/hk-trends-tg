@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "kent state vs bowling green": "2026-11-11T00:57:36.737111+00:00",
-    "coreweave": "2026-11-11T00:57:44.795694+00:00",
     "wild vs canadiens": "2026-11-11T01:11:55.455746+00:00",
     "virginia tech vs iowa": "2026-11-11T01:22:19.030781+00:00",
     "cfp rankings today": "2026-11-11T01:22:27.240211+00:00",
@@ -184,12 +182,13 @@
     "nba starting lineups": "2026-11-13T00:19:45.496019+00:00",
     "evan phillips": "2026-11-13T00:29:57.182141+00:00",
     "mavericks vs timberwolves": "2026-11-13T00:40:14.448691+00:00",
-    "canadiens vs bruins": "2026-11-13T00:40:20.787892+00:00"
+    "canadiens vs bruins": "2026-11-13T00:40:20.787892+00:00",
+    "hegseth awards soldier": "2026-11-13T01:01:07.851188+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-12",
-  "pushed_today": 64,
-  "last_run": "2026-11-13T00:50:26.954254+00:00",
+  "pushed_today": 65,
+  "last_run": "2026-11-13T01:01:08.851987+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
