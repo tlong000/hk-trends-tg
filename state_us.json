@@ -219,12 +219,15 @@
     "samuel alito": "2026-11-13T22:29:40.874740+00:00",
     "slovenia vs switzerland": "2026-11-13T22:29:56.465072+00:00",
     "troy aikman": "2026-11-13T22:40:12.038559+00:00",
-    "bbc news": "2026-11-13T22:40:21.195377+00:00"
+    "bbc news": "2026-11-13T22:40:21.195377+00:00",
+    "christian and joseph cousins": "2026-11-13T22:50:33.161456+00:00",
+    "argentina vs uruguay": "2026-11-13T22:50:38.513182+00:00",
+    "argentina - uruguay": "2026-11-13T22:50:48.002757+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-13",
-  "pushed_today": 64,
-  "last_run": "2026-11-13T22:40:22.196145+00:00",
+  "pushed_today": 67,
+  "last_run": "2026-11-13T22:50:49.003619+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
