@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "building collapse nyc": "2026-11-11T22:12:59.914468+00:00",
     "kimberly powell nvidia": "2026-11-11T22:23:12.009477+00:00",
     "disco singer rochelle fleming passes": "2026-11-11T22:23:20.387533+00:00",
     "ayesha curry": "2026-11-11T22:23:36.041806+00:00",
@@ -217,12 +216,15 @@
     "países bajos - grecia": "2026-11-13T21:58:06.697753+00:00",
     "why are flights cancelled today": "2026-11-13T22:08:19.059760+00:00",
     "cyber attack": "2026-11-13T22:08:34.336530+00:00",
-    "gta 6 online": "2026-11-13T22:08:42.723745+00:00"
+    "gta 6 online": "2026-11-13T22:08:42.723745+00:00",
+    "fox news": "2026-11-13T22:18:56.552175+00:00",
+    "cnn news": "2026-11-13T22:19:04.434018+00:00",
+    "national weather service": "2026-11-13T22:19:14.037404+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-13",
-  "pushed_today": 56,
-  "last_run": "2026-11-13T22:08:43.724618+00:00",
+  "pushed_today": 59,
+  "last_run": "2026-11-13T22:19:15.038211+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
