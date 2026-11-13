@@ -193,12 +193,13 @@
     "weather tornado warning": "2026-11-13T06:10:14.360249+00:00",
     "anthony clark what happened": "2026-11-13T06:41:10.892398+00:00",
     "new zealand national cricket team vs india national cricket team match scorecard": "2026-11-13T06:41:24.328319+00:00",
-    "matt henry": "2026-11-13T07:01:39.962664+00:00"
+    "matt henry": "2026-11-13T07:01:39.962664+00:00",
+    "new zealand vs india": "2026-11-13T10:49:35.032956+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-13",
-  "pushed_today": 14,
-  "last_run": "2026-11-13T07:11:45.511276+00:00",
+  "pushed_today": 15,
+  "last_run": "2026-11-13T10:49:36.033699+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
