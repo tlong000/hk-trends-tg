@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "nintendo eshop philippines": "2026-11-11T00:15:30.666145+00:00",
-    "duke basketball": "2026-11-11T00:15:41.788716+00:00",
     "duke vs mi state": "2026-11-11T00:25:55.311897+00:00",
     "florida vs florida state": "2026-11-11T00:26:02.906549+00:00",
     "did jonathan taylor get traded": "2026-11-11T00:26:13.176888+00:00",
@@ -187,12 +185,14 @@
     "senegal national football team vs sudan national football team standings": "2026-11-12T23:18:17.296061+00:00",
     "raptors vs 76ers": "2026-11-12T23:38:45.557469+00:00",
     "supreme court": "2026-11-12T23:49:01.700811+00:00",
-    "pistons vs wizards": "2026-11-12T23:59:18.177830+00:00"
+    "pistons vs wizards": "2026-11-12T23:59:18.177830+00:00",
+    "jensen huang third affair": "2026-11-13T00:19:38.958791+00:00",
+    "nba starting lineups": "2026-11-13T00:19:45.496019+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-12",
-  "pushed_today": 59,
-  "last_run": "2026-11-13T00:09:29.347882+00:00",
+  "pushed_today": 61,
+  "last_run": "2026-11-13T00:19:46.496889+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
