@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "texas roadhouse": "2026-11-11T20:41:42.673526+00:00",
     "chilis": "2026-11-11T21:22:20.382779+00:00",
     "billy gray": "2026-11-11T21:32:30.595670+00:00",
     "building collapse nyc": "2026-11-11T22:12:59.914468+00:00",
@@ -199,12 +198,14 @@
     "netherlands vs greece": "2026-11-13T20:24:40.388899+00:00",
     "serbia - alemania": "2026-11-13T20:34:50.216217+00:00",
     "tijjani reijnders": "2026-11-13T20:34:57.116609+00:00",
-    "nations league standings": "2026-11-13T20:35:04.654186+00:00"
+    "nations league standings": "2026-11-13T20:35:04.654186+00:00",
+    "morocco vs niger": "2026-11-13T20:45:12.375313+00:00",
+    "new orleans": "2026-11-13T20:45:24.934786+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-13",
-  "pushed_today": 35,
-  "last_run": "2026-11-13T20:35:05.654892+00:00",
+  "pushed_today": 37,
+  "last_run": "2026-11-13T20:45:25.935555+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
