@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "dwts vote": "2026-11-11T02:47:44.749623+00:00",
-    "kansas basketball": "2026-11-11T02:48:01.387500+00:00",
-    "brittany mahomes": "2026-11-11T02:48:13.656632+00:00",
     "kentucky basketball": "2026-11-11T02:58:37.969607+00:00",
     "boston celtics vs 76ers match player stats": "2026-11-11T02:58:52.664474+00:00",
     "deer park shelter in place": "2026-11-11T03:09:05.290668+00:00",
@@ -185,12 +182,14 @@
     "chris van hollen": "2026-11-13T02:29:30.538401+00:00",
     "weather tornado watch": "2026-11-13T02:39:42.877098+00:00",
     "ebenezer": "2026-11-13T02:39:53.721176+00:00",
-    "jessica pegula": "2026-11-13T02:40:00.439070+00:00"
+    "jessica pegula": "2026-11-13T02:40:00.439070+00:00",
+    "cameron skattebo": "2026-11-13T02:50:25.441317+00:00",
+    "jim harbaugh": "2026-11-13T02:51:00.664150+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-12",
-  "pushed_today": 85,
-  "last_run": "2026-11-13T02:40:01.439911+00:00",
+  "pushed_today": 87,
+  "last_run": "2026-11-13T02:51:01.664987+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
