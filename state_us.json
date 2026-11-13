@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "kimberly powell nvidia": "2026-11-11T22:23:12.009477+00:00",
-    "disco singer rochelle fleming passes": "2026-11-11T22:23:20.387533+00:00",
-    "ayesha curry": "2026-11-11T22:23:36.041806+00:00",
     "kimberly powell": "2026-11-11T22:33:44.947241+00:00",
     "joao below deck": "2026-11-11T22:33:49.685023+00:00",
     "brooklyn building collapse": "2026-11-11T22:54:02.769771+00:00",
@@ -219,12 +216,15 @@
     "gta 6 online": "2026-11-13T22:08:42.723745+00:00",
     "fox news": "2026-11-13T22:18:56.552175+00:00",
     "cnn news": "2026-11-13T22:19:04.434018+00:00",
-    "national weather service": "2026-11-13T22:19:14.037404+00:00"
+    "national weather service": "2026-11-13T22:19:14.037404+00:00",
+    "faa": "2026-11-13T22:29:27.941015+00:00",
+    "samuel alito": "2026-11-13T22:29:40.874740+00:00",
+    "slovenia vs switzerland": "2026-11-13T22:29:56.465072+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-13",
-  "pushed_today": 59,
-  "last_run": "2026-11-13T22:19:15.038211+00:00",
+  "pushed_today": 62,
+  "last_run": "2026-11-13T22:29:57.465888+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
