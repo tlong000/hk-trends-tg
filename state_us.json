@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "crwv": "2026-11-11T00:36:43.550755+00:00",
     "avalanche vs maple leafs": "2026-11-11T00:46:50.751248+00:00",
     "cfp rankings": "2026-11-11T00:47:06.983660+00:00",
     "kent state vs bowling green": "2026-11-11T00:57:36.737111+00:00",
@@ -185,12 +184,14 @@
     "pistons vs wizards": "2026-11-12T23:59:18.177830+00:00",
     "jensen huang third affair": "2026-11-13T00:19:38.958791+00:00",
     "nba starting lineups": "2026-11-13T00:19:45.496019+00:00",
-    "evan phillips": "2026-11-13T00:29:57.182141+00:00"
+    "evan phillips": "2026-11-13T00:29:57.182141+00:00",
+    "mavericks vs timberwolves": "2026-11-13T00:40:14.448691+00:00",
+    "canadiens vs bruins": "2026-11-13T00:40:20.787892+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-12",
-  "pushed_today": 62,
-  "last_run": "2026-11-13T00:29:58.182853+00:00",
+  "pushed_today": 64,
+  "last_run": "2026-11-13T00:40:21.788660+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
