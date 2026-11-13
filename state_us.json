@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "connor hellebuyck": "2026-11-11T12:34:41.339438+00:00",
-    "jonathan ross": "2026-11-11T12:34:56.166964+00:00",
     "stock market open today": "2026-11-11T12:45:18.103095+00:00",
     "is today veterans day": "2026-11-11T12:55:29.889582+00:00",
     "mega millions": "2026-11-11T12:55:35.810818+00:00",
@@ -197,7 +195,7 @@
   "paused": false,
   "pushed_date": "2026-11-13",
   "pushed_today": 16,
-  "last_run": "2026-11-13T12:30:53.680406+00:00",
+  "last_run": "2026-11-13T12:40:57.232455+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
