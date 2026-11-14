@@ -249,12 +249,13 @@
     "syracuse vs nc state": "2026-11-14T18:16:59.699755+00:00",
     "ufc tonight": "2026-11-14T18:27:11.397075+00:00",
     "utah royals fc vs washington spirit": "2026-11-14T18:37:21.075482+00:00",
-    "wake forest football": "2026-11-14T18:47:44.769089+00:00"
+    "wake forest football": "2026-11-14T18:47:44.769089+00:00",
+    "washington spirit": "2026-11-14T19:18:29.254561+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 27,
-  "last_run": "2026-11-14T19:07:56.230678+00:00",
+  "pushed_today": 28,
+  "last_run": "2026-11-14T19:18:30.255315+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
