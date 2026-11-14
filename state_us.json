@@ -1,9 +1,6 @@
 {
   "pushed": {
     "aryna sabalenka": "2026-11-14T00:03:42.894547+00:00",
-    "barcelona - arsenal": "2026-11-12T20:11:11.893455+00:00",
-    "chequia - españa": "2026-11-12T20:11:31.940877+00:00",
-    "italia - francia": "2026-11-12T20:11:45.392175+00:00",
     "hurricanes vs kraken": "2026-11-12T20:22:01.675116+00:00",
     "microsoft stock": "2026-11-12T20:22:13.712718+00:00",
     "turquía - bélgica": "2026-11-12T20:22:24.911665+00:00",
@@ -255,12 +252,13 @@
     "missouri vs georgia": "2026-11-14T20:00:07.613789+00:00",
     "jake dickert": "2026-11-14T20:00:18.948050+00:00",
     "boston college vs notre dame": "2026-11-14T20:10:33.951932+00:00",
-    "clemson football": "2026-11-14T20:10:37.914332+00:00"
+    "clemson football": "2026-11-14T20:10:37.914332+00:00",
+    "iowa state football": "2026-11-14T20:20:53.539338+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 39,
-  "last_run": "2026-11-14T20:10:38.915069+00:00",
+  "pushed_today": 40,
+  "last_run": "2026-11-14T20:20:54.540115+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
