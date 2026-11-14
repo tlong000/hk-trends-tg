@@ -249,12 +249,14 @@
     "poland vs romania": "2026-11-14T22:16:06.919268+00:00",
     "washington vs mi state": "2026-11-14T22:26:25.660514+00:00",
     "arizona state vs ucf": "2026-11-14T22:26:30.182157+00:00",
-    "california vs virginia": "2026-11-14T22:26:39.583559+00:00"
+    "california vs virginia": "2026-11-14T22:26:39.583559+00:00",
+    "league of legends new dawn": "2026-11-14T22:36:50.508764+00:00",
+    "mirra andreeva": "2026-11-14T22:36:59.951447+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 55,
-  "last_run": "2026-11-14T22:26:40.584152+00:00",
+  "pushed_today": 57,
+  "last_run": "2026-11-14T22:37:00.952042+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
