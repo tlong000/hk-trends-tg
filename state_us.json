@@ -1,7 +1,6 @@
 {
   "pushed": {
     "aryna sabalenka": "2026-11-14T00:03:42.894547+00:00",
-    "who won the internet invitational 2026": "2026-11-12T23:08:05.482240+00:00",
     "senegal national football team vs sudan national football team standings": "2026-11-12T23:18:17.296061+00:00",
     "raptors vs 76ers": "2026-11-12T23:38:45.557469+00:00",
     "supreme court": "2026-11-12T23:49:01.700811+00:00",
@@ -251,12 +250,15 @@
     "mirra andreeva": "2026-11-14T22:36:59.951447+00:00",
     "florida vs kentucky": "2026-11-14T22:47:16.856369+00:00",
     "lsu vs gonzaga": "2026-11-14T22:47:27.438407+00:00",
-    "shane gillis": "2026-11-14T22:47:39.161687+00:00"
+    "shane gillis": "2026-11-14T22:47:39.161687+00:00",
+    "oregon state vs boise state": "2026-11-14T23:07:56.894524+00:00",
+    "jackson state vs alabama state": "2026-11-14T23:08:11.956811+00:00",
+    "worlds": "2026-11-14T23:08:22.176006+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 60,
-  "last_run": "2026-11-14T22:57:43.849545+00:00",
+  "pushed_today": 63,
+  "last_run": "2026-11-14T23:08:23.176725+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
