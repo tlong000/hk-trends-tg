@@ -1,8 +1,6 @@
 {
   "pushed": {
     "aryna sabalenka": "2026-11-14T00:03:42.894547+00:00",
-    "ball state football": "2026-11-12T03:58:29.955257+00:00",
-    "isaiah hartenstein": "2026-11-12T03:58:35.094071+00:00",
     "rangers vs flames": "2026-11-12T04:08:49.998155+00:00",
     "walmart black friday sales": "2026-11-12T04:19:21.551532+00:00",
     "lindenwood vs nebraska": "2026-11-12T04:29:41.420145+00:00",
@@ -247,12 +245,13 @@
     "liga de naciones concacaf": "2026-11-14T03:32:17.807621+00:00",
     "nfhs": "2026-11-14T03:42:36.140765+00:00",
     "auburn basketball": "2026-11-14T03:52:47.190732+00:00",
-    "abandoned puppies found in crate": "2026-11-14T03:52:54.356312+00:00"
+    "abandoned puppies found in crate": "2026-11-14T03:52:54.356312+00:00",
+    "merrimack vs florida": "2026-11-14T04:03:19.895114+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-13",
-  "pushed_today": 133,
-  "last_run": "2026-11-14T03:52:55.357086+00:00",
+  "pushed_today": 134,
+  "last_run": "2026-11-14T04:03:20.895947+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
