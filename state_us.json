@@ -243,12 +243,13 @@
     "michelle pfeiffer": "2026-11-14T04:34:06.992299+00:00",
     "arizona vs auburn": "2026-11-14T04:54:38.568155+00:00",
     "rangers vs canucks": "2026-11-14T05:14:53.496751+00:00",
-    "maryland basketball": "2026-11-14T05:45:24.853297+00:00"
+    "maryland basketball": "2026-11-14T05:45:24.853297+00:00",
+    "ontario mills": "2026-11-14T06:05:52.564053+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 2,
-  "last_run": "2026-11-14T05:55:30.632282+00:00",
+  "pushed_today": 3,
+  "last_run": "2026-11-14T06:05:53.564920+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
