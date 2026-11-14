@@ -1,9 +1,6 @@
 {
   "pushed": {
     "aryna sabalenka": "2026-11-14T00:03:42.894547+00:00",
-    "nets vs pelicans": "2026-11-12T02:22:53.429592+00:00",
-    "flyers vs oilers": "2026-11-12T02:23:02.726253+00:00",
-    "the vow chris harrison": "2026-11-12T02:23:08.589670+00:00",
     "brandon mall shooting": "2026-11-12T02:33:40.124918+00:00",
     "cy young award 2026": "2026-11-12T02:33:48.545011+00:00",
     "usher chris brown tour cancellations": "2026-11-12T02:34:10.534862+00:00",
@@ -248,12 +245,15 @@
     "southwest airlines": "2026-11-14T02:06:36.367835+00:00",
     "90 day power outage": "2026-11-14T02:07:18.802464+00:00",
     "peoria bomb threat": "2026-11-14T02:17:36.017426+00:00",
-    "outages": "2026-11-14T02:17:56.653598+00:00"
+    "outages": "2026-11-14T02:17:56.653598+00:00",
+    "peru vs bolivia": "2026-11-14T02:28:38.832669+00:00",
+    "ohio state vs uconn": "2026-11-14T02:28:47.901154+00:00",
+    "peoria": "2026-11-14T02:28:57.807698+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-13",
-  "pushed_today": 113,
-  "last_run": "2026-11-14T02:17:57.654476+00:00",
+  "pushed_today": 116,
+  "last_run": "2026-11-14T02:28:58.808596+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
