@@ -244,12 +244,15 @@
     "kansas vs west virginia": "2026-11-14T20:51:35.647703+00:00",
     "auburn vs ms state": "2026-11-14T20:51:42.034119+00:00",
     "haití - estados unidos": "2026-11-14T21:02:02.480078+00:00",
-    "lol worlds": "2026-11-14T21:22:28.000380+00:00"
+    "lol worlds": "2026-11-14T21:22:28.000380+00:00",
+    "cbs ncis franchise schedule pause": "2026-11-14T21:32:46.104783+00:00",
+    "east carolina vs charlotte": "2026-11-14T21:32:49.904452+00:00",
+    "starship catch": "2026-11-14T21:32:56.374007+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 45,
-  "last_run": "2026-11-14T21:22:29.001152+00:00",
+  "pushed_today": 48,
+  "last_run": "2026-11-14T21:32:57.374779+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
