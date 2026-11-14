@@ -1,9 +1,6 @@
 {
   "pushed": {
     "aryna sabalenka": "2026-11-14T00:03:42.894547+00:00",
-    "tommy mcmillen": "2026-11-12T20:43:37.459458+00:00",
-    "nintendo black friday": "2026-11-12T20:43:42.396113+00:00",
-    "internet outage": "2026-11-12T20:43:48.115278+00:00",
     "liga de naciones": "2026-11-12T20:54:18.565629+00:00",
     "msft": "2026-11-12T20:54:24.942981+00:00",
     "tornado warning nyc": "2026-11-12T20:54:32.319041+00:00",
@@ -248,12 +245,14 @@
     "boston college vs notre dame": "2026-11-14T20:10:33.951932+00:00",
     "clemson football": "2026-11-14T20:10:37.914332+00:00",
     "iowa state football": "2026-11-14T20:20:53.539338+00:00",
-    "sweden vs bosnia and herzegovina": "2026-11-14T20:41:23.829523+00:00"
+    "sweden vs bosnia and herzegovina": "2026-11-14T20:41:23.829523+00:00",
+    "kansas vs west virginia": "2026-11-14T20:51:35.647703+00:00",
+    "auburn vs ms state": "2026-11-14T20:51:42.034119+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 41,
-  "last_run": "2026-11-14T20:41:24.830280+00:00",
+  "pushed_today": 43,
+  "last_run": "2026-11-14T20:51:43.034894+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
