@@ -243,12 +243,15 @@
     "nebraska vs rutgers": "2026-11-14T17:55:50.025161+00:00",
     "georgia tech vs clemson": "2026-11-14T18:06:06.016085+00:00",
     "wisconsin vs maryland": "2026-11-14T18:06:16.897839+00:00",
-    "cincinnati vs iowa state": "2026-11-14T18:06:30.636396+00:00"
+    "cincinnati vs iowa state": "2026-11-14T18:06:30.636396+00:00",
+    "wake forest vs smu": "2026-11-14T18:16:39.574593+00:00",
+    "noruega - gales": "2026-11-14T18:16:47.589866+00:00",
+    "syracuse vs nc state": "2026-11-14T18:16:59.699755+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 21,
-  "last_run": "2026-11-14T18:06:31.637228+00:00",
+  "pushed_today": 24,
+  "last_run": "2026-11-14T18:17:00.700543+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
