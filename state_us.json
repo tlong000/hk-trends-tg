@@ -1,7 +1,6 @@
 {
   "pushed": {
     "aryna sabalenka": "2026-11-14T00:03:42.894547+00:00",
-    "pistons vs wizards": "2026-11-12T23:59:18.177830+00:00",
     "jensen huang third affair": "2026-11-13T00:19:38.958791+00:00",
     "nba starting lineups": "2026-11-13T00:19:45.496019+00:00",
     "evan phillips": "2026-11-13T00:29:57.182141+00:00",
@@ -259,12 +258,15 @@
     "minnesota vs penn state": "2026-11-14T23:39:52.883517+00:00",
     "querétaro - monterrey": "2026-11-14T23:50:04.240961+00:00",
     "nuggets vs pelicans": "2026-11-14T23:50:11.858565+00:00",
-    "banfield - boca juniors": "2026-11-14T23:50:19.219995+00:00"
+    "banfield - boca juniors": "2026-11-14T23:50:19.219995+00:00",
+    "macy chiasson": "2026-11-15T00:00:35.437673+00:00",
+    "paramount": "2026-11-15T00:00:48.650695+00:00",
+    "mavericks surfing": "2026-11-15T00:00:58.346800+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 72,
-  "last_run": "2026-11-14T23:50:20.220740+00:00",
+  "pushed_today": 75,
+  "last_run": "2026-11-15T00:00:59.347562+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
