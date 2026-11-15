@@ -271,12 +271,14 @@
     "nebraska volleyball": "2026-11-15T00:53:36.602621+00:00",
     "lsu basketball": "2026-11-15T01:04:02.028023+00:00",
     "stanford vs virginia tech": "2026-11-15T01:14:17.776904+00:00",
-    "uk vs florida": "2026-11-15T01:14:24.531753+00:00"
+    "uk vs florida": "2026-11-15T01:14:24.531753+00:00",
+    "flyers vs blue jackets": "2026-11-15T01:24:43.941410+00:00",
+    "app state vs marshall": "2026-11-15T01:25:00.066066+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 93,
-  "last_run": "2026-11-15T01:14:25.532436+00:00",
+  "pushed_today": 95,
+  "last_run": "2026-11-15T01:25:01.066752+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
