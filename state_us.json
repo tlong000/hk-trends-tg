@@ -1,7 +1,6 @@
 {
   "pushed": {
     "aryna sabalenka": "2026-11-14T00:03:42.894547+00:00",
-    "netherlands vs greece": "2026-11-13T20:24:40.388899+00:00",
     "serbia - alemania": "2026-11-13T20:34:50.216217+00:00",
     "tijjani reijnders": "2026-11-13T20:34:57.116609+00:00",
     "nations league standings": "2026-11-13T20:35:04.654186+00:00",
@@ -307,12 +306,15 @@
     "cade klubnik": "2026-11-15T20:07:20.884782+00:00",
     "raiders vs seahawks": "2026-11-15T20:07:36.791664+00:00",
     "kyle mccord": "2026-11-15T20:17:59.074893+00:00",
-    "mn vikings": "2026-11-15T20:18:06.713444+00:00"
+    "mn vikings": "2026-11-15T20:18:06.713444+00:00",
+    "lakers vs suns": "2026-11-15T20:28:17.076228+00:00",
+    "rams vs cardinals": "2026-11-15T20:28:24.280958+00:00",
+    "louisville vs memphis": "2026-11-15T20:28:28.896680+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-15",
-  "pushed_today": 79,
-  "last_run": "2026-11-15T20:18:07.714042+00:00",
+  "pushed_today": 82,
+  "last_run": "2026-11-15T20:28:29.897408+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
