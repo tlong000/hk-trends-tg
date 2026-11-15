@@ -1,9 +1,6 @@
 {
   "pushed": {
     "aryna sabalenka": "2026-11-14T00:03:42.894547+00:00",
-    "faa delays": "2026-11-13T21:26:32.891990+00:00",
-    "egypt vs malawi": "2026-11-13T21:26:40.406311+00:00",
-    "dejounte murray": "2026-11-13T21:26:49.183593+00:00",
     "all flights grounded today": "2026-11-13T21:37:05.182272+00:00",
     "news": "2026-11-13T21:37:10.231167+00:00",
     "us flights cancelled": "2026-11-13T21:47:23.551910+00:00",
@@ -312,12 +309,15 @@
     "kc current vs gotham": "2026-11-15T21:10:31.271993+00:00",
     "panthers vs saints where to watch": "2026-11-15T21:20:46.713014+00:00",
     "kansas city chiefs vs atlanta falcons match player stats": "2026-11-15T21:20:56.610843+00:00",
-    "france vs turkey": "2026-11-15T21:21:05.900029+00:00"
+    "france vs turkey": "2026-11-15T21:21:05.900029+00:00",
+    "vikings": "2026-11-15T21:31:24.123719+00:00",
+    "spurs vs jazz": "2026-11-15T21:31:32.784860+00:00",
+    "49ers - cowboys": "2026-11-15T21:31:47.252679+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-15",
-  "pushed_today": 95,
-  "last_run": "2026-11-15T21:21:06.900739+00:00",
+  "pushed_today": 98,
+  "last_run": "2026-11-15T21:31:48.253457+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
