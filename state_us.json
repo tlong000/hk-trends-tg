@@ -1,8 +1,6 @@
 {
   "pushed": {
     "aryna sabalenka": "2026-11-14T00:03:42.894547+00:00",
-    "lisa maxwell daughter beau": "2026-11-13T02:18:34.818048+00:00",
-    "lightning vs blue jackets": "2026-11-13T02:18:46.396314+00:00",
     "capitals vs devils": "2026-11-13T02:29:09.556266+00:00",
     "red wings vs panthers": "2026-11-13T02:29:24.185906+00:00",
     "chris van hollen": "2026-11-13T02:29:30.538401+00:00",
@@ -274,12 +272,13 @@
     "trump absent faa ground stop crisis": "2026-11-15T02:07:25.461657+00:00",
     "detroit pistons vs miami heat match player stats": "2026-11-15T02:07:31.097579+00:00",
     "devils vs capitals": "2026-11-15T02:18:17.027767+00:00",
-    "husker volleyball": "2026-11-15T02:18:27.889972+00:00"
+    "husker volleyball": "2026-11-15T02:18:27.889972+00:00",
+    "nz vs ind": "2026-11-15T02:28:44.017771+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-14",
-  "pushed_today": 106,
-  "last_run": "2026-11-15T02:18:28.890617+00:00",
+  "pushed_today": 107,
+  "last_run": "2026-11-15T02:28:45.018455+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
