@@ -278,12 +278,15 @@
     "deportivo - barcelona": "2026-11-15T17:18:18.136053+00:00",
     "texans vs browns": "2026-11-15T17:28:35.200274+00:00",
     "panthers vs saints": "2026-11-15T17:28:45.583179+00:00",
-    "barry sanders": "2026-11-15T17:28:55.139466+00:00"
+    "barry sanders": "2026-11-15T17:28:55.139466+00:00",
+    "dolphins vs colts": "2026-11-15T17:39:10.496820+00:00",
+    "pacers vs 76ers": "2026-11-15T17:39:16.824642+00:00",
+    "belarus vs albania": "2026-11-15T17:39:39.956404+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-15",
-  "pushed_today": 42,
-  "last_run": "2026-11-15T17:28:56.140164+00:00",
+  "pushed_today": 45,
+  "last_run": "2026-11-15T17:39:40.956990+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
