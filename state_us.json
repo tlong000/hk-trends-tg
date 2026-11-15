@@ -271,12 +271,14 @@
     "amon ra st brown": "2026-11-15T16:26:21.644858+00:00",
     "winter storm warning": "2026-11-15T16:26:33.308765+00:00",
     "jahmyr gibbs": "2026-11-15T16:36:46.890201+00:00",
-    "cold opening snl tonight": "2026-11-15T16:37:24.850417+00:00"
+    "cold opening snl tonight": "2026-11-15T16:37:24.850417+00:00",
+    "lions game": "2026-11-15T16:57:47.038894+00:00",
+    "dakota johnson": "2026-11-15T16:57:53.860024+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-15",
-  "pushed_today": 35,
-  "last_run": "2026-11-15T16:47:30.649845+00:00",
+  "pushed_today": 37,
+  "last_run": "2026-11-15T16:57:54.860682+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
