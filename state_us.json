@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "lsu vs gonzaga": "2026-11-14T22:47:27.438407+00:00",
-    "shane gillis": "2026-11-14T22:47:39.161687+00:00",
     "oregon state vs boise state": "2026-11-14T23:07:56.894524+00:00",
     "jackson state vs alabama state": "2026-11-14T23:08:11.956811+00:00",
     "worlds": "2026-11-14T23:08:22.176006+00:00",
@@ -281,12 +279,13 @@
     "united airlines": "2026-11-16T22:26:45.867198+00:00",
     "supreme court": "2026-11-16T22:26:54.652011+00:00",
     "clarence thomas first amendment warning": "2026-11-16T22:37:13.092983+00:00",
-    "fema": "2026-11-16T22:37:17.654289+00:00"
+    "fema": "2026-11-16T22:37:17.654289+00:00",
+    "tyrus wheat": "2026-11-16T22:57:43.256941+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-16",
-  "pushed_today": 32,
-  "last_run": "2026-11-16T22:47:22.883513+00:00",
+  "pushed_today": 33,
+  "last_run": "2026-11-16T22:57:44.257768+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
