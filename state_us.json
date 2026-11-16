@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "florida vs kentucky": "2026-11-14T22:47:16.856369+00:00",
     "lsu vs gonzaga": "2026-11-14T22:47:27.438407+00:00",
     "shane gillis": "2026-11-14T22:47:39.161687+00:00",
     "oregon state vs boise state": "2026-11-14T23:07:56.894524+00:00",
@@ -287,7 +286,7 @@
   "paused": false,
   "pushed_date": "2026-11-16",
   "pushed_today": 32,
-  "last_run": "2026-11-16T22:37:18.655183+00:00",
+  "last_run": "2026-11-16T22:47:22.883513+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
