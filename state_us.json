@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "estados unidos": "2026-11-14T00:34:50.860779+00:00",
-    "uni vs mi state": "2026-11-14T00:34:57.961896+00:00",
-    "sabalenka": "2026-11-14T00:35:05.503927+00:00",
     "cavaliers vs heat": "2026-11-14T00:45:16.590635+00:00",
     "ufc 336": "2026-11-14T00:45:26.933525+00:00",
     "ecuador vs costa rica": "2026-11-14T00:55:47.741803+00:00",
@@ -305,12 +302,15 @@
     "seahawks - raiders": "2026-11-16T00:18:37.985760+00:00",
     "fernando mendoza": "2026-11-16T00:28:58.149279+00:00",
     "uconn vs louisville": "2026-11-16T00:29:03.872174+00:00",
-    "arch manning texas lsu game": "2026-11-16T00:29:11.234113+00:00"
+    "arch manning texas lsu game": "2026-11-16T00:29:11.234113+00:00",
+    "49ers vs dallas cowboys match player stats": "2026-11-16T00:39:34.504713+00:00",
+    "harry potter movies leaving peacock": "2026-11-16T00:39:50.027379+00:00",
+    "panama vs curaçao": "2026-11-16T00:40:03.001530+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-15",
-  "pushed_today": 134,
-  "last_run": "2026-11-16T00:29:12.235031+00:00",
+  "pushed_today": 137,
+  "last_run": "2026-11-16T00:40:04.002506+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
