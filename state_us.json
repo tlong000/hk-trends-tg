@@ -304,12 +304,13 @@
     "la mansion vip": "2026-11-16T04:01:55.468068+00:00",
     "darnell washington": "2026-11-16T04:12:04.877527+00:00",
     "canucks vs golden knights": "2026-11-16T06:09:39.217263+00:00",
-    "jaylen warren": "2026-11-16T06:09:43.325003+00:00"
+    "jaylen warren": "2026-11-16T06:09:43.325003+00:00",
+    "mason mccormick": "2026-11-16T08:11:24.226386+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-16",
-  "pushed_today": 2,
-  "last_run": "2026-11-16T08:01:12.090946+00:00",
+  "pushed_today": 3,
+  "last_run": "2026-11-16T08:11:25.227050+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
