@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "houston vs colorado": "2026-11-14T03:00:55.705158+00:00",
-    "frontier airlines": "2026-11-14T03:01:01.681568+00:00",
-    "nintendo black friday canada": "2026-11-14T03:01:12.496943+00:00",
     "illini basketball": "2026-11-14T03:11:33.312326+00:00",
     "power outage": "2026-11-14T03:21:46.613475+00:00",
     "thunder vs clippers": "2026-11-14T03:31:55.160472+00:00",
@@ -309,12 +306,14 @@
     "ja'marr chase": "2026-11-16T02:48:05.004682+00:00",
     "drew sample": "2026-11-16T02:58:18.983211+00:00",
     "miguel ángel félix gallardo": "2026-11-16T02:58:26.889476+00:00",
-    "syracuse vs st john's": "2026-11-16T02:58:39.260134+00:00"
+    "syracuse vs st john's": "2026-11-16T02:58:39.260134+00:00",
+    "dohnte meyers": "2026-11-16T03:09:13.286840+00:00",
+    "ronnie rivers": "2026-11-16T03:09:26.694321+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-15",
-  "pushed_today": 172,
-  "last_run": "2026-11-16T02:58:40.261139+00:00",
+  "pushed_today": 174,
+  "last_run": "2026-11-16T03:09:27.695260+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
