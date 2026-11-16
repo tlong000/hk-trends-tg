@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "league of legends new dawn": "2026-11-14T22:36:50.508764+00:00",
-    "mirra andreeva": "2026-11-14T22:36:59.951447+00:00",
     "florida vs kentucky": "2026-11-14T22:47:16.856369+00:00",
     "lsu vs gonzaga": "2026-11-14T22:47:27.438407+00:00",
     "shane gillis": "2026-11-14T22:47:39.161687+00:00",
@@ -282,12 +280,14 @@
     "greece vs serbia": "2026-11-16T22:16:27.829646+00:00",
     "switzerland vs scotland": "2026-11-16T22:26:40.209003+00:00",
     "united airlines": "2026-11-16T22:26:45.867198+00:00",
-    "supreme court": "2026-11-16T22:26:54.652011+00:00"
+    "supreme court": "2026-11-16T22:26:54.652011+00:00",
+    "clarence thomas first amendment warning": "2026-11-16T22:37:13.092983+00:00",
+    "fema": "2026-11-16T22:37:17.654289+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-16",
-  "pushed_today": 30,
-  "last_run": "2026-11-16T22:26:55.652933+00:00",
+  "pushed_today": 32,
+  "last_run": "2026-11-16T22:37:18.655183+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
