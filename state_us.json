@@ -306,12 +306,15 @@
     "amazon leo satellites ula vulcan launch": "2026-11-16T00:50:52.481399+00:00",
     "metlife stadium": "2026-11-16T01:01:03.380829+00:00",
     "john malkovich": "2026-11-16T01:01:13.890994+00:00",
-    "dallas cowboys game": "2026-11-16T01:01:34.024156+00:00"
+    "dallas cowboys game": "2026-11-16T01:01:34.024156+00:00",
+    "dak prescott": "2026-11-16T01:11:50.955310+00:00",
+    "miguel angel felix gallardo": "2026-11-16T01:12:02.094360+00:00",
+    "nothing bundt cakes": "2026-11-16T01:12:32.184775+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-15",
-  "pushed_today": 143,
-  "last_run": "2026-11-16T01:01:35.025205+00:00",
+  "pushed_today": 146,
+  "last_run": "2026-11-16T01:12:33.185963+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
