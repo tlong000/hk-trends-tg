@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca": "2026-11-14T22:15:53.512674+00:00",
-    "poland vs romania": "2026-11-14T22:16:06.919268+00:00",
     "washington vs mi state": "2026-11-14T22:26:25.660514+00:00",
     "arizona state vs ucf": "2026-11-14T22:26:30.182157+00:00",
     "california vs virginia": "2026-11-14T22:26:39.583559+00:00",
@@ -282,12 +280,14 @@
     "nvidia earnings": "2026-11-16T21:24:49.159023+00:00",
     "grand theft auto 6 parents guide": "2026-11-16T21:25:07.241545+00:00",
     "netherlands vs germany": "2026-11-16T21:35:25.757948+00:00",
-    "nvda earnings date": "2026-11-16T21:35:35.996576+00:00"
+    "nvda earnings date": "2026-11-16T21:35:35.996576+00:00",
+    "germany national football team vs netherlands national football team standings": "2026-11-16T22:16:22.277861+00:00",
+    "greece vs serbia": "2026-11-16T22:16:27.829646+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-16",
-  "pushed_today": 25,
-  "last_run": "2026-11-16T22:06:07.976650+00:00",
+  "pushed_today": 27,
+  "last_run": "2026-11-16T22:16:28.830399+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
