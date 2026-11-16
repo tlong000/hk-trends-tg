@@ -1,12 +1,5 @@
 {
   "pushed": {
-    "predators vs golden knights": "2026-11-14T04:13:31.663005+00:00",
-    "ucla football": "2026-11-14T04:33:58.403929+00:00",
-    "michelle pfeiffer": "2026-11-14T04:34:06.992299+00:00",
-    "arizona vs auburn": "2026-11-14T04:54:38.568155+00:00",
-    "rangers vs canucks": "2026-11-14T05:14:53.496751+00:00",
-    "maryland basketball": "2026-11-14T05:45:24.853297+00:00",
-    "ontario mills": "2026-11-14T06:05:52.564053+00:00",
     "lj cryer": "2026-11-14T06:16:05.122324+00:00",
     "tyriq withers": "2026-11-14T06:46:29.730076+00:00",
     "japan vs brazil": "2026-11-14T10:46:37.400290+00:00",
@@ -311,12 +304,14 @@
     "samaje perine": "2026-11-16T03:51:19.982401+00:00",
     "aaron rodgers wife": "2026-11-16T04:01:47.328246+00:00",
     "la mansion vip": "2026-11-16T04:01:55.468068+00:00",
-    "darnell washington": "2026-11-16T04:12:04.877527+00:00"
+    "darnell washington": "2026-11-16T04:12:04.877527+00:00",
+    "canucks vs golden knights": "2026-11-16T06:09:39.217263+00:00",
+    "jaylen warren": "2026-11-16T06:09:43.325003+00:00"
   },
   "paused": false,
-  "pushed_date": "2026-11-15",
-  "pushed_today": 186,
-  "last_run": "2026-11-16T04:12:05.878495+00:00",
+  "pushed_date": "2026-11-16",
+  "pushed_today": 2,
+  "last_run": "2026-11-16T06:09:44.325756+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
