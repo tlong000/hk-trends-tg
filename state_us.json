@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "chiefs vs falcons": "2026-11-15T08:47:44.768300+00:00",
     "india vs new zealand": "2026-11-15T10:58:49.272719+00:00",
     "winter storm": "2026-11-15T11:29:10.275853+00:00",
     "ndsu football": "2026-11-15T11:29:21.386468+00:00",
@@ -235,7 +234,7 @@
   "paused": false,
   "pushed_date": "2026-11-17",
   "pushed_today": 6,
-  "last_run": "2026-11-17T08:40:00.431583+00:00",
+  "last_run": "2026-11-17T08:50:04.768198+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
