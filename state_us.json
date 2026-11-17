@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "ravenna fc": "2026-11-15T18:21:27.602503+00:00",
-    "packers game": "2026-11-15T18:21:38.001798+00:00",
     "patriots game": "2026-11-15T18:32:05.269952+00:00",
     "anchorage snow storm travel conditions": "2026-11-15T18:42:15.563691+00:00",
     "detroit lions game today": "2026-11-15T18:42:25.482349+00:00",
@@ -223,7 +221,7 @@
   "paused": false,
   "pushed_date": "2026-11-17",
   "pushed_today": 21,
-  "last_run": "2026-11-17T18:16:21.710483+00:00",
+  "last_run": "2026-11-17T18:26:25.472498+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
