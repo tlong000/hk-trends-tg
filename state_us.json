@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "india vs new zealand": "2026-11-15T10:58:49.272719+00:00",
-    "winter storm": "2026-11-15T11:29:10.275853+00:00",
-    "ndsu football": "2026-11-15T11:29:21.386468+00:00",
     "drake maye": "2026-11-15T16:15:43.578765+00:00",
     "isaac teslaa": "2026-11-15T16:15:48.054590+00:00",
     "miami airport airplane crash": "2026-11-15T16:16:02.010414+00:00",
@@ -229,12 +226,15 @@
     "canucks vs mammoth": "2026-11-17T05:57:17.830622+00:00",
     "sin senos si hay paraiso 4": "2026-11-17T06:48:16.636721+00:00",
     "the odyssey": "2026-11-17T07:28:49.060861+00:00",
-    "gta 6 ultimate edition": "2026-11-17T07:49:23.440178+00:00"
+    "gta 6 ultimate edition": "2026-11-17T07:49:23.440178+00:00",
+    "cyber attacks": "2026-11-17T15:52:41.915955+00:00",
+    "malawi vs egypt": "2026-11-17T15:52:48.057192+00:00",
+    "play gta 6 early timezone trick": "2026-11-17T15:52:54.175739+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-17",
-  "pushed_today": 6,
-  "last_run": "2026-11-17T09:10:13.470628+00:00",
+  "pushed_today": 9,
+  "last_run": "2026-11-17T15:52:55.176642+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
