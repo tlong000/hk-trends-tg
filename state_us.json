@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "bulls vs timberwolves": "2026-11-15T00:53:21.789616+00:00",
-    "pistons vs heat": "2026-11-15T00:53:28.705229+00:00",
-    "nebraska volleyball": "2026-11-15T00:53:36.602621+00:00",
     "lsu basketball": "2026-11-15T01:04:02.028023+00:00",
     "stanford vs virginia tech": "2026-11-15T01:14:17.776904+00:00",
     "uk vs florida": "2026-11-15T01:14:24.531753+00:00",
@@ -261,12 +258,14 @@
     "dirty bomb": "2026-11-17T00:29:19.993433+00:00",
     "grizzlies vs wizards": "2026-11-17T00:39:34.664959+00:00",
     "warriors vs pelicans": "2026-11-17T00:39:42.313407+00:00",
-    "drug recall": "2026-11-17T00:49:55.172922+00:00"
+    "drug recall": "2026-11-17T00:49:55.172922+00:00",
+    "canadá - guatemala": "2026-11-17T01:00:15.521216+00:00",
+    "trail blazers vs timberwolves": "2026-11-17T01:00:27.003021+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-16",
-  "pushed_today": 41,
-  "last_run": "2026-11-17T00:49:56.173717+00:00",
+  "pushed_today": 43,
+  "last_run": "2026-11-17T01:00:28.004685+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
