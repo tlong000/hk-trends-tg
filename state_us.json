@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "drake maye": "2026-11-15T16:15:43.578765+00:00",
-    "isaac teslaa": "2026-11-15T16:15:48.054590+00:00",
-    "miami airport airplane crash": "2026-11-15T16:16:02.010414+00:00",
     "iran attacks bahrain": "2026-11-15T16:26:11.401562+00:00",
     "amon ra st brown": "2026-11-15T16:26:21.644858+00:00",
     "winter storm warning": "2026-11-15T16:26:33.308765+00:00",
@@ -237,7 +234,7 @@
   "paused": false,
   "pushed_date": "2026-11-17",
   "pushed_today": 12,
-  "last_run": "2026-11-17T16:14:01.629829+00:00",
+  "last_run": "2026-11-17T16:24:05.694697+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
