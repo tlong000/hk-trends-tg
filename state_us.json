@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "canucks vs golden knights": "2026-11-16T06:09:39.217263+00:00",
-    "jaylen warren": "2026-11-16T06:09:43.325003+00:00",
     "mason mccormick": "2026-11-16T08:11:24.226386+00:00",
     "archive of our own ao3 website": "2026-11-16T11:13:16.490091+00:00",
     "jensen huang snl skit": "2026-11-16T11:23:33.898072+00:00",
@@ -166,12 +164,14 @@
     "lakers vs hornets": "2026-11-18T05:31:58.178110+00:00",
     "utah jazz": "2026-11-18T05:42:11.516291+00:00",
     "amber glenn": "2026-11-18T05:42:17.565014+00:00",
-    "hornets - lakers": "2026-11-18T05:52:35.470114+00:00"
+    "hornets - lakers": "2026-11-18T05:52:35.470114+00:00",
+    "auburn vs west virginia": "2026-11-18T06:13:09.520940+00:00",
+    "connor bedard": "2026-11-18T06:13:16.991853+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-18",
-  "pushed_today": 10,
-  "last_run": "2026-11-18T06:02:41.063196+00:00",
+  "pushed_today": 12,
+  "last_run": "2026-11-18T06:13:17.992554+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
