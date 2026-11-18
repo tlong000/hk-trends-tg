@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "aaron rodgers wife": "2026-11-16T04:01:47.328246+00:00",
-    "la mansion vip": "2026-11-16T04:01:55.468068+00:00",
     "darnell washington": "2026-11-16T04:12:04.877527+00:00",
     "canucks vs golden knights": "2026-11-16T06:09:39.217263+00:00",
     "jaylen warren": "2026-11-16T06:09:43.325003+00:00",
@@ -149,12 +147,13 @@
     "blue jackets vs islanders": "2026-11-18T03:46:29.353233+00:00",
     "who got eliminated on dancing with the stars": "2026-11-18T03:57:02.200978+00:00",
     "trev alberts": "2026-11-18T03:57:14.750552+00:00",
-    "ducks vs blues": "2026-11-18T03:57:24.959195+00:00"
+    "ducks vs blues": "2026-11-18T03:57:24.959195+00:00",
+    "timberwolves": "2026-11-18T04:07:52.567445+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-17",
-  "pushed_today": 85,
-  "last_run": "2026-11-18T03:57:25.960001+00:00",
+  "pushed_today": 86,
+  "last_run": "2026-11-18T04:07:53.616117+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
