@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "cowboys": "2026-11-16T02:05:48.418393+00:00",
-    "dan hicks wife": "2026-11-16T02:05:56.869305+00:00",
-    "amazon satellite launch setback ula": "2026-11-16T02:06:10.850197+00:00",
     "oilers vs flyers": "2026-11-16T02:16:34.223098+00:00",
     "panamá - curazao": "2026-11-16T02:16:43.181948+00:00",
     "ula vulcan rocket launch": "2026-11-16T02:16:50.019510+00:00",
@@ -142,12 +139,15 @@
     "ecuador vs bolivia": "2026-11-18T01:48:43.251915+00:00",
     "predators vs wild": "2026-11-18T01:58:59.474677+00:00",
     "orange county sheriff's department": "2026-11-18T01:59:10.386178+00:00",
-    "politics": "2026-11-18T01:59:20.073894+00:00"
+    "politics": "2026-11-18T01:59:20.073894+00:00",
+    "méxico - jamaica": "2026-11-18T02:09:38.081765+00:00",
+    "the circle": "2026-11-18T02:09:54.758527+00:00",
+    "oilers vs panthers": "2026-11-18T02:10:01.917249+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-17",
-  "pushed_today": 53,
-  "last_run": "2026-11-18T01:59:21.074742+00:00",
+  "pushed_today": 56,
+  "last_run": "2026-11-18T02:10:02.918328+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
