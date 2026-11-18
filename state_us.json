@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "flood watch": "2026-11-16T20:32:53.159359+00:00",
-    "royal family news": "2026-11-16T20:33:06.833873+00:00",
-    "theo james": "2026-11-16T20:33:13.233623+00:00",
     "lindsay clancy": "2026-11-16T20:43:27.574990+00:00",
     "josh o'connor": "2026-11-16T20:43:36.916003+00:00",
     "tara harding ford bronco purchase": "2026-11-16T21:04:11.968934+00:00",
@@ -176,12 +173,15 @@
     "florida weather flooding": "2026-11-18T16:48:48.053726+00:00",
     "usda health alert breakfast": "2026-11-18T20:22:51.840666+00:00",
     "gta+": "2026-11-18T20:23:13.082518+00:00",
-    "hakeem jeffries speaker": "2026-11-18T20:23:23.837808+00:00"
+    "hakeem jeffries speaker": "2026-11-18T20:23:23.837808+00:00",
+    "kfc": "2026-11-18T20:33:43.924963+00:00",
+    "mike pettine": "2026-11-18T20:33:53.155736+00:00",
+    "jason movie cast": "2026-11-18T20:34:03.564928+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-18",
-  "pushed_today": 34,
-  "last_run": "2026-11-18T20:23:24.838632+00:00",
+  "pushed_today": 37,
+  "last_run": "2026-11-18T20:34:04.565729+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
