@@ -168,12 +168,13 @@
     "broward county schools": "2026-11-18T12:40:44.489892+00:00",
     "mega millions": "2026-11-18T12:40:51.141639+00:00",
     "twitch": "2026-11-18T13:01:39.816847+00:00",
-    "anthropic stock": "2026-11-18T13:22:18.922775+00:00"
+    "anthropic stock": "2026-11-18T13:22:18.922775+00:00",
+    "broward schools": "2026-11-18T13:32:38.874728+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-18",
-  "pushed_today": 17,
-  "last_run": "2026-11-18T13:22:19.923794+00:00",
+  "pushed_today": 18,
+  "last_run": "2026-11-18T13:32:39.875732+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
