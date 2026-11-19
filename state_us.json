@@ -206,12 +206,15 @@
     "sports scores today": "2026-11-19T05:37:54.722914+00:00",
     "lakers game today": "2026-11-19T05:38:07.356983+00:00",
     "lakers standings": "2026-11-19T06:09:07.797694+00:00",
-    "hunger games movies in order": "2026-11-19T06:19:21.667132+00:00"
+    "hunger games movies in order": "2026-11-19T06:19:21.667132+00:00",
+    "diego pavia": "2026-11-19T06:29:39.256690+00:00",
+    "lakers vs jazz": "2026-11-19T06:29:47.149167+00:00",
+    "marcus king": "2026-11-19T06:29:54.001022+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-19",
-  "pushed_today": 7,
-  "last_run": "2026-11-19T06:19:22.667926+00:00",
+  "pushed_today": 10,
+  "last_run": "2026-11-19T06:29:55.001729+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
