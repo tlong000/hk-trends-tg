@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "dinamarca - noruega": "2026-11-17T20:28:42.583929+00:00",
     "israel vs austria": "2026-11-17T20:38:51.343563+00:00",
     "lesley vogel": "2026-11-17T20:59:07.751104+00:00",
     "bosnia and herzegovina vs romania": "2026-11-17T21:09:18.727682+00:00",
@@ -206,7 +205,7 @@
   "paused": false,
   "pushed_date": "2026-11-19",
   "pushed_today": 26,
-  "last_run": "2026-11-19T20:27:05.615533+00:00",
+  "last_run": "2026-11-19T20:37:10.665388+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
