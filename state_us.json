@@ -177,12 +177,15 @@
     "hakeem jeffries": "2026-11-18T23:29:13.381399+00:00",
     "76ers vs magic": "2026-11-18T23:49:40.609742+00:00",
     "rockets vs pacers": "2026-11-18T23:49:49.654065+00:00",
-    "grizzlies vs cavaliers": "2026-11-18T23:49:56.840992+00:00"
+    "grizzlies vs cavaliers": "2026-11-18T23:49:56.840992+00:00",
+    "anheuser-busch": "2026-11-19T00:00:20.734337+00:00",
+    "houston basketball": "2026-11-19T00:00:27.033970+00:00",
+    "the oak ridge boys": "2026-11-19T00:00:35.564738+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-18",
-  "pushed_today": 56,
-  "last_run": "2026-11-18T23:49:57.841663+00:00",
+  "pushed_today": 59,
+  "last_run": "2026-11-19T00:00:36.565560+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
