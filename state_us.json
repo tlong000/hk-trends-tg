@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "dr michael freeman": "2026-11-17T04:03:26.224798+00:00",
-    "tre harris": "2026-11-17T04:03:40.710031+00:00",
-    "lamar jackson": "2026-11-17T04:03:51.376711+00:00",
     "jfk jr": "2026-11-17T04:14:01.607820+00:00",
     "calais campbell": "2026-11-17T04:14:23.387031+00:00",
     "derrick henry stats": "2026-11-17T04:14:32.158708+00:00",
@@ -209,12 +206,14 @@
     "central mi vs buffalo": "2026-11-19T03:34:15.580468+00:00",
     "celtics vs denver nuggets match player stats": "2026-11-19T03:44:25.460511+00:00",
     "randy travis": "2026-11-19T03:54:38.286652+00:00",
-    "celtics - nuggets": "2026-11-19T03:55:00.765030+00:00"
+    "celtics - nuggets": "2026-11-19T03:55:00.765030+00:00",
+    "red clay strays": "2026-11-19T04:05:34.852925+00:00",
+    "chris stapleton": "2026-11-19T04:05:42.840015+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-18",
-  "pushed_today": 102,
-  "last_run": "2026-11-19T03:55:01.765878+00:00",
+  "pushed_today": 104,
+  "last_run": "2026-11-19T04:05:43.840728+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
