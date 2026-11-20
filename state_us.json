@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "jazz vs clippers": "2026-11-18T03:35:25.481395+00:00",
-    "college football rankings": "2026-11-18T03:35:43.495625+00:00",
-    "voyager 1 light day": "2026-11-18T03:35:59.403098+00:00",
     "minnesota timberwolves": "2026-11-18T03:46:11.026898+00:00",
     "blue jackets vs islanders": "2026-11-18T03:46:29.353233+00:00",
     "who got eliminated on dancing with the stars": "2026-11-18T03:57:02.200978+00:00",
@@ -202,12 +199,15 @@
     "colts schedule": "2026-11-20T03:06:32.483683+00:00",
     "patrick stewart": "2026-11-20T03:31:07.614101+00:00",
     "blue jackets vs blackhawks": "2026-11-20T03:31:24.207020+00:00",
-    "oilers vs lightning": "2026-11-20T03:31:37.714427+00:00"
+    "oilers vs lightning": "2026-11-20T03:31:37.714427+00:00",
+    "knicks": "2026-11-20T03:42:03.487195+00:00",
+    "kings vs maple leafs": "2026-11-20T03:42:10.865688+00:00",
+    "sauce gardner": "2026-11-20T03:42:28.065835+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-19",
-  "pushed_today": 77,
-  "last_run": "2026-11-20T03:31:38.715268+00:00",
+  "pushed_today": 80,
+  "last_run": "2026-11-20T03:42:29.066612+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
