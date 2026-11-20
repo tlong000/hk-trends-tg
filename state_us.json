@@ -1,7 +1,6 @@
 {
   "pushed": {
     "stars vs golden knights": "2026-11-20T04:34:52.118439+00:00",
-    "broward schools": "2026-11-18T13:32:38.874728+00:00",
     "estados unidos": "2026-11-18T13:42:55.246877+00:00",
     "broward county schools weather update": "2026-11-18T13:53:06.008823+00:00",
     "iran kuwait": "2026-11-18T14:03:38.462023+00:00",
@@ -208,7 +207,7 @@
   "paused": false,
   "pushed_date": "2026-11-20",
   "pushed_today": 23,
-  "last_run": "2026-11-20T13:22:56.689702+00:00",
+  "last_run": "2026-11-20T13:33:00.473888+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
