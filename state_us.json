@@ -1,8 +1,6 @@
 {
   "pushed": {
     "stars vs golden knights": "2026-11-20T04:34:52.118439+00:00",
-    "bucks vs heat": "2026-11-18T23:28:59.027933+00:00",
-    "hakeem jeffries": "2026-11-18T23:29:13.381399+00:00",
     "76ers vs magic": "2026-11-18T23:49:40.609742+00:00",
     "rockets vs pacers": "2026-11-18T23:49:49.654065+00:00",
     "grizzlies vs cavaliers": "2026-11-18T23:49:56.840992+00:00",
@@ -219,7 +217,7 @@
   "paused": false,
   "pushed_date": "2026-11-20",
   "pushed_today": 68,
-  "last_run": "2026-11-20T23:26:37.809545+00:00",
+  "last_run": "2026-11-20T23:36:41.881216+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
