@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "timberwolves": "2026-11-18T04:07:52.567445+00:00",
     "jamaica carter": "2026-11-18T04:18:09.931394+00:00",
     "stars vs golden knights": "2026-11-18T04:28:32.011773+00:00",
     "aus vs eng": "2026-11-18T04:28:41.598437+00:00",
@@ -202,12 +201,14 @@
     "kayshon boutte": "2026-11-20T03:53:05.565100+00:00",
     "salt lake vs seattle sounders": "2026-11-20T04:03:18.954388+00:00",
     "is niko bellic in gta 6": "2026-11-20T04:03:50.213498+00:00",
-    "will anderson jr": "2026-11-20T04:03:59.884866+00:00"
+    "will anderson jr": "2026-11-20T04:03:59.884866+00:00",
+    "flyers vs senators": "2026-11-20T04:14:28.420075+00:00",
+    "gold price": "2026-11-20T04:14:34.407711+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-19",
-  "pushed_today": 85,
-  "last_run": "2026-11-20T04:04:00.885761+00:00",
+  "pushed_today": 87,
+  "last_run": "2026-11-20T04:14:35.408471+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
