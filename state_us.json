@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "argentina vs costa rica": "2026-11-18T00:54:36.210486+00:00",
-    "usa vs haiti": "2026-11-18T00:54:48.910613+00:00",
-    "pistons vs spurs": "2026-11-18T00:55:07.934527+00:00",
     "chile vs colombia": "2026-11-18T01:05:24.711492+00:00",
     "knicks vs raptors": "2026-11-18T01:05:30.898015+00:00",
     "estados unidos - haití": "2026-11-18T01:05:44.115806+00:00",
@@ -219,12 +216,14 @@
     "warriors vs grizzlies": "2026-11-20T00:42:36.375521+00:00",
     "auburn basketball": "2026-11-20T00:42:49.265103+00:00",
     "notre dame basketball": "2026-11-20T00:53:04.757210+00:00",
-    "ps5 games": "2026-11-20T00:53:16.005391+00:00"
+    "ps5 games": "2026-11-20T00:53:16.005391+00:00",
+    "puka nacua suspension": "2026-11-20T01:03:30.851167+00:00",
+    "sabres vs capitals": "2026-11-20T01:03:43.585928+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-19",
-  "pushed_today": 49,
-  "last_run": "2026-11-20T00:53:17.006137+00:00",
+  "pushed_today": 51,
+  "last_run": "2026-11-20T01:03:44.586695+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
