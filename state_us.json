@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "chile - colombia": "2026-11-18T02:20:12.472506+00:00",
-    "el salvador - san martín": "2026-11-18T02:20:18.471027+00:00",
-    "maple leafs vs blackhawks": "2026-11-18T02:20:24.652134+00:00",
     "dancing with the stars voting": "2026-11-18T02:30:36.028235+00:00",
     "emergency alert system power outage": "2026-11-18T02:30:47.435388+00:00",
     "maura higgins": "2026-11-18T02:30:56.915762+00:00",
@@ -210,12 +207,13 @@
     "flash flooding florida": "2026-11-20T01:45:47.045104+00:00",
     "boeing 747": "2026-11-20T02:14:00.268493+00:00",
     "rice vs temple": "2026-11-20T02:14:07.266707+00:00",
-    "texans depth chart": "2026-11-20T02:14:18.519370+00:00"
+    "texans depth chart": "2026-11-20T02:14:18.519370+00:00",
+    "davis martin": "2026-11-20T02:24:30.640165+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-19",
-  "pushed_today": 64,
-  "last_run": "2026-11-20T02:14:19.520070+00:00",
+  "pushed_today": 65,
+  "last_run": "2026-11-20T02:24:31.640918+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
