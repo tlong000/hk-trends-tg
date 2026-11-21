@@ -225,12 +225,15 @@
     "sevilla - real betis": "2026-11-21T19:57:38.056245+00:00",
     "noaa winter snow map el niño": "2026-11-21T20:07:50.668091+00:00",
     "tn tech vs ms state": "2026-11-21T20:08:06.691393+00:00",
-    "oilers vs hurricanes": "2026-11-21T20:08:12.398193+00:00"
+    "oilers vs hurricanes": "2026-11-21T20:08:12.398193+00:00",
+    "texas a&m vs oklahoma": "2026-11-21T20:18:25.453652+00:00",
+    "indiana vs washington": "2026-11-21T20:18:35.691536+00:00",
+    "nc state vs florida state": "2026-11-21T20:18:40.384356+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-21",
-  "pushed_today": 55,
-  "last_run": "2026-11-21T20:08:13.399076+00:00",
+  "pushed_today": 58,
+  "last_run": "2026-11-21T20:18:41.385165+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
