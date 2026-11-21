@@ -204,12 +204,15 @@
     "badger basketball": "2026-11-21T01:20:53.891257+00:00",
     "puebla - san luis": "2026-11-21T02:06:14.270148+00:00",
     "kentucky vs indiana": "2026-11-21T02:06:25.271825+00:00",
-    "game gta vi": "2026-11-21T02:06:44.662559+00:00"
+    "game gta vi": "2026-11-21T02:06:44.662559+00:00",
+    "utep vs air force": "2026-11-21T02:16:57.795862+00:00",
+    "dow jones stock markets": "2026-11-21T02:17:16.107173+00:00",
+    "ncaa basketball rankings": "2026-11-21T02:17:26.432339+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-20",
-  "pushed_today": 85,
-  "last_run": "2026-11-21T02:06:45.663477+00:00",
+  "pushed_today": 88,
+  "last_run": "2026-11-21T02:17:27.433522+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
