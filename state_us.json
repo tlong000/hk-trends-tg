@@ -192,12 +192,14 @@
     "actor": "2026-11-21T03:40:12.002759+00:00",
     "pistons": "2026-11-21T03:40:19.368630+00:00",
     "florida flooding weather": "2026-11-21T04:20:51.285932+00:00",
-    "madden cast": "2026-11-21T04:41:13.684989+00:00"
+    "madden cast": "2026-11-21T04:41:13.684989+00:00",
+    "pancreatic cancer drug daraxonrasib": "2026-11-21T04:51:26.869087+00:00",
+    "coastal flood warning": "2026-11-21T04:51:36.199136+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-20",
-  "pushed_today": 102,
-  "last_run": "2026-11-21T04:41:14.685980+00:00",
+  "pushed_today": 104,
+  "last_run": "2026-11-21T04:51:37.200367+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
