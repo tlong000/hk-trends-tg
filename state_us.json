@@ -246,12 +246,15 @@
     "la liga": "2026-11-21T22:05:14.622875+00:00",
     "gta vi game review": "2026-11-21T22:05:27.529346+00:00",
     "blackhawks vs flames": "2026-11-21T22:25:41.750398+00:00",
-    "real madrid vs rc celta de vigo standings": "2026-11-21T22:35:56.947461+00:00"
+    "real madrid vs rc celta de vigo standings": "2026-11-21T22:35:56.947461+00:00",
+    "columbus vs inter miami": "2026-11-21T22:46:12.417568+00:00",
+    "boca juniors": "2026-11-21T22:46:22.118053+00:00",
+    "flamengo": "2026-11-21T22:46:32.789339+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-21",
-  "pushed_today": 89,
-  "last_run": "2026-11-21T22:35:57.948372+00:00",
+  "pushed_today": 92,
+  "last_run": "2026-11-21T22:46:33.790253+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
