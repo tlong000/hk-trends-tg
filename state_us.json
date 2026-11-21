@@ -1,15 +1,6 @@
 {
   "pushed": {
     "stars vs golden knights": "2026-11-20T04:34:52.118439+00:00",
-    "sammy kershaw": "2026-11-19T01:24:28.864314+00:00",
-    "miami heat vice city jersey": "2026-11-19T01:24:39.662263+00:00",
-    "flamengo vs athletico-pr": "2026-11-19T01:24:48.086735+00:00",
-    "vince gill": "2026-11-19T01:35:02.826570+00:00",
-    "wizards vs raptors": "2026-11-19T01:35:22.919520+00:00",
-    "ella langley": "2026-11-19T01:35:38.591366+00:00",
-    "kacey musgraves": "2026-11-19T01:45:52.679599+00:00",
-    "canadiens vs devils": "2026-11-19T01:45:59.909177+00:00",
-    "cruzeiro vs palmeiras": "2026-11-19T01:46:05.681523+00:00",
     "stephen wilson jr": "2026-11-19T02:28:58.180778+00:00",
     "celtics vs nuggets": "2026-11-19T02:29:07.615988+00:00",
     "heat vs bucks": "2026-11-19T02:29:24.504049+00:00",
@@ -210,12 +201,15 @@
     "pelicans vs thunder": "2026-11-21T00:59:59.107855+00:00",
     "magic vs nets": "2026-11-21T01:00:06.741318+00:00",
     "wizards vs bulls": "2026-11-21T01:20:36.690045+00:00",
-    "badger basketball": "2026-11-21T01:20:53.891257+00:00"
+    "badger basketball": "2026-11-21T01:20:53.891257+00:00",
+    "puebla - san luis": "2026-11-21T02:06:14.270148+00:00",
+    "kentucky vs indiana": "2026-11-21T02:06:25.271825+00:00",
+    "game gta vi": "2026-11-21T02:06:44.662559+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-20",
-  "pushed_today": 82,
-  "last_run": "2026-11-21T01:20:54.892068+00:00",
+  "pushed_today": 85,
+  "last_run": "2026-11-21T02:06:45.663477+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
