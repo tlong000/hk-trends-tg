@@ -1,7 +1,6 @@
 {
   "pushed": {
     "stars vs golden knights": "2026-11-20T04:34:52.118439+00:00",
-    "dow jones industrial average": "2026-11-19T00:10:55.688371+00:00",
     "guarding stars cast": "2026-11-19T00:31:52.182578+00:00",
     "warriors vs mavericks": "2026-11-19T00:42:10.004897+00:00",
     "bulls vs nets": "2026-11-19T00:42:18.671463+00:00",
@@ -208,12 +207,13 @@
     "bayern": "2026-11-20T23:16:29.020460+00:00",
     "florida weather flooding": "2026-11-20T23:16:32.811207+00:00",
     "hornets vs hawks": "2026-11-20T23:57:03.024989+00:00",
-    "clemson vs duke": "2026-11-20T23:57:11.926586+00:00"
+    "clemson vs duke": "2026-11-20T23:57:11.926586+00:00",
+    "nasdaq correction vs bear market": "2026-11-21T00:17:58.867675+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-20",
-  "pushed_today": 70,
-  "last_run": "2026-11-21T00:07:44.440483+00:00",
+  "pushed_today": 71,
+  "last_run": "2026-11-21T00:17:59.868631+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
