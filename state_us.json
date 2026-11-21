@@ -1,9 +1,6 @@
 {
   "pushed": {
     "stars vs golden knights": "2026-11-20T04:34:52.118439+00:00",
-    "anheuser-busch": "2026-11-19T00:00:20.734337+00:00",
-    "houston basketball": "2026-11-19T00:00:27.033970+00:00",
-    "the oak ridge boys": "2026-11-19T00:00:35.564738+00:00",
     "dow jones industrial average": "2026-11-19T00:10:55.688371+00:00",
     "guarding stars cast": "2026-11-19T00:31:52.182578+00:00",
     "warriors vs mavericks": "2026-11-19T00:42:10.004897+00:00",
@@ -216,7 +213,7 @@
   "paused": false,
   "pushed_date": "2026-11-20",
   "pushed_today": 70,
-  "last_run": "2026-11-20T23:57:12.928778+00:00",
+  "last_run": "2026-11-21T00:07:44.440483+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
