@@ -1,7 +1,7 @@
 {
   "pushed": {
     "stars vs golden knights": "2026-11-20T04:34:52.118439+00:00",
-    "ben shelton": "2026-11-19T16:02:08.087044+00:00",
+    "ben shelton": "2026-11-21T16:09:51.158489+00:00",
     "nascar": "2026-11-19T20:26:45.014029+00:00",
     "madison beer": "2026-11-19T20:26:53.774507+00:00",
     "zverev": "2026-11-19T20:27:04.614693+00:00",
@@ -200,12 +200,14 @@
     "weather florida flooding": "2026-11-21T15:38:13.268029+00:00",
     "dwayne johnson": "2026-11-21T15:48:33.638620+00:00",
     "miami weather": "2026-11-21T15:58:54.359583+00:00",
-    "best tech black friday deals": "2026-11-21T15:59:03.493279+00:00"
+    "best tech black friday deals": "2026-11-21T15:59:03.493279+00:00",
+    "nice vs psg": "2026-11-21T16:09:21.212372+00:00",
+    "aston villa vs sunderland": "2026-11-21T16:09:30.555865+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-21",
-  "pushed_today": 29,
-  "last_run": "2026-11-21T15:59:04.501781+00:00",
+  "pushed_today": 32,
+  "last_run": "2026-11-21T16:09:52.159305+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
