@@ -207,12 +207,15 @@
     "nasdaq composite index drop 2026": "2026-11-21T16:20:23.284503+00:00",
     "bucks vs 76ers": "2026-11-21T19:05:01.761784+00:00",
     "vanderbilt vs florida": "2026-11-21T19:05:05.422365+00:00",
-    "newcastle vs arsenal": "2026-11-21T19:05:10.731801+00:00"
+    "newcastle vs arsenal": "2026-11-21T19:05:10.731801+00:00",
+    "chattanooga vs alabama": "2026-11-21T19:15:21.212752+00:00",
+    "colorado vs cincinnati": "2026-11-21T19:15:28.993279+00:00",
+    "northwestern vs minnesota": "2026-11-21T19:15:34.671184+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-21",
-  "pushed_today": 37,
-  "last_run": "2026-11-21T19:05:11.732664+00:00",
+  "pushed_today": 40,
+  "last_run": "2026-11-21T19:15:35.672161+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
