@@ -1,9 +1,6 @@
 {
   "pushed": {
     "stars vs golden knights": "2026-11-20T04:34:52.118439+00:00",
-    "cma awards 2026 where to watch": "2026-11-19T01:13:23.242518+00:00",
-    "pistons vs pelicans": "2026-11-19T01:13:32.647285+00:00",
-    "marlon humphrey": "2026-11-19T01:13:42.267783+00:00",
     "sammy kershaw": "2026-11-19T01:24:28.864314+00:00",
     "miami heat vice city jersey": "2026-11-19T01:24:39.662263+00:00",
     "flamengo vs athletico-pr": "2026-11-19T01:24:48.086735+00:00",
@@ -211,12 +208,14 @@
     "jonathan rinderknecht": "2026-11-21T00:39:17.087450+00:00",
     "home alone": "2026-11-21T00:49:36.111935+00:00",
     "pelicans vs thunder": "2026-11-21T00:59:59.107855+00:00",
-    "magic vs nets": "2026-11-21T01:00:06.741318+00:00"
+    "magic vs nets": "2026-11-21T01:00:06.741318+00:00",
+    "wizards vs bulls": "2026-11-21T01:20:36.690045+00:00",
+    "badger basketball": "2026-11-21T01:20:53.891257+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-20",
-  "pushed_today": 80,
-  "last_run": "2026-11-21T01:10:16.470331+00:00",
+  "pushed_today": 82,
+  "last_run": "2026-11-21T01:20:54.892068+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
