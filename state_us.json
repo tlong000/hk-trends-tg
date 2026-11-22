@@ -1,8 +1,6 @@
 {
   "pushed": {
     "ben shelton": "2026-11-21T16:09:51.158489+00:00",
-    "earthquake near me": "2026-11-20T11:20:46.672500+00:00",
-    "real salt lake vs seattle sounders standings": "2026-11-20T11:21:03.476583+00:00",
     "troy aikman & joe buck": "2026-11-20T11:41:22.418485+00:00",
     "earthquake los angeles": "2026-11-20T11:51:38.788626+00:00",
     "was there an earthquake just now": "2026-11-20T12:01:50.252645+00:00",
@@ -250,12 +248,13 @@
     "max verstappen": "2026-11-22T06:21:06.463862+00:00",
     "heisman odds": "2026-11-22T06:31:27.562896+00:00",
     "barcelona vs villarreal": "2026-11-22T11:04:23.657186+00:00",
-    "philly marathon 2026": "2026-11-22T11:04:30.043646+00:00"
+    "philly marathon 2026": "2026-11-22T11:04:30.043646+00:00",
+    "projected cfp rankings": "2026-11-22T11:24:52.202065+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-22",
-  "pushed_today": 8,
-  "last_run": "2026-11-22T11:14:41.869318+00:00",
+  "pushed_today": 9,
+  "last_run": "2026-11-22T11:24:53.203800+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
