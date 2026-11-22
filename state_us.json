@@ -260,12 +260,15 @@
     "florida a&m vs b-cu": "2026-11-22T00:09:37.203083+00:00",
     "kentucky vs missouri": "2026-11-22T00:19:53.839583+00:00",
     "tornado watch": "2026-11-22T00:20:06.164262+00:00",
-    "atlético mineiro - boca juniors": "2026-11-22T00:20:13.126755+00:00"
+    "atlético mineiro - boca juniors": "2026-11-22T00:20:13.126755+00:00",
+    "arizona vs kansas state": "2026-11-22T00:30:29.513258+00:00",
+    "penguins vs predators": "2026-11-22T00:30:41.535492+00:00",
+    "bob chesney": "2026-11-22T00:31:19.209381+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-21",
-  "pushed_today": 108,
-  "last_run": "2026-11-22T00:20:14.127711+00:00",
+  "pushed_today": 111,
+  "last_run": "2026-11-22T00:31:20.210254+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
