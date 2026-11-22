@@ -1,9 +1,6 @@
 {
   "pushed": {
     "ben shelton": "2026-11-21T16:09:51.158489+00:00",
-    "spy": "2026-11-20T20:41:02.308969+00:00",
-    "sp 500": "2026-11-20T20:41:18.322273+00:00",
-    "stocks today": "2026-11-20T20:41:28.160715+00:00",
     "hunger games: sunrise on the reaping rotten tomatoes": "2026-11-20T20:51:36.000154+00:00",
     "touchland bearista hand sanitizer": "2026-11-20T20:51:41.212504+00:00",
     "athletic - rcd espanyol": "2026-11-20T21:01:50.924015+00:00",
@@ -265,12 +262,15 @@
     "barcelona vs athletic club": "2026-11-22T20:21:04.165306+00:00",
     "pistons vs hawks": "2026-11-22T20:31:19.922595+00:00",
     "dk metcalf": "2026-11-22T20:31:39.036201+00:00",
-    "jets vs chargers": "2026-11-22T20:31:46.275794+00:00"
+    "jets vs chargers": "2026-11-22T20:31:46.275794+00:00",
+    "metcalf": "2026-11-22T20:41:57.095998+00:00",
+    "us lbm coaches poll top ten": "2026-11-22T20:42:02.928267+00:00",
+    "dj moore": "2026-11-22T20:42:08.200054+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-22",
-  "pushed_today": 50,
-  "last_run": "2026-11-22T20:31:47.276524+00:00",
+  "pushed_today": 53,
+  "last_run": "2026-11-22T20:42:09.200812+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
