@@ -255,12 +255,14 @@
     "college football georgia standings": "2026-11-22T04:38:17.823837+00:00",
     "nvidia 2027 stock price forecast": "2026-11-22T04:48:46.435026+00:00",
     "apple tv": "2026-11-22T04:58:58.106498+00:00",
-    "sec championship 2026": "2026-11-22T04:59:03.949705+00:00"
+    "sec championship 2026": "2026-11-22T04:59:03.949705+00:00",
+    "tcu football": "2026-11-22T05:19:20.036400+00:00",
+    "acc championship game": "2026-11-22T05:19:32.325166+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-22",
-  "pushed_today": 0,
-  "last_run": "2026-11-22T05:09:11.047389+00:00",
+  "pushed_today": 2,
+  "last_run": "2026-11-22T05:19:33.326075+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
