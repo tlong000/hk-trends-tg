@@ -257,12 +257,14 @@
     "jackson state vs alcorn state": "2026-11-21T23:28:33.335799+00:00",
     "santos - león": "2026-11-21T23:38:45.375324+00:00",
     "trail blazers vs knicks": "2026-11-21T23:59:02.491845+00:00",
-    "sabres vs panthers": "2026-11-21T23:59:07.208833+00:00"
+    "sabres vs panthers": "2026-11-21T23:59:07.208833+00:00",
+    "smu vs notre dame": "2026-11-22T00:09:24.966106+00:00",
+    "florida a&m vs b-cu": "2026-11-22T00:09:37.203083+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-21",
-  "pushed_today": 103,
-  "last_run": "2026-11-21T23:59:08.209731+00:00",
+  "pushed_today": 105,
+  "last_run": "2026-11-22T00:09:38.203941+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
