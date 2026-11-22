@@ -1,7 +1,6 @@
 {
   "pushed": {
     "ben shelton": "2026-11-21T16:09:51.158489+00:00",
-    "troy aikman & joe buck": "2026-11-20T11:41:22.418485+00:00",
     "earthquake los angeles": "2026-11-20T11:51:38.788626+00:00",
     "was there an earthquake just now": "2026-11-20T12:01:50.252645+00:00",
     "flood watch": "2026-11-20T12:01:55.449936+00:00",
@@ -254,7 +253,7 @@
   "paused": false,
   "pushed_date": "2026-11-22",
   "pushed_today": 9,
-  "last_run": "2026-11-22T11:34:57.949965+00:00",
+  "last_run": "2026-11-22T11:45:02.746676+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
