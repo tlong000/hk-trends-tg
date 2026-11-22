@@ -1,7 +1,6 @@
 {
   "pushed": {
     "ben shelton": "2026-11-21T16:09:51.158489+00:00",
-    "earthquake los angeles": "2026-11-20T11:51:38.788626+00:00",
     "was there an earthquake just now": "2026-11-20T12:01:50.252645+00:00",
     "flood watch": "2026-11-20T12:01:55.449936+00:00",
     "earthquake now": "2026-11-20T12:22:09.131223+00:00",
@@ -253,7 +252,7 @@
   "paused": false,
   "pushed_date": "2026-11-22",
   "pushed_today": 9,
-  "last_run": "2026-11-22T11:45:02.746676+00:00",
+  "last_run": "2026-11-22T11:55:07.852842+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
