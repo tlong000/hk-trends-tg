@@ -258,12 +258,15 @@
     "delta flights": "2026-11-22T16:32:56.617069+00:00",
     "titans vs cowboys": "2026-11-22T19:27:55.712046+00:00",
     "cardinals vs chiefs": "2026-11-22T19:28:15.714854+00:00",
-    "saints vs bears": "2026-11-22T19:28:22.764239+00:00"
+    "saints vs bears": "2026-11-22T19:28:22.764239+00:00",
+    "dolphins vs bills": "2026-11-22T19:38:37.502542+00:00",
+    "buccaneers vs lions": "2026-11-22T19:38:43.086122+00:00",
+    "united states attorney": "2026-11-22T19:38:57.698353+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-22",
-  "pushed_today": 32,
-  "last_run": "2026-11-22T19:28:23.764924+00:00",
+  "pushed_today": 35,
+  "last_run": "2026-11-22T19:38:58.699019+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
