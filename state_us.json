@@ -1,7 +1,6 @@
 {
   "pushed": {
     "ben shelton": "2026-11-21T16:09:51.158489+00:00",
-    "athletic - rcd espanyol": "2026-11-20T21:01:50.924015+00:00",
     "mamdani": "2026-11-20T21:12:04.772168+00:00",
     "stock market": "2026-11-20T21:12:12.236669+00:00",
     "bayern munich": "2026-11-20T21:22:35.479400+00:00",
@@ -266,12 +265,15 @@
     "dj moore": "2026-11-22T20:42:08.200054+00:00",
     "jaguars vs giants": "2026-11-22T20:52:19.420305+00:00",
     "emmett johnson": "2026-11-22T20:52:26.255444+00:00",
-    "nebraska basketball": "2026-11-22T20:52:30.433063+00:00"
+    "nebraska basketball": "2026-11-22T20:52:30.433063+00:00",
+    "atalanta vs inter": "2026-11-22T21:02:40.241863+00:00",
+    "the diplomat netflix viewership ratings": "2026-11-22T21:02:59.472614+00:00",
+    "cardinals - chiefs": "2026-11-22T21:03:03.617069+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-22",
-  "pushed_today": 56,
-  "last_run": "2026-11-22T20:52:31.433809+00:00",
+  "pushed_today": 59,
+  "last_run": "2026-11-22T21:03:04.617803+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
