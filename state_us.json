@@ -310,12 +310,14 @@
     "flood warning": "2026-11-23T04:14:56.481570+00:00",
     "christian mccaffrey": "2026-11-23T04:25:09.234794+00:00",
     "vikings schedule": "2026-11-23T04:25:25.611819+00:00",
-    "chicago fire fc": "2026-11-23T04:25:32.019387+00:00"
+    "chicago fire fc": "2026-11-23T04:25:32.019387+00:00",
+    "warriors vs celtics": "2026-11-23T04:35:46.903064+00:00",
+    "nfc standings": "2026-11-23T04:35:53.937152+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-22",
-  "pushed_today": 153,
-  "last_run": "2026-11-23T04:25:33.020273+00:00",
+  "pushed_today": 155,
+  "last_run": "2026-11-23T04:35:54.937896+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
