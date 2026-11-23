@@ -1,8 +1,6 @@
 {
   "pushed": {
     "ben shelton": "2026-11-21T16:09:51.158489+00:00",
-    "sylvester stallone": "2026-11-21T07:04:37.962227+00:00",
-    "mark davis": "2026-11-21T07:04:52.745111+00:00",
     "man city vs fulham": "2026-11-21T12:13:35.420537+00:00",
     "aus vs eng": "2026-11-21T12:23:46.793143+00:00",
     "england vs australia": "2026-11-21T12:44:14.342701+00:00",
@@ -314,12 +312,13 @@
     "king tides flooding": "2026-11-23T05:48:09.829725+00:00",
     "los angeles earthquake": "2026-11-23T05:58:23.508854+00:00",
     "charlotte fc vs chicago fire fc standings": "2026-11-23T06:18:39.322038+00:00",
-    "earthquake manhattan beach": "2026-11-23T06:28:46.852584+00:00"
+    "earthquake manhattan beach": "2026-11-23T06:28:46.852584+00:00",
+    "spacex": "2026-11-23T12:13:16.997483+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-23",
-  "pushed_today": 7,
-  "last_run": "2026-11-23T06:59:00.085278+00:00",
+  "pushed_today": 8,
+  "last_run": "2026-11-23T12:13:17.998211+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
