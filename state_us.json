@@ -1,9 +1,6 @@
 {
   "pushed": {
     "ben shelton": "2026-11-21T16:09:51.158489+00:00",
-    "fbi ten most wanted fugitives": "2026-11-21T13:14:45.388928+00:00",
-    "kalief browder": "2026-11-21T13:14:56.156733+00:00",
-    "nitto atp finals": "2026-11-21T13:15:08.966451+00:00",
     "nikhil chaudhary": "2026-11-21T13:45:27.591039+00:00",
     "daniel jones indianapolis colts": "2026-11-21T13:45:30.752770+00:00",
     "harry kane injury": "2026-11-21T14:15:47.604603+00:00",
@@ -310,12 +307,13 @@
     "charlotte fc vs chicago fire fc standings": "2026-11-23T06:18:39.322038+00:00",
     "earthquake manhattan beach": "2026-11-23T06:28:46.852584+00:00",
     "spacex": "2026-11-23T12:13:16.997483+00:00",
-    "black": "2026-11-23T12:43:36.293112+00:00"
+    "black": "2026-11-23T12:43:36.293112+00:00",
+    "dow jones futures": "2026-11-23T13:24:17.468927+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-23",
-  "pushed_today": 9,
-  "last_run": "2026-11-23T13:13:55.524503+00:00",
+  "pushed_today": 10,
+  "last_run": "2026-11-23T13:24:18.469754+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
