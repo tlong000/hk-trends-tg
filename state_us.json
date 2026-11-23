@@ -311,12 +311,13 @@
     "los angeles earthquake": "2026-11-23T05:58:23.508854+00:00",
     "charlotte fc vs chicago fire fc standings": "2026-11-23T06:18:39.322038+00:00",
     "earthquake manhattan beach": "2026-11-23T06:28:46.852584+00:00",
-    "spacex": "2026-11-23T12:13:16.997483+00:00"
+    "spacex": "2026-11-23T12:13:16.997483+00:00",
+    "black": "2026-11-23T12:43:36.293112+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-23",
-  "pushed_today": 8,
-  "last_run": "2026-11-23T12:33:24.817198+00:00",
+  "pushed_today": 9,
+  "last_run": "2026-11-23T12:43:37.293754+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
