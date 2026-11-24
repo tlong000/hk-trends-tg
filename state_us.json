@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "connections hint today": "2026-11-22T14:58:42.200586+00:00",
-    "hull city": "2026-11-22T14:58:51.736749+00:00",
     "philadelphia marathon 2026": "2026-11-22T15:09:29.019360+00:00",
     "tom jackson espn": "2026-11-22T15:29:57.450495+00:00",
     "hull vs brighton": "2026-11-22T15:30:20.788824+00:00",
@@ -251,7 +249,7 @@
   "paused": false,
   "pushed_date": "2026-11-24",
   "pushed_today": 17,
-  "last_run": "2026-11-24T14:54:40.659953+00:00",
+  "last_run": "2026-11-24T15:04:46.756256+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
