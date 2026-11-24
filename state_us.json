@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "celtics vs kings": "2026-11-22T02:53:09.116344+00:00",
-    "san diego st vs boise state": "2026-11-22T02:53:17.752872+00:00",
-    "tallulah willis": "2026-11-22T02:53:25.644580+00:00",
     "tigres - américa": "2026-11-22T03:03:45.826504+00:00",
     "oklahoma st vs arizona state": "2026-11-22T03:04:17.768479+00:00",
     "co state vs fresno state": "2026-11-22T03:04:29.898745+00:00",
@@ -247,12 +244,15 @@
     "is tonight a full moon": "2026-11-24T02:40:44.620832+00:00",
     "michelle randolph": "2026-11-24T02:51:07.928742+00:00",
     "tee higgins": "2026-11-24T02:51:22.942486+00:00",
-    "jazz vs lakers": "2026-11-24T02:51:29.496182+00:00"
+    "jazz vs lakers": "2026-11-24T02:51:29.496182+00:00",
+    "samaje perine": "2026-11-24T03:01:40.294675+00:00",
+    "santos vs grêmio": "2026-11-24T03:01:53.145195+00:00",
+    "blue jackets vs devils": "2026-11-24T03:02:01.491303+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-23",
-  "pushed_today": 66,
-  "last_run": "2026-11-24T02:51:30.496921+00:00",
+  "pushed_today": 69,
+  "last_run": "2026-11-24T03:02:02.492031+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
