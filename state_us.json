@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "islanders vs red wings": "2026-11-22T02:32:37.201302+00:00",
     "florida tornado warnings": "2026-11-22T02:42:53.979697+00:00",
     "celtics vs kings": "2026-11-22T02:53:09.116344+00:00",
     "san diego st vs boise state": "2026-11-22T02:53:17.752872+00:00",
@@ -243,12 +242,15 @@
     "clippers vs rockets": "2026-11-24T02:19:30.345201+00:00",
     "grizzlies vs hornets": "2026-11-24T02:29:43.645095+00:00",
     "bucks vs raptors": "2026-11-24T02:29:55.710000+00:00",
-    "spurs vs kings": "2026-11-24T02:30:09.800780+00:00"
+    "spurs vs kings": "2026-11-24T02:30:09.800780+00:00",
+    "suns vs pelicans": "2026-11-24T02:40:22.128691+00:00",
+    "dwts finale": "2026-11-24T02:40:27.374229+00:00",
+    "is tonight a full moon": "2026-11-24T02:40:44.620832+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-23",
-  "pushed_today": 60,
-  "last_run": "2026-11-24T02:30:10.801520+00:00",
+  "pushed_today": 63,
+  "last_run": "2026-11-24T02:40:45.621547+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
