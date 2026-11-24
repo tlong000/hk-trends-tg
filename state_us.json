@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "heisman odds": "2026-11-22T06:31:27.562896+00:00",
     "barcelona vs villarreal": "2026-11-22T11:04:23.657186+00:00",
     "philly marathon 2026": "2026-11-22T11:04:30.043646+00:00",
     "projected cfp rankings": "2026-11-22T11:24:52.202065+00:00",
@@ -246,12 +245,13 @@
     "nfl standings": "2026-11-24T05:28:56.762721+00:00",
     "uc san diego basketball": "2026-11-24T05:49:41.217933+00:00",
     "commanders": "2026-11-24T06:00:04.352849+00:00",
-    "ducks vs kraken": "2026-11-24T06:20:43.321593+00:00"
+    "ducks vs kraken": "2026-11-24T06:20:43.321593+00:00",
+    "singapore": "2026-11-24T06:41:04.582082+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 6,
-  "last_run": "2026-11-24T06:30:49.316021+00:00",
+  "pushed_today": 7,
+  "last_run": "2026-11-24T06:41:05.582720+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
