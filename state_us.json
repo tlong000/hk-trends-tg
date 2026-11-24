@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "tesla fsd v15": "2026-11-22T02:22:18.255750+00:00",
-    "big ten standings": "2026-11-22T02:22:27.522972+00:00",
     "islanders vs red wings": "2026-11-22T02:32:37.201302+00:00",
     "florida tornado warnings": "2026-11-22T02:42:53.979697+00:00",
     "celtics vs kings": "2026-11-22T02:53:09.116344+00:00",
@@ -242,12 +240,15 @@
     "thunder vs pacers": "2026-11-24T02:08:53.821979+00:00",
     "cavaliers vs bulls": "2026-11-24T02:19:11.672457+00:00",
     "nets vs timberwolves": "2026-11-24T02:19:23.423026+00:00",
-    "clippers vs rockets": "2026-11-24T02:19:30.345201+00:00"
+    "clippers vs rockets": "2026-11-24T02:19:30.345201+00:00",
+    "grizzlies vs hornets": "2026-11-24T02:29:43.645095+00:00",
+    "bucks vs raptors": "2026-11-24T02:29:55.710000+00:00",
+    "spurs vs kings": "2026-11-24T02:30:09.800780+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-23",
-  "pushed_today": 57,
-  "last_run": "2026-11-24T02:19:31.345923+00:00",
+  "pushed_today": 60,
+  "last_run": "2026-11-24T02:30:10.801520+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
