@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "spurs vs pelicans": "2026-11-22T04:38:03.570141+00:00",
-    "college football georgia standings": "2026-11-22T04:38:17.823837+00:00",
     "nvidia 2027 stock price forecast": "2026-11-22T04:48:46.435026+00:00",
     "apple tv": "2026-11-22T04:58:58.106498+00:00",
     "sec championship 2026": "2026-11-22T04:59:03.949705+00:00",
@@ -248,12 +246,14 @@
     "cyberpunk 2": "2026-11-24T04:15:57.376243+00:00",
     "kings vs canadiens": "2026-11-24T04:26:32.650308+00:00",
     "maple leafs vs islanders": "2026-11-24T04:26:43.765484+00:00",
-    "antonio williams": "2026-11-24T04:37:26.946391+00:00"
+    "antonio williams": "2026-11-24T04:37:26.946391+00:00",
+    "trevor rogers": "2026-11-24T04:47:46.374051+00:00",
+    "washington dc weather": "2026-11-24T04:47:56.848382+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-23",
-  "pushed_today": 84,
-  "last_run": "2026-11-24T04:37:27.946968+00:00",
+  "pushed_today": 86,
+  "last_run": "2026-11-24T04:47:57.849034+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
