@@ -245,12 +245,14 @@
     "maple leafs vs islanders": "2026-11-24T04:26:43.765484+00:00",
     "antonio williams": "2026-11-24T04:37:26.946391+00:00",
     "trevor rogers": "2026-11-24T04:47:46.374051+00:00",
-    "washington dc weather": "2026-11-24T04:47:56.848382+00:00"
+    "washington dc weather": "2026-11-24T04:47:56.848382+00:00",
+    "boye mafe": "2026-11-24T05:18:29.892154+00:00",
+    "commanders game today": "2026-11-24T05:18:47.286947+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 0,
-  "last_run": "2026-11-24T05:08:08.096207+00:00",
+  "pushed_today": 2,
+  "last_run": "2026-11-24T05:18:48.287578+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
