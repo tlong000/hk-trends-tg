@@ -202,12 +202,15 @@
     "miami oh vs wmu": "2026-11-25T01:05:53.173144+00:00",
     "cfp rankings today": "2026-11-25T01:16:09.382539+00:00",
     "iowa state basketball": "2026-11-25T01:16:18.202919+00:00",
-    "cade cunningham": "2026-11-25T01:16:29.699518+00:00"
+    "cade cunningham": "2026-11-25T01:16:29.699518+00:00",
+    "cfp rankings": "2026-11-25T01:26:44.878763+00:00",
+    "dancing with the stars voting": "2026-11-25T01:26:49.404748+00:00",
+    "jacksonville vs indiana": "2026-11-25T01:26:59.645200+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 62,
-  "last_run": "2026-11-25T01:16:30.700314+00:00",
+  "pushed_today": 65,
+  "last_run": "2026-11-25T01:27:00.645866+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
