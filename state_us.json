@@ -203,12 +203,14 @@
     "nj state of emergency": "2026-11-25T22:26:32.250085+00:00",
     "ole miss basketball": "2026-11-25T22:26:51.909872+00:00",
     "arizona state vs lsu": "2026-11-25T22:47:06.567672+00:00",
-    "dow jones industrial average": "2026-11-25T22:57:17.085212+00:00"
+    "dow jones industrial average": "2026-11-25T22:57:17.085212+00:00",
+    "zyri": "2026-11-25T23:07:45.166554+00:00",
+    "arizona vs ole miss": "2026-11-25T23:07:54.415414+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-25",
-  "pushed_today": 57,
-  "last_run": "2026-11-25T22:57:18.085906+00:00",
+  "pushed_today": 59,
+  "last_run": "2026-11-25T23:07:55.415931+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
