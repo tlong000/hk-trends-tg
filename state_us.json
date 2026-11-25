@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "michael hage": "2026-11-23T02:15:51.769894+00:00",
-    "estadio banorte": "2026-11-23T02:16:16.033739+00:00",
-    "will smith family outing malibu": "2026-11-23T02:16:28.508866+00:00",
     "nick bosa": "2026-11-23T02:26:50.539208+00:00",
     "barbara eden": "2026-11-23T02:26:57.416557+00:00",
     "giants standings nfl": "2026-11-23T02:27:13.476517+00:00",
@@ -205,12 +202,13 @@
     "vanderbilt vs ohio state": "2026-11-25T01:58:56.910232+00:00",
     "amber glenn": "2026-11-25T02:09:09.455454+00:00",
     "ohare ground stop": "2026-11-25T02:09:20.177699+00:00",
-    "ben shelton and trinity rodman": "2026-11-25T02:09:37.205337+00:00"
+    "ben shelton and trinity rodman": "2026-11-25T02:09:37.205337+00:00",
+    "umbc vs iowa": "2026-11-25T02:20:01.601348+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 77,
-  "last_run": "2026-11-25T02:09:38.206081+00:00",
+  "pushed_today": 78,
+  "last_run": "2026-11-25T02:20:02.602068+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
