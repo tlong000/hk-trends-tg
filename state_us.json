@@ -192,12 +192,15 @@
     "chris evert": "2026-11-25T21:03:59.272895+00:00",
     "chipotle bogo": "2026-11-25T21:04:04.971277+00:00",
     "artificial intelligence": "2026-11-25T21:04:14.705867+00:00",
-    "estado de emergencia": "2026-11-25T21:14:38.366793+00:00"
+    "estado de emergencia": "2026-11-25T21:14:38.366793+00:00",
+    "heat vs 76ers": "2026-11-25T21:24:58.249090+00:00",
+    "pacifica pier": "2026-11-25T21:25:05.582411+00:00",
+    "sporting lisboa - manchester united": "2026-11-25T21:25:11.057365+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-25",
-  "pushed_today": 46,
-  "last_run": "2026-11-25T21:14:39.367361+00:00",
+  "pushed_today": 49,
+  "last_run": "2026-11-25T21:25:12.057831+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
