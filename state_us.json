@@ -195,12 +195,14 @@
     "estado de emergencia": "2026-11-25T21:14:38.366793+00:00",
     "heat vs 76ers": "2026-11-25T21:24:58.249090+00:00",
     "pacifica pier": "2026-11-25T21:25:05.582411+00:00",
-    "sporting lisboa - manchester united": "2026-11-25T21:25:11.057365+00:00"
+    "sporting lisboa - manchester united": "2026-11-25T21:25:11.057365+00:00",
+    "losc - bayern": "2026-11-25T21:35:26.859824+00:00",
+    "inter vs vfb stuttgart": "2026-11-25T21:35:32.724920+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-25",
-  "pushed_today": 49,
-  "last_run": "2026-11-25T21:25:12.057831+00:00",
+  "pushed_today": 51,
+  "last_run": "2026-11-25T21:35:33.725425+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
