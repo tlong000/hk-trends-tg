@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "nick bosa": "2026-11-23T02:26:50.539208+00:00",
-    "barbara eden": "2026-11-23T02:26:57.416557+00:00",
-    "giants standings nfl": "2026-11-23T02:27:13.476517+00:00",
     "avengers doomsday runtime joe russo": "2026-11-23T02:37:33.303764+00:00",
     "tj hockenson": "2026-11-23T02:37:40.643043+00:00",
     "abdul carter": "2026-11-23T02:37:57.993386+00:00",
@@ -203,12 +200,15 @@
     "amber glenn": "2026-11-25T02:09:09.455454+00:00",
     "ohare ground stop": "2026-11-25T02:09:20.177699+00:00",
     "ben shelton and trinity rodman": "2026-11-25T02:09:37.205337+00:00",
-    "umbc vs iowa": "2026-11-25T02:20:01.601348+00:00"
+    "umbc vs iowa": "2026-11-25T02:20:01.601348+00:00",
+    "parent": "2026-11-25T02:30:26.173626+00:00",
+    "college football rankings": "2026-11-25T02:30:36.820250+00:00",
+    "texas tech basketball": "2026-11-25T02:30:47.900109+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 78,
-  "last_run": "2026-11-25T02:20:02.602068+00:00",
+  "pushed_today": 81,
+  "last_run": "2026-11-25T02:30:48.900929+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
