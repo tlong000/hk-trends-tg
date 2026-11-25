@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "querétaro - necaxa": "2026-11-23T01:43:53.800418+00:00",
-    "héctor herrera": "2026-11-23T01:44:04.501524+00:00",
-    "chivas de guadalajara vs cruz azul standings": "2026-11-23T01:44:12.522001+00:00",
     "penguins vs stars": "2026-11-23T01:54:49.985233+00:00",
     "disney discontinues hulu standalone app": "2026-11-23T01:54:52.892853+00:00",
     "charlotte vs chicago": "2026-11-23T01:54:59.505359+00:00",
@@ -205,12 +202,15 @@
     "jacksonville vs indiana": "2026-11-25T01:26:59.645200+00:00",
     "uconn vs south carolina": "2026-11-25T01:37:13.753417+00:00",
     "connor wood": "2026-11-25T01:37:26.170904+00:00",
-    "telemundo": "2026-11-25T01:37:38.961028+00:00"
+    "telemundo": "2026-11-25T01:37:38.961028+00:00",
+    "dancing with the stars": "2026-11-25T01:48:01.242620+00:00",
+    "south carolina vs uconn": "2026-11-25T01:48:05.680453+00:00",
+    "golden knights vs oilers": "2026-11-25T01:48:18.347120+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 68,
-  "last_run": "2026-11-25T01:37:39.961929+00:00",
+  "pushed_today": 71,
+  "last_run": "2026-11-25T01:48:19.347992+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
