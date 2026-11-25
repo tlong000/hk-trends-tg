@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "magic vs wizards": "2026-11-23T00:32:10.756736+00:00",
-    "michael mayer": "2026-11-23T00:32:20.481591+00:00",
     "pacers vs knicks": "2026-11-23T00:42:33.178420+00:00",
     "bhayshul tuten": "2026-11-23T00:53:00.087191+00:00",
     "celtics vs warriors": "2026-11-23T01:33:12.787321+00:00",
@@ -191,12 +189,15 @@
     "maryland vs tennessee": "2026-11-25T00:12:54.242636+00:00",
     "michigan vs creighton": "2026-11-25T00:23:03.320147+00:00",
     "miss universe 2026 where to watch": "2026-11-25T00:23:08.162708+00:00",
-    "wendy's company": "2026-11-25T00:23:24.690393+00:00"
+    "wendy's company": "2026-11-25T00:23:24.690393+00:00",
+    "celtics vs wizards": "2026-11-25T00:33:34.999716+00:00",
+    "wind advisory": "2026-11-25T00:33:40.927183+00:00",
+    "jk dobbins": "2026-11-25T00:33:56.677055+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 47,
-  "last_run": "2026-11-25T00:23:25.691173+00:00",
+  "pushed_today": 50,
+  "last_run": "2026-11-25T00:33:57.677841+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
