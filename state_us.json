@@ -169,12 +169,15 @@
     "nvidia share price sell off": "2026-11-25T13:41:57.158930+00:00",
     "sabah vs barcelona": "2026-11-25T19:08:08.882225+00:00",
     "slavia praha vs villarreal": "2026-11-25T19:08:14.982054+00:00",
-    "barcelona": "2026-11-25T19:08:19.594764+00:00"
+    "barcelona": "2026-11-25T19:08:19.594764+00:00",
+    "brandon aiyuk": "2026-11-25T19:18:29.600731+00:00",
+    "virginia basketball": "2026-11-25T19:18:43.381355+00:00",
+    "lebron james": "2026-11-25T19:18:53.843734+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-25",
-  "pushed_today": 23,
-  "last_run": "2026-11-25T19:08:20.595635+00:00",
+  "pushed_today": 26,
+  "last_run": "2026-11-25T19:18:54.844535+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
