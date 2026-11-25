@@ -206,12 +206,13 @@
     "winter storm warning": "2026-11-25T12:50:05.052951+00:00",
     "mega millions": "2026-11-25T13:00:27.724364+00:00",
     "nfl schedule": "2026-11-25T13:31:17.581312+00:00",
-    "stock futures today": "2026-11-25T13:31:40.915489+00:00"
+    "stock futures today": "2026-11-25T13:31:40.915489+00:00",
+    "nvidia share price sell off": "2026-11-25T13:41:57.158930+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-25",
-  "pushed_today": 19,
-  "last_run": "2026-11-25T13:31:41.916306+00:00",
+  "pushed_today": 20,
+  "last_run": "2026-11-25T13:41:58.159715+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
