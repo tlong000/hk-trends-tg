@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "vikings game": "2026-11-23T04:56:54.729050+00:00",
-    "aaron jones": "2026-11-23T04:57:07.088235+00:00",
     "deebo samuel sr.": "2026-11-23T05:17:22.033122+00:00",
     "nfl standings 49ers": "2026-11-23T05:27:44.696379+00:00",
     "earthquake now": "2026-11-23T05:27:50.944735+00:00",
@@ -197,12 +195,14 @@
     "aaron rodgers": "2026-11-25T04:36:58.456511+00:00",
     "quien gano el miss universo 2026": "2026-11-25T04:47:09.923124+00:00",
     "houston dynamo vs san jose": "2026-11-25T04:47:19.122491+00:00",
-    "alabama basketball": "2026-11-25T04:47:34.376681+00:00"
+    "alabama basketball": "2026-11-25T04:47:34.376681+00:00",
+    "who won dancing with the stars": "2026-11-25T04:58:00.048940+00:00",
+    "big ten volleyball tournament": "2026-11-25T04:58:13.554934+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 110,
-  "last_run": "2026-11-25T04:47:35.377161+00:00",
+  "pushed_today": 112,
+  "last_run": "2026-11-25T04:58:14.555699+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
