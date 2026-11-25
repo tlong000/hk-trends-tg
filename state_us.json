@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "christian mccaffrey": "2026-11-23T04:25:09.234794+00:00",
-    "vikings schedule": "2026-11-23T04:25:25.611819+00:00",
-    "chicago fire fc": "2026-11-23T04:25:32.019387+00:00",
     "warriors vs celtics": "2026-11-23T04:35:46.903064+00:00",
     "nfc standings": "2026-11-23T04:35:53.937152+00:00",
     "kyle shanahan": "2026-11-23T04:46:17.939106+00:00",
@@ -198,12 +195,13 @@
     "abc": "2026-11-25T04:05:16.676289+00:00",
     "kent state vs eastern mi": "2026-11-25T04:15:45.722943+00:00",
     "fort hood": "2026-11-25T04:15:55.421847+00:00",
-    "players era tournament": "2026-11-25T04:16:08.773536+00:00"
+    "players era tournament": "2026-11-25T04:16:08.773536+00:00",
+    "martha firestone ford": "2026-11-25T04:26:29.137502+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 103,
-  "last_run": "2026-11-25T04:16:09.774235+00:00",
+  "pushed_today": 104,
+  "last_run": "2026-11-25T04:26:30.138192+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
