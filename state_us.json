@@ -1,7 +1,5 @@
 {
   "pushed": {
-    "warriors vs celtics": "2026-11-23T04:35:46.903064+00:00",
-    "nfc standings": "2026-11-23T04:35:53.937152+00:00",
     "kyle shanahan": "2026-11-23T04:46:17.939106+00:00",
     "mn vikings": "2026-11-23T04:46:27.880742+00:00",
     "lost": "2026-11-23T04:46:34.269269+00:00",
@@ -196,12 +194,15 @@
     "kent state vs eastern mi": "2026-11-25T04:15:45.722943+00:00",
     "fort hood": "2026-11-25T04:15:55.421847+00:00",
     "players era tournament": "2026-11-25T04:16:08.773536+00:00",
-    "martha firestone ford": "2026-11-25T04:26:29.137502+00:00"
+    "martha firestone ford": "2026-11-25T04:26:29.137502+00:00",
+    "who won miss universe 2026": "2026-11-25T04:36:41.095984+00:00",
+    "dancing with the stars tour": "2026-11-25T04:36:49.922418+00:00",
+    "aaron rodgers": "2026-11-25T04:36:58.456511+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-24",
-  "pushed_today": 104,
-  "last_run": "2026-11-25T04:26:30.138192+00:00",
+  "pushed_today": 107,
+  "last_run": "2026-11-25T04:36:59.457051+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
