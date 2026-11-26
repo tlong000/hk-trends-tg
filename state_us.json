@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "ryan mccombs": "2026-11-24T17:50:25.069791+00:00",
     "lead detonation": "2026-11-24T18:00:47.733667+00:00",
     "al-nassr vs al sadd": "2026-11-24T18:31:17.050975+00:00",
     "new faa rule line up and wait": "2026-11-24T18:41:33.525832+00:00",
@@ -219,7 +218,7 @@
   "paused": false,
   "pushed_date": "2026-11-26",
   "pushed_today": 32,
-  "last_run": "2026-11-26T17:47:43.074766+00:00",
+  "last_run": "2026-11-26T17:57:46.851145+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
