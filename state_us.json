@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "ducks vs kraken": "2026-11-24T06:20:43.321593+00:00",
     "singapore": "2026-11-24T06:41:04.582082+00:00",
     "russian nuclear weapons": "2026-11-24T07:11:36.821814+00:00",
     "arizona basketball": "2026-11-24T07:21:54.384385+00:00",
@@ -220,12 +219,13 @@
     "brandon mcmanus": "2026-11-26T05:37:50.555600+00:00",
     "nfl standings packers": "2026-11-26T05:58:14.416917+00:00",
     "fedex plane crash miami airport": "2026-11-26T05:58:24.628946+00:00",
-    "ibuprofen recalled nationwide": "2026-11-26T06:08:35.789831+00:00"
+    "ibuprofen recalled nationwide": "2026-11-26T06:08:35.789831+00:00",
+    "teaneck shooting": "2026-11-26T06:28:55.865815+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-26",
-  "pushed_today": 13,
-  "last_run": "2026-11-26T06:18:41.430188+00:00",
+  "pushed_today": 14,
+  "last_run": "2026-11-26T06:28:56.866652+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
