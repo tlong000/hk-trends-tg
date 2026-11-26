@@ -208,12 +208,15 @@
     "de'anthony melton": "2026-11-26T07:10:09.267118+00:00",
     "michael giles and andy taylor": "2026-11-26T16:45:07.376018+00:00",
     "feliz dia de accion de gracias": "2026-11-26T16:45:18.290769+00:00",
-    "cvs": "2026-11-26T16:45:27.408499+00:00"
+    "cvs": "2026-11-26T16:45:27.408499+00:00",
+    "savannah guthrie": "2026-11-26T16:55:51.493076+00:00",
+    "tornado warning": "2026-11-26T16:55:59.945096+00:00",
+    "college football today": "2026-11-26T16:56:18.152270+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-26",
-  "pushed_today": 22,
-  "last_run": "2026-11-26T16:45:28.409299+00:00",
+  "pushed_today": 25,
+  "last_run": "2026-11-26T16:56:19.153108+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
