@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "freddy peralta": "2026-11-24T16:58:30.768493+00:00",
     "vaibhav suryavanshi": "2026-11-24T17:08:51.105140+00:00",
     "galatasaray vs aston villa": "2026-11-24T17:29:14.786488+00:00",
     "galatasaray - aston villa": "2026-11-24T17:39:52.012703+00:00",
@@ -211,12 +210,14 @@
     "cvs": "2026-11-26T16:45:27.408499+00:00",
     "savannah guthrie": "2026-11-26T16:55:51.493076+00:00",
     "tornado warning": "2026-11-26T16:55:59.945096+00:00",
-    "college football today": "2026-11-26T16:56:18.152270+00:00"
+    "college football today": "2026-11-26T16:56:18.152270+00:00",
+    "green bay packers statement martha ford": "2026-11-26T17:06:33.230045+00:00",
+    "public": "2026-11-26T17:06:49.680775+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-26",
-  "pushed_today": 25,
-  "last_run": "2026-11-26T16:56:19.153108+00:00",
+  "pushed_today": 27,
+  "last_run": "2026-11-26T17:06:50.681522+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
