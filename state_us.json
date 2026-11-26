@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "galatasaray vs aston villa": "2026-11-24T17:29:14.786488+00:00",
     "galatasaray - aston villa": "2026-11-24T17:39:52.012703+00:00",
     "ryan mccombs": "2026-11-24T17:50:25.069791+00:00",
     "lead detonation": "2026-11-24T18:00:47.733667+00:00",
@@ -212,12 +211,14 @@
     "college football today": "2026-11-26T16:56:18.152270+00:00",
     "green bay packers statement martha ford": "2026-11-26T17:06:33.230045+00:00",
     "public": "2026-11-26T17:06:49.680775+00:00",
-    "tornado warning virginia beach": "2026-11-26T17:27:06.400272+00:00"
+    "tornado warning virginia beach": "2026-11-26T17:27:06.400272+00:00",
+    "nba games today": "2026-11-26T17:37:19.826377+00:00",
+    "cbs": "2026-11-26T17:37:23.748888+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-26",
-  "pushed_today": 28,
-  "last_run": "2026-11-26T17:27:07.401010+00:00",
+  "pushed_today": 30,
+  "last_run": "2026-11-26T17:37:24.749633+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
