@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "who won miss universe 2026": "2026-11-25T04:36:41.095984+00:00",
-    "dancing with the stars tour": "2026-11-25T04:36:49.922418+00:00",
-    "aaron rodgers": "2026-11-25T04:36:58.456511+00:00",
     "quien gano el miss universo 2026": "2026-11-25T04:47:09.923124+00:00",
     "houston dynamo vs san jose": "2026-11-25T04:47:19.122491+00:00",
     "alabama basketball": "2026-11-25T04:47:34.376681+00:00",
@@ -236,12 +233,14 @@
     "kansas city chiefs vs buffalo bills match player stats": "2026-11-27T03:59:18.559700+00:00",
     "diana award": "2026-11-27T03:59:30.119572+00:00",
     "robert de niro": "2026-11-27T04:09:42.703456+00:00",
-    "apple black friday deals": "2026-11-27T04:29:54.506736+00:00"
+    "apple black friday deals": "2026-11-27T04:29:54.506736+00:00",
+    "harrison butker": "2026-11-27T04:40:15.272574+00:00",
+    "nfl tomorrow": "2026-11-27T04:40:24.476335+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-26",
-  "pushed_today": 128,
-  "last_run": "2026-11-27T04:29:55.507524+00:00",
+  "pushed_today": 130,
+  "last_run": "2026-11-27T04:40:25.477181+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
