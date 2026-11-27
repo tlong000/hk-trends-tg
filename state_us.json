@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "bobcat": "2026-11-25T23:48:48.427683+00:00",
-    "bulls vs hornets": "2026-11-25T23:48:56.757457+00:00",
-    "dog show thanksgiving": "2026-11-25T23:49:03.176448+00:00",
     "steven universe voice actor": "2026-11-25T23:59:37.974577+00:00",
     "texas a&m basketball": "2026-11-25T23:59:46.037844+00:00",
     "chiefs vs bills": "2026-11-25T23:59:52.451062+00:00",
@@ -244,12 +241,13 @@
     "rangers vs blackhawks": "2026-11-27T23:21:44.973193+00:00",
     "roman wilson": "2026-11-27T23:21:49.205824+00:00",
     "heat vs knicks": "2026-11-27T23:32:01.866009+00:00",
-    "steelers nfl standings": "2026-11-27T23:32:05.224739+00:00"
+    "steelers nfl standings": "2026-11-27T23:32:05.224739+00:00",
+    "minnesota vs wisconsin": "2026-11-27T23:52:31.692537+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-27",
-  "pushed_today": 74,
-  "last_run": "2026-11-27T23:42:09.800014+00:00",
+  "pushed_today": 75,
+  "last_run": "2026-11-27T23:52:32.693448+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
