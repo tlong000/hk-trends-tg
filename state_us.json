@@ -235,12 +235,13 @@
     "rashee rice": "2026-11-27T05:11:00.502739+00:00",
     "bills": "2026-11-27T05:31:29.158496+00:00",
     "afc standings": "2026-11-27T05:31:41.293286+00:00",
-    "gonzaga basketball": "2026-11-27T05:41:56.151377+00:00"
+    "gonzaga basketball": "2026-11-27T05:41:56.151377+00:00",
+    "kuwait attack today": "2026-11-27T05:52:07.474626+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-27",
-  "pushed_today": 6,
-  "last_run": "2026-11-27T05:41:57.152247+00:00",
+  "pushed_today": 7,
+  "last_run": "2026-11-27T05:52:08.475482+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
