@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "nvidia share price sell off": "2026-11-25T13:41:57.158930+00:00",
     "sabah vs barcelona": "2026-11-25T19:08:08.882225+00:00",
     "slavia praha vs villarreal": "2026-11-25T19:08:14.982054+00:00",
     "barcelona": "2026-11-25T19:08:19.594764+00:00",
@@ -231,7 +230,7 @@
   "paused": false,
   "pushed_date": "2026-11-27",
   "pushed_today": 14,
-  "last_run": "2026-11-27T13:41:24.934852+00:00",
+  "last_run": "2026-11-27T13:51:30.186680+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
