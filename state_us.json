@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "umbc vs iowa": "2026-11-25T02:20:01.601348+00:00",
     "parent": "2026-11-25T02:30:26.173626+00:00",
     "college football rankings": "2026-11-25T02:30:36.820250+00:00",
     "texas tech basketball": "2026-11-25T02:30:47.900109+00:00",
@@ -234,12 +233,15 @@
     "philadelphia eagles vs dallas cowboys match player stats": "2026-11-27T02:02:12.761564+00:00",
     "nfl standings cowboys": "2026-11-27T02:12:35.250787+00:00",
     "nfl standings eagles": "2026-11-27T02:12:41.997752+00:00",
-    "nick sirianni": "2026-11-27T02:12:49.677415+00:00"
+    "nick sirianni": "2026-11-27T02:12:49.677415+00:00",
+    "devonta smith": "2026-11-27T02:23:13.872796+00:00",
+    "walmart black friday 2026": "2026-11-27T02:23:20.475459+00:00",
+    "the one piece": "2026-11-27T02:23:34.420877+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-26",
-  "pushed_today": 99,
-  "last_run": "2026-11-27T02:12:50.678330+00:00",
+  "pushed_today": 102,
+  "last_run": "2026-11-27T02:23:35.421925+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
