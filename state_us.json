@@ -1,8 +1,5 @@
 {
   "pushed": {
-    "parent": "2026-11-25T02:30:26.173626+00:00",
-    "college football rankings": "2026-11-25T02:30:36.820250+00:00",
-    "texas tech basketball": "2026-11-25T02:30:47.900109+00:00",
     "mavericks vs nuggets": "2026-11-25T02:41:07.999358+00:00",
     "louisville vs texas tech": "2026-11-25T02:41:16.067777+00:00",
     "orlando magic": "2026-11-25T02:41:24.001015+00:00",
@@ -236,12 +233,15 @@
     "nick sirianni": "2026-11-27T02:12:49.677415+00:00",
     "devonta smith": "2026-11-27T02:23:13.872796+00:00",
     "walmart black friday 2026": "2026-11-27T02:23:20.475459+00:00",
-    "the one piece": "2026-11-27T02:23:34.420877+00:00"
+    "the one piece": "2026-11-27T02:23:34.420877+00:00",
+    "jerry jones": "2026-11-27T02:33:48.648624+00:00",
+    "travis kelce": "2026-11-27T02:33:55.082382+00:00",
+    "buffalo bills stadium": "2026-11-27T02:34:03.808027+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-26",
-  "pushed_today": 102,
-  "last_run": "2026-11-27T02:23:35.421925+00:00",
+  "pushed_today": 105,
+  "last_run": "2026-11-27T02:34:04.808920+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
