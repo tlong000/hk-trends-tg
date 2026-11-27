@@ -228,12 +228,13 @@
     "are banks closed on black friday": "2026-11-27T13:41:23.933855+00:00",
     "amazon": "2026-11-27T14:11:48.916567+00:00",
     "playstation 5": "2026-11-27T14:22:00.606104+00:00",
-    "nfl games yesterday": "2026-11-27T14:22:14.488681+00:00"
+    "nfl games yesterday": "2026-11-27T14:22:14.488681+00:00",
+    "pga tour": "2026-11-27T14:42:35.847647+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-27",
-  "pushed_today": 17,
-  "last_run": "2026-11-27T14:32:20.908224+00:00",
+  "pushed_today": 18,
+  "last_run": "2026-11-27T14:42:36.848490+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
