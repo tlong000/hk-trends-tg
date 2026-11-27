@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "nebraska vs wisconsin volleyball": "2026-11-25T23:28:30.053358+00:00",
     "bobcat": "2026-11-25T23:48:48.427683+00:00",
     "bulls vs hornets": "2026-11-25T23:48:56.757457+00:00",
     "dog show thanksgiving": "2026-11-25T23:49:03.176448+00:00",
@@ -243,12 +242,14 @@
     "brock purdy": "2026-11-27T23:11:30.195294+00:00",
     "storm": "2026-11-27T23:11:36.219533+00:00",
     "rangers vs blackhawks": "2026-11-27T23:21:44.973193+00:00",
-    "roman wilson": "2026-11-27T23:21:49.205824+00:00"
+    "roman wilson": "2026-11-27T23:21:49.205824+00:00",
+    "heat vs knicks": "2026-11-27T23:32:01.866009+00:00",
+    "steelers nfl standings": "2026-11-27T23:32:05.224739+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-27",
-  "pushed_today": 72,
-  "last_run": "2026-11-27T23:21:50.206607+00:00",
+  "pushed_today": 74,
+  "last_run": "2026-11-27T23:32:06.225532+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
