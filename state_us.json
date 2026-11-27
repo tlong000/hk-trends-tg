@@ -1,17 +1,5 @@
 {
   "pushed": {
-    "thanksgiving 2026": "2026-11-25T08:14:59.260114+00:00",
-    "flood watch": "2026-11-25T08:15:12.364261+00:00",
-    "alabama vs baylor": "2026-11-25T08:15:22.559529+00:00",
-    "día de acción de gracias": "2026-11-25T08:25:31.654195+00:00",
-    "coach": "2026-11-25T08:25:52.226016+00:00",
-    "royal caribbean cruise man overboard": "2026-11-25T08:25:58.535140+00:00",
-    "san jose earthquakes": "2026-11-25T08:36:13.479889+00:00",
-    "us treasury": "2026-11-25T08:36:23.208145+00:00",
-    "kansas state vs gonzaga": "2026-11-25T09:27:11.763043+00:00",
-    "radar": "2026-11-25T10:58:02.174274+00:00",
-    "winter weather advisory": "2026-11-25T11:28:46.106937+00:00",
-    "clima": "2026-11-25T11:49:11.930914+00:00",
     "stock market futures": "2026-11-25T12:09:41.128212+00:00",
     "winter storm warning": "2026-11-25T12:50:05.052951+00:00",
     "mega millions": "2026-11-25T13:00:27.724364+00:00",
@@ -240,12 +228,13 @@
     "justin timberlake": "2026-11-27T06:02:17.535443+00:00",
     "butker": "2026-11-27T06:12:32.764396+00:00",
     "national dog show kennel club": "2026-11-27T06:42:53.088857+00:00",
-    "what time does lowe's open on black friday": "2026-11-27T06:43:01.275588+00:00"
+    "what time does lowe's open on black friday": "2026-11-27T06:43:01.275588+00:00",
+    "iran attacks kuwait": "2026-11-27T11:59:52.686549+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-27",
-  "pushed_today": 11,
-  "last_run": "2026-11-27T07:03:09.385127+00:00",
+  "pushed_today": 12,
+  "last_run": "2026-11-27T11:59:53.687514+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
