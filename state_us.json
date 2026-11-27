@@ -1,6 +1,5 @@
 {
   "pushed": {
-    "winter storm warning": "2026-11-25T12:50:05.052951+00:00",
     "mega millions": "2026-11-25T13:00:27.724364+00:00",
     "nfl schedule": "2026-11-25T13:31:17.581312+00:00",
     "stock futures today": "2026-11-25T13:31:40.915489+00:00",
@@ -233,7 +232,7 @@
   "paused": false,
   "pushed_date": "2026-11-27",
   "pushed_today": 12,
-  "last_run": "2026-11-27T12:40:20.015292+00:00",
+  "last_run": "2026-11-27T12:50:25.377956+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
