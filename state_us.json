@@ -246,12 +246,14 @@
     "west virginia vs unc": "2026-11-28T00:55:15.818100+00:00",
     "nets vs raptors": "2026-11-28T00:55:23.745601+00:00",
     "kings vs ducks": "2026-11-28T00:55:28.397170+00:00",
-    "fluminense vs cruzeiro": "2026-11-28T01:05:52.678993+00:00"
+    "fluminense vs cruzeiro": "2026-11-28T01:05:52.678993+00:00",
+    "nottingham forest vs chelsea f.c. standings": "2026-11-28T01:16:03.472553+00:00",
+    "grizzlies vs timberwolves": "2026-11-28T01:16:26.311034+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-27",
-  "pushed_today": 89,
-  "last_run": "2026-11-28T01:05:53.679724+00:00",
+  "pushed_today": 91,
+  "last_run": "2026-11-28T01:16:27.311823+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
