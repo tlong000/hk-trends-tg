@@ -249,12 +249,15 @@
     "fluminense vs cruzeiro": "2026-11-28T01:05:52.678993+00:00",
     "nottingham forest vs chelsea f.c. standings": "2026-11-28T01:16:03.472553+00:00",
     "grizzlies vs timberwolves": "2026-11-28T01:16:26.311034+00:00",
-    "new christmas movies 2026": "2026-11-28T01:26:37.091514+00:00"
+    "new christmas movies 2026": "2026-11-28T01:26:37.091514+00:00",
+    "usa vs el salvador": "2026-11-28T01:36:57.762864+00:00",
+    "west virginia vs utah": "2026-11-28T01:37:06.773443+00:00",
+    "penguins vs sabres": "2026-11-28T01:37:10.881638+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-27",
-  "pushed_today": 92,
-  "last_run": "2026-11-28T01:26:38.092297+00:00",
+  "pushed_today": 95,
+  "last_run": "2026-11-28T01:37:11.882496+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
