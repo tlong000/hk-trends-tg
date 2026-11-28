@@ -255,12 +255,13 @@
     "penguins vs sabres": "2026-11-28T01:37:10.881638+00:00",
     "felix okpara": "2026-11-28T01:47:22.438808+00:00",
     "warriors vs trail blazers": "2026-11-28T02:07:46.992439+00:00",
-    "mavericks vs suns": "2026-11-28T02:07:52.569674+00:00"
+    "mavericks vs suns": "2026-11-28T02:07:52.569674+00:00",
+    "alderwood mall": "2026-11-28T02:28:12.072220+00:00"
   },
   "paused": false,
   "pushed_date": "2026-11-27",
-  "pushed_today": 98,
-  "last_run": "2026-11-28T02:17:56.943295+00:00",
+  "pushed_today": 99,
+  "last_run": "2026-11-28T02:28:13.073063+00:00",
   "last_result": "ok",
   "tg_offset": 241829771
 }
